@@ -1,0 +1,159 @@
+﻿<div class="pagetop">
+	<div id="noticias">
+			<h1><a href="pages/noticias.php">Notícias</a></h1>
+				<p class="inews">30/05/2012<br /><a class="inews" href="pages/news/webconferencia-3-simposio-internacional-sobre-drogas.php">3 Simpósio internacional sobre drogas - Como acessar ao vivo pela internet </a></p>	
+				<p class="inews">20/12/2011<br /><a class="inews" href="pages/news/inscricoes-abertas-curso-prevencao-em-pauta.php">Inscrições abertas para curso Prevenção em Pauta.</a></p>					
+				<p class="inews">11/11/2011<br /><a class="inews" href="pages/news/apresentacoes-do-curso-intervencoes-para-tabagismo-disponiveis-para-download.php">Apresentações do curso Intervenções para Tabagismo disponibilizadas para download.</a></p>				
+							  				 
+	</div>
+
+    <div id="rightpagetop">
+        <div id="sshow">
+            <ul id="slideshow">
+								
+				<li>
+                <h3></h3>
+                <span>pix/photos/curso-prevencao-em-pauta.jpg</span>
+                <p></p>
+                <a href="pages/news/inscricoes-abertas-curso-prevencao-em-pauta.php" target="_blank"><img src="pix/thumbnails/curso-prevencao-em-pauta.jpg" alt="Curso Prevenção em Pauta" /></a>
+            </li>				
+				
+				<li>
+                <h3>Apresentações disponíveis para download</h3>
+                <span>pix/photos/seminario-intervencoes-tabagismo.jpg</span> 
+                <p>Faça o download das apresentações do curso de intervenções para tabagismo.</p>
+                <a href="pages/news/apresentacoes-do-curso-intervencoes-para-tabagismo-disponiveis-para-download.php"><img src="pix/thumbnails/seminario-intervencoes-tabagismo.jpg" alt="Curso gratuito intervenções com tabagistas"/></a>
+            </li>		    		
+	    		
+	    		
+	    		<li>
+                <h3>Curso de bioestatística</h3>
+                <span>pix/photos/material-gratuito-curso-bioestatistica.png</span> 
+                <p>Material do curso ministrado por estatístico da Kansas University.</p>
+                <a href="pages/news/material-gratuito-curso-bioestatistica.php"><img src="pix/thumbnails/material-gratuito-curso-bioestatistica.png" alt="Curso de bioestatística"/></a>
+      		</li>		
+
+			
+				             
+				<li>
+                <h3>Capacitações em Cataguases</h3>
+                <span>pix/photos/capacitacao-cataguases.jpg</span> 
+                <p>Cerca de 250 profissionais serão capacitados paralelamente aos cursos do CRR-jf.</p>
+                <a href="pages/news/capacitacao-cataguases.php"><img src="pix/thumbnails/capacitacao-cataguases.jpg" alt="Capacitação no Município de Cataguases" /></a>
+            </li>            
+                 
+            <li>
+                <h3>3 Simpósio internacional sobre drogas</h3>
+                <span>pix/photos/simposio-internacional-sobre-drogas.png</span>
+                <p>Saiba como acessar a participar ao vivo do evento através da internet.</p>
+                <a href="pages/news/webconferencia-3-simposio-internacional-sobre-drogas.php"><img src="pix/thumbnails/simposio-internacional-sobre-drogas.png" alt="3 Simpósio sobre drogas"/></a>
+            </li>
+            
+            
+            </ul>
+        <div id="wrapper">
+            <div id="fullsize">
+                <div id="imgprev" class="imgnav" title="Previous Image"></div>
+                <div id="imglink"></div>
+                <div id="imgnext" class="imgnav" title="Next Image"></div>
+                <div id="image"></div>
+                <div id="information">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+            <div id="thumbnails">
+                <div id="slideleft" title="Slide Left"></div>
+                <div id="slidearea">
+                    <div id="slider"></div>
+                </div>
+                <div id="slideright" title="Slide Right"></div>
+            </div>
+            </div>
+        </div><!-- end. sshow -->
+        <script type="text/javascript">
+            $('slideshow').style.display='none';
+            $('wrapper').style.display='block';
+            var slideshow=new TINY.slideshow("slideshow");
+            window.onload=function(){
+                slideshow.auto=true;
+                slideshow.speed=5;
+                slideshow.link="linkhover";
+                slideshow.info="information";
+                slideshow.thumbs="slider";
+                slideshow.left="slideleft";
+                slideshow.right="slideright";
+                slideshow.scrollSpeed=4;
+                slideshow.spacing=5;
+                slideshow.active="#fff";
+                slideshow.init("slideshow","image","imgprev","imgnext","imglink");
+            }
+        </script>
+
+      </div>
+        
+
+	</div><!-- end pagetop-->    
+
+<div id="texto">
+	     
+        
+    <div class="pagemiddle">
+        <div id="intro">         
+			<h1><a href="pages/quemsomos.php">Apresentação</a></h1>
+			<p>O CRR-JF é um centro vinculado à Universidade Federal de Juiz de Fora que tem como objetivos qualificar e fortalecer ações  da rede de  atenção  a usuários de crack, álcool e outras drogas. A metodologia de trabalho é principalmente baseada na Formação Permanente de profissionais da Rede SUS e SUAS bem como no fortalecimento de políticas regionais e locais na área de drogas. <a href="pages/quemsomos.php">Mais informações</a></p>
+              <div id="socialmedia">
+        			<?php include 'libraries/socialmedia.php' ?>
+           	  </div>
+        
+        </div>
+         
+        
+    </div>    
+	
+	<div id="pagebottom">
+    <h1><a href="pages/cursos.php">Cursos Disponíveis</a></h1>		
+    
+        <div id="curso1">
+        	<h3><a href="pages/cursos.php">Atenção Integral aos Usuários de Crack para Médicos da Atenção Básica</a></h3>
+            <p>Visa capacitar profissionais quanto as repercussões clínicas do uso de crack e outras drogas, abordagens psicossociais e rede assistencial para melhor atender aos usuários.</p>
+            <a href="#" class="button">
+				<span class="acesso">Acesso</span>
+			</a>
+        </div>        
+       
+        <div id="curso2">
+        	<h3><a href="pages/cursos.php">Aperfeiçoamento em Crack para Profissional em Hospital Geral</a></h3>
+            <p>Visa capacitar o profissional de saúde para realizar o atendimento de usuários de crack e outras drogas em hospital geral em casos de uso crônico, intoxicação aguda e abstinência.</p>
+             <a href="#" class="button">
+				<span class="acesso">Acesso</span>
+			</a>
+        </div>    
+        	
+        <div id="curso3">
+        	<h3><a href="pages/cursos.php">Reinserção Social de Usuários de Crack para Profissionais do SUS e SUAS</a></h3>
+            <p>Visa capacitar profissionais para desenvolverem estratégias de reinserção de usuários de drogas no contexto sóciocomunitário aprimorando o processo de recuperação.</p>
+             <a href="#" class="button">
+				<span class="acesso">Acesso</span>
+			</a>
+        </div>    
+        
+        <div id="curso4">
+            <h3><a href="pages/cursos.php">Aconselhamento e intervenções breves para Profissionais do SUS e SUAS</a></h3>
+            <p>Visa capacitar profissionais a realizar o atendimento ao usuário de drogas de acordo com as estratégias da Entrevista Motivacional e Intervenção Breve atuando na motivação para mudança.</p>
+             <a href="#" class="button">
+				<span class="acesso">Acesso</span>
+			</a>
+        </div>    
+	</div>
+    
+
+    <h4 class="grant1">Realização:</h4>
+    <h4 class="grant2">Financiamento:</h4>
+<div class="logos">    
+    <a href="http://www.ufjf.br/popss" target="_blank"><img class="footerlogos3" src="pix/images/logoPOPSS.jpg" alt="Pólo de Pesquisa em Psicologia Social e Saúde Coletiva" /></a>
+    <a href="http://www.ufjf.br" target="_blank"><img class="footerlogos2" src="pix/images/logoUFJF.jpg" alt="Universidade Federal de Juiz de Fora" /></a>
+    <a href="http://www.senad.gov.br" target="_blank"><img class="footerlogos1" src="pix/images/senad.gif" alt="Secretaria Nacional de Álcool e Outras Drogas" /></a>
+</div>    
+</div>
+

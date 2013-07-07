@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="720" height="540" start="play" slideTitleFormat="%n. %s" buildNum="7.0.7.7746">
+	<presentationTitle>Maconha</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Rhaisa Gontijo Soares</name>
+			<speakerTitle>Psicóloga</speakerTitle>
+			<image>spk10940.jpg</image>
+			<email>rhaisags@yahoo.com.br</email>
+		</speaker>
+		<speaker>
+			<name>André Luiz Carvalho Netto</name>
+			<speakerTitle>Psiquiatra</speakerTitle>
+		</speaker>
+	</speakers>
+	<backgrounds>
+		<background url="Master800000f4.swf"/>
+		<background url="Master800000db.swf"/>
+		<background url="Master800000f5.swf"/>
+	</backgrounds>
+	<search url="srchdata.xml"/>
+	<slides>
+		<slide id="360" frameRate="30" totalFrames="1161.8999999999998" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide1.swf"/>
+			<slideBackground index="0" frameToPlay="1" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Maconha e Alucinógenos</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="1"/>
+			<audios id="30" duration=" 38730">
+				<media url="a24x30x1.mp3" startMsecs="0" duration="38730" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="313" frameRate="30" totalFrames="459.6" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide2.swf"/>
+			<slideBackground index="1" frameToPlay="1" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>André Luiz Carvalho Netto Diretor Médico – Evolução Clínica e Consultoria Coordenador de Enfermaria – UDA Psiquiatria | HUPE – UERJ Psiquiatra – ONG Espaço Progredir</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="1"/>
+			<audios id="1" duration=" 15320">
+				<media url="a24x1x1.mp3" startMsecs="0" duration="15320" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="312" frameRate="30" totalFrames="1715.6999999999998" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide3.swf"/>
+			<slideBackground index="2" frameToPlay="1" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Introdução:</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="1"/>
+			<audios id="2" duration=" 57190">
+				<media url="a24x2x1.mp3" startMsecs="0" duration="57190" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="330" frameRate="30" totalFrames="417.9" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide4.swf"/>
+			<slideBackground index="1" frameToPlay="3" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Slide 4</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="1"/>
+			<audios id="3" duration=" 13930">
+				<media url="a24x3x1.mp3" startMsecs="0" duration="13930" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="323" frameRate="30" totalFrames="432.6" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide5.swf"/>
+			<slideBackground index="2" frameToPlay="3" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Mobilização da Sociedade Civil</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="1"/>
+			<audios id="4" duration=" 14420">
+				<media url="a24x4x1.mp3" startMsecs="0" duration="14420" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="314" frameRate="30" totalFrames="1143.3" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide6.swf"/>
+			<slideBackground index="2" frameToPlay="5" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Pontos-Chave: Maconha</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="1"/>
+			<audios id="5" duration=" 38110">
+				<media url="a24x5x1.mp3" startMsecs="0" duration="38110" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="343" frameRate="30" totalFrames="216.9" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide7.swf"/>
+			<slideBackground index="1" frameToPlay="5" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>THC: Princípio Ativo</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="1"/>
+			<audios id="6" duration=" 7230">
+				<media url="a24x6x1.mp3" startMsecs="0" duration="7230" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="337" frameRate="30" totalFrames="776.7" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide8.swf"/>
+			<slideBackground index="2" frameToPlay="7" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>A maconha leva ao uso de outras drogas?</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="1"/>
+			<audios id="7" duration=" 25890">
+				<media url="a24x7x1.mp3" startMsecs="0" duration="25890" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="344" frameRate="30" totalFrames="899.6999999999999" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide9.swf"/>
+			<slideBackground index="2" frameToPlay="9" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>A maconha leva ao uso de outras drogas?</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="1"/>
+			<audios id="8" duration=" 29990">
+				<media url="a24x8x1.mp3" startMsecs="0" duration="29990" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="341" frameRate="30" totalFrames="402" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide10.swf"/>
+			<slideBackground index="2" frameToPlay="11" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Slide 10</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="1"/>
+			<audios id="9" duration=" 13400">
+				<media url="a24x9x1.mp3" startMsecs="0" duration="13400" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="305" frameRate="30" totalFrames="1590.3" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide11.swf"/>
+			<slideBackground index="1" frameToPlay="7" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Slide 11</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="1"/>
+			<audios id="10" duration=" 53010">
+				<media url="a24x10x1.mp3" startMsecs="0" duration="53010" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="319" frameRate="30" totalFrames="807.6" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide12.swf"/>
+			<slideBackground index="1" frameToPlay="9" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Slide 12</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="1"/>
+			<audios id="11" duration=" 26920">
+				<media url="a24x11x1.mp3" startMsecs="0" duration="26920" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="308" frameRate="30" totalFrames="899.4" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide13.swf"/>
+			<slideBackground index="1" frameToPlay="11" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Comorbidades Psiquiátricas</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="1"/>
+			<audios id="12" duration=" 29980">
+				<media url="a24x12x1.mp3" startMsecs="0" duration="29980" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="315" frameRate="30" totalFrames="853.2" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide14.swf"/>
+			<slideBackground index="1" frameToPlay="13" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Comorbidades Psiquiátricas</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="1"/>
+			<audios id="13" duration=" 28440">
+				<media url="a24x13x1.mp3" startMsecs="0" duration="28440" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="328" frameRate="30" totalFrames="1159.8" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide15.swf"/>
+			<slideBackground index="2" frameToPlay="13" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>A Maconha no Brasil</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="1"/>
+			<audios id="14" duration=" 38660">
+				<media url="a24x14x1.mp3" startMsecs="0" duration="38660" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="339" frameRate="30" totalFrames="296.40000000000003" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide16.swf"/>
+			<slideBackground index="2" frameToPlay="15" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>A Maconha no Brasil Colonial</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+			<slideSpeaker index="1"/>
+			<audios id="15" duration=" 9880">
+				<media url="a24x15x1.mp3" startMsecs="0" duration="9880" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="338" frameRate="30" totalFrames="622.1999999999999" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide17.swf"/>
+			<slideBackground index="2" frameToPlay="17" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Maconha em todas as Classes Sociais</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+			<slideSpeaker index="1"/>
+			<audios id="16" duration=" 20740">
+				<media url="a24x16x1.mp3" startMsecs="0" duration="20740" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="310" frameRate="30" totalFrames="429" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide18.swf"/>
+			<slideBackground index="2" frameToPlay="19" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Preço da Maconha no Brasil</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+			<slideSpeaker index="1"/>
+			<audios id="17" duration=" 14300">
+				<media url="a24x17x1.mp3" startMsecs="0" duration="14300" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="317" frameRate="30" totalFrames="276.6" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide19.swf"/>
+			<slideBackground index="2" frameToPlay="21" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Incidência da Maconha</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+			<slideSpeaker index="1"/>
+			<audios id="18" duration=" 9220">
+				<media url="a24x18x1.mp3" startMsecs="0" duration="9220" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="316" frameRate="30" totalFrames="1051.8000000000001" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide20.swf"/>
+			<slideBackground index="2" frameToPlay="23" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Produção de Cocaína</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+			<slideSpeaker index="1"/>
+			<audios id="19" duration=" 35060">
+				<media url="a24x19x1.mp3" startMsecs="0" duration="35060" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="309" frameRate="30" totalFrames="602.1" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide21.swf"/>
+			<slideBackground index="2" frameToPlay="25" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Tráfico de Cocaína</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="21"/>
+			<slideSpeaker index="1"/>
+			<audios id="20" duration=" 20070">
+				<media url="a24x20x1.mp3" startMsecs="0" duration="20070" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="331" frameRate="30" totalFrames="2579.1" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide22.swf"/>
+			<slideBackground index="2" frameToPlay="27" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Farmacodinâmica e Cinética</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="22"/>
+			<slideSpeaker index="1"/>
+			<audios id="21" duration=" 85970">
+				<media url="a24x21x1.mp3" startMsecs="0" duration="85970" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="295" frameRate="30" totalFrames="822.3" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide23.swf"/>
+			<slideBackground index="2" frameToPlay="29" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Slide 23</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="23"/>
+			<slideSpeaker index="1"/>
+			<audios id="22" duration=" 27410">
+				<media url="a24x22x1.mp3" startMsecs="0" duration="27410" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="301" frameRate="30" totalFrames="827.7" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide24.swf"/>
+			<slideBackground index="2" frameToPlay="31" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Slide 24</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="24"/>
+			<slideSpeaker index="1"/>
+			<audios id="23" duration=" 27590">
+				<media url="a24x23x1.mp3" startMsecs="0" duration="27590" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="303" frameRate="30" totalFrames="1785.9" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide25.swf"/>
+			<slideBackground index="2" frameToPlay="33" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Slide 25</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="25"/>
+			<slideSpeaker index="1"/>
+			<audios id="24" duration=" 59530">
+				<media url="a24x24x1.mp3" startMsecs="0" duration="59530" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="353" frameRate="30" totalFrames="1296" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide26.swf"/>
+			<slideBackground index="2" frameToPlay="35" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Pontos-Chave: Alucinógenos</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="26"/>
+			<slideSpeaker index="1"/>
+			<audios id="25" duration=" 43200">
+				<media url="a24x25x1.mp3" startMsecs="0" duration="43200" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="354" frameRate="30" totalFrames="1211.7" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide27.swf"/>
+			<slideBackground index="2" frameToPlay="37" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>O que é uma Alucinação?</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="27"/>
+			<slideSpeaker index="1"/>
+			<audios id="26" duration=" 40390">
+				<media url="a24x26x1.mp3" startMsecs="0" duration="40390" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="359" frameRate="30" totalFrames="316.8" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide28.swf"/>
+			<slideBackground index="1" frameToPlay="15" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Slide 28</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="28"/>
+			<slideSpeaker index="1"/>
+			<audios id="27" duration=" 10560">
+				<media url="a24x27x1.mp3" startMsecs="0" duration="10560" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="357" frameRate="30" totalFrames="379.5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide29.swf"/>
+			<slideBackground index="1" frameToPlay="17" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Slide 29</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="29"/>
+			<slideSpeaker index="1"/>
+			<audios id="28" duration=" 12650">
+				<media url="a24x28x1.mp3" startMsecs="0" duration="12650" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="355" frameRate="30" totalFrames="530.7" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide30.swf"/>
+			<slideBackground index="1" frameToPlay="19" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Slide 30</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="30"/>
+			<slideSpeaker index="1"/>
+			<audios id="29" duration=" 17690">
+				<media url="a24x29x1.mp3" startMsecs="0" duration="17690" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="361" frameRate="30" totalFrames="225" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide31.swf"/>
+			<slideBackground index="1" frameToPlay="21" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Obrigado!</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="31"/>
+			<slideSpeaker index="1"/>
+			<audios id="31" duration=" 7500">
+				<media url="a24x31x1.mp3" startMsecs="0" duration="7500" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+	</slides>
+	<attachments></attachments>
+</presentation>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="720" height="540" start="play" buildNum="7.0.0.7328">
+	<presentationTitle>AMIB_aula01</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Isabel Weiss</name>
+			<speakerTitle>Psicóloga</speakerTitle>
+			<image>spk10974.jpg</image>
+		</speaker>
+	</speakers>
+	<backgrounds>
+		<background url="Master80000000.swf"/>
+	</backgrounds>
+	<search url="srchdata.xml"/>
+	<slides>
+		<slide id="256" frameRate="30" totalFrames="225.6" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide1.swf"/>
+			<slideBackground index="0" frameToPlay="1" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Introdução ao Aconselhamento Motivacional</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="0"/>
+			<audios id="1" duration=" 7520">
+				<media url="a24x1x2.mp3" startMsecs="10" duration="7480" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="257" frameRate="30" totalFrames="1088.4" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide2.swf"/>
+			<slideBackground index="0" frameToPlay="3" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Introdução ao Aconselhamento Motivacional</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="0"/>
+			<audios id="2" duration=" 36280">
+				<media url="a24x2x1.mp3" startMsecs="0" duration="36280" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="260" frameRate="30" totalFrames="3228.6000000000003" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide3.swf"/>
+			<slideBackground index="0" frameToPlay="5" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Introdução ao AM</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="0"/>
+			<audios id="3" duration=" 107620">
+				<media url="a24x3x1.mp3" startMsecs="0" duration="107620" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="258" frameRate="30" totalFrames="4575.6" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide4.swf"/>
+			<slideBackground index="0" frameToPlay="7" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Introdução ao AM</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="0"/>
+			<audios id="4" duration=" 152520">
+				<media url="a24x4x1.mp3" startMsecs="0" duration="152520" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="263" frameRate="30" totalFrames="3696.9" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide5.swf"/>
+			<slideBackground index="0" frameToPlay="9" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Introdução ao AM</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="0"/>
+			<audios id="5" duration=" 123230">
+				<media url="a24x5x1.mp3" startMsecs="0" duration="123230" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="264" frameRate="30" totalFrames="2162.1" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide6.swf"/>
+			<slideBackground index="0" frameToPlay="11" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Introdução ao AM</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="0"/>
+			<audios id="6" duration=" 72070">
+				<media url="a24x6x1.mp3" startMsecs="0" duration="72070" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="266" frameRate="30" totalFrames="2423.4" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide7.swf"/>
+			<slideBackground index="0" frameToPlay="13" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Empatia</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="0"/>
+			<audios id="7" duration=" 80780">
+				<media url="a24x7x1.mp3" startMsecs="0" duration="80780" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="259" frameRate="30" totalFrames="2927.1" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide8.swf"/>
+			<slideBackground index="0" frameToPlay="15" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Autenticidade</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="0"/>
+			<audios id="8" duration=" 97570">
+				<media url="a24x8x1.mp3" startMsecs="0" duration="97570" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="267" frameRate="30" totalFrames="1959" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide9.swf"/>
+			<slideBackground index="0" frameToPlay="17" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Afeto não possessivo</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="0"/>
+			<audios id="9" duration=" 65300">
+				<media url="a24x9x1.mp3" startMsecs="0" duration="65300" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="272" frameRate="30" totalFrames="2756.3999999999996" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide10.swf"/>
+			<slideBackground index="0" frameToPlay="19" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Lidando com a resistência e ambivalência</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="0"/>
+			<audios id="10" duration=" 91880">
+				<media url="a24x10x1.mp3" startMsecs="0" duration="91880" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="273" frameRate="30" totalFrames="1590.3" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide11.swf"/>
+			<slideBackground index="0" frameToPlay="21" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Lidando com a resistência e ambivalência</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="0"/>
+			<audios id="11" duration=" 53010">
+				<media url="a24x11x1.mp3" startMsecs="0" duration="53010" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="275" frameRate="30" totalFrames="1335.6000000000001" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide12.swf"/>
+			<slideBackground index="0" frameToPlay="23" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Lidando com a resistência e ambivalência</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="0"/>
+			<audios id="12" duration=" 44520">
+				<media url="a24x12x1.mp3" startMsecs="0" duration="44520" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="276" frameRate="30" totalFrames="1851.6" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide13.swf"/>
+			<slideBackground index="0" frameToPlay="25" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle></slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="0"/>
+			<audios id="13" duration=" 61720">
+				<media url="a24x13x1.mp3" startMsecs="0" duration="61720" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="277" frameRate="30" totalFrames="6517.5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide14.swf"/>
+			<slideBackground index="0" frameToPlay="27" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="2743" end="2760"/>
+				<clickAnimation start="6516" end="6517"/>
+			</clickAnimations>
+			<slideTitle></slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="0"/>
+			<audios id="14" duration=" 217250">
+				<media url="a24x14x1.mp3" startMsecs="0" duration="217250" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="293" frameRate="30" totalFrames="659.6999999999999" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide15.swf"/>
+			<slideBackground index="0" frameToPlay="29" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle></slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="0"/>
+			<audios id="15" duration=" 21990">
+				<media url="a24x15x1.mp3" startMsecs="0" duration="21990" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+	</slides>
+	<attachments></attachments>
+</presentation>

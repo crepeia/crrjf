@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="720" height="540" defaultSlideDuration="5" start="play" buildNum="7.0.7.7746">
+	<presentationTitle>Tópicos especiais no manejo e abordagem de usuários de crack e outras drogas no hospital geral</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>André Luiz Carvalho Netto</name>
+			<speakerTitle>Psiquiatra</speakerTitle>
+		</speaker>
+		<speaker>
+			<name>Carolina Costa</name>
+			<speakerTitle>Psiquiatra</speakerTitle>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/></layout></layouts>
+	<slides>
+		<slide id="368" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="38.73" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide0.swf" id="368"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="22" duration=" 38730">
+				<media url="a24x22x1.mp3" startMsecs="0" duration="38730" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Tópicos especiais no manejo e abordagem de usuários de Crack e outras drogas no Hospital Geral</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="256" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="16.64" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide1.swf" id="256"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="21" duration=" 16640">
+				<media url="a24x21x1.mp3" startMsecs="0" duration="16640" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Carolina Costa Médica do CAPS-AD Centra-Rio Especialização em dependência química e interconsulta psiquiátrica</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="363" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="23.78" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide2.swf" id="363"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="2" duration=" 23780">
+				<media url="a24x2x1.mp3" startMsecs="0" duration="23780" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Tópicos Especiais</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="262" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="60.09" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide3.swf" id="262"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="3" duration=" 60090">
+				<media url="a24x3x1.mp3" startMsecs="0" duration="60090" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Manejo Clínico</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="265" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="61.01" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide4.swf" id="265"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="4" duration=" 61010">
+				<media url="a24x4x1.mp3" startMsecs="0" duration="61010" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Manejo Clínico</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="352" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="41.9" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide5.swf" id="352"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="5" duration=" 41900">
+				<media url="a24x5x1.mp3" startMsecs="0" duration="41900" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Manejo Clínico</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="358" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="47.54" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide6.swf" id="358"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="6" duration=" 47540">
+				<media url="a24x6x1.mp3" startMsecs="0" duration="110" startAtMSecs="0"/>
+				<media url="a24x6x2.mp3" startMsecs="110" duration="20480" startAtMSecs="0"/>
+				<media url="a24x6x3.mp3" startMsecs="20590" duration="26950" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Alcances do gerenciamento do caso e reinserção social</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="366" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="52.72" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide7.swf" id="366"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="7" duration=" 52720">
+				<media url="a24x7x1.mp3" startMsecs="0" duration="34590" startAtMSecs="0"/>
+				<media url="a24x7x2.mp3" startMsecs="34590" duration="17920" startAtMSecs="0"/>
+				<media url="a24x7x3.mp3" startMsecs="52510" duration="210" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Sensibilização Motivacional</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="360" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="72.65" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide8.swf" id="360"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="8" duration=" 72650">
+				<media url="a24x8x1.mp3" startMsecs="0" duration="110" startAtMSecs="0"/>
+				<media url="a24x8x2.mp3" startMsecs="110" duration="72540" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Sensibilização Motivacional</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="361" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="103.8" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide9.swf" id="361"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="9" duration=" 103800">
+				<media url="a24x9x1.mp3" startMsecs="0" duration="103800" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Sensibilização Motivacional</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="353" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="39.12" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide10.swf" id="353"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="10" duration=" 39120">
+				<media url="a24x10x1.mp3" startMsecs="0" duration="13190" startAtMSecs="0"/>
+				<media url="a24x10x2.mp3" startMsecs="13190" duration="17740" startAtMSecs="0"/>
+				<media url="a24x10x3.mp3" startMsecs="30930" duration="8190" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Equipe de Enfermagem</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="354" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="44.29" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide11.swf" id="354"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="11" duration=" 44290">
+				<media url="a24x11x1.mp3" startMsecs="0" duration="31190" startAtMSecs="0"/>
+				<media url="a24x11x2.mp3" startMsecs="31190" duration="13100" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Equipe de Enfermagem</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="359" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="98.22" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide12.swf" id="359"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="12" duration=" 98220">
+				<media url="a24x12x1.mp3" startMsecs="0" duration="5150" startAtMSecs="0"/>
+				<media url="a24x12x2.mp3" startMsecs="5150" duration="93070" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>O paciente dependente de cocaína/crack</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="341" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="41.17" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide13.swf" id="341"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="13" duration=" 41170">
+				<media url="a24x13x1.mp3" startMsecs="0" duration="130" startAtMSecs="0"/>
+				<media url="a24x13x2.mp3" startMsecs="130" duration="41040" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>O paciente dependente de cocaína/crack</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="338" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="32.44" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide14.swf" id="338"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="14" duration=" 32440">
+				<media url="a24x14x1.mp3" startMsecs="0" duration="32440" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>O paciente hostil e agitado</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="270" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="38.83" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide15.swf" id="270"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="15" duration=" 38830">
+				<media url="a24x15x1.mp3" startMsecs="0" duration="38830" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>O paciente hostil e agitado</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="271" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="38.76" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide16.swf" id="271"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="16" duration=" 38760">
+				<media url="a24x16x1.mp3" startMsecs="0" duration="38760" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>O paciente hostil e agitado</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="272" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="44.85" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide17.swf" id="272"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="17" duration=" 44850">
+				<media url="a24x17x1.mp3" startMsecs="0" duration="44850" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>O paciente hostil e agitado</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="274" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="47.57" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide18.swf" id="274"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="18" duration=" 47570">
+				<media url="a24x18x1.mp3" startMsecs="0" duration="47570" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>O paciente suicida</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="276" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="36.05" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide19.swf" id="276"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="19" duration=" 36050">
+				<media url="a24x19x1.mp3" startMsecs="0" duration="36050" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>O paciente psicótico</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="277" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="20.83" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide20.swf" id="277"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="20" duration=" 20830">
+				<media url="a24x20x1.mp3" startMsecs="0" duration="20830" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Critérios de Alta</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="21"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="334" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide21.swf" id="334"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>Bibliografia:</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="22"/>
+			<slideSpeaker index="1"/>
+		</slide>
+		<slide id="369" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="7.19" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide22.swf" id="369"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="23" duration=" 7190">
+				<media url="a24x23x1.mp3" startMsecs="0" duration="7190" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Obrigada!</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="23"/>
+			<slideSpeaker index="1"/>
+		</slide>
+	</slides>
+	<attachments></attachments>
+</presentation>

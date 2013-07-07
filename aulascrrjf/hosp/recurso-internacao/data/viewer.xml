@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="720" height="540" start="play" buildNum="7.0.7.7746">
+	<presentationTitle>O recurso da internação</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Marcio Moreno Barbeito</name>
+			<speakerTitle>Psiquiatra</speakerTitle>
+			<image>spk10296.jpg</image>
+		</speaker>
+	</speakers>
+	<backgrounds>
+		<background url="Master80000067.swf"/>
+		<background url="Master8000004e.swf"/>
+		<background url="Master80000068.swf"/>
+	</backgrounds>
+	<search url="srchdata.xml"/>
+	<slides>
+		<slide id="409" frameRate="30" totalFrames="1161.8999999999998" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide1.swf"/>
+			<slideBackground index="0" frameToPlay="1" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>O recurso da internação no cuidado ao consumo problemático de álcool e outras drogas</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="0"/>
+			<audios id="25" duration=" 38730">
+				<media url="a24x25x1.mp3" startMsecs="0" duration="38730" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="387" frameRate="30" totalFrames="691.1999999999999" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide2.swf"/>
+			<slideBackground index="1" frameToPlay="1" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Marcio Moreno Barbeito Psiquiatra, Colaborador do Projad-IPUB-UFRJ e Diretor do Caps ad Centra-Rio SES-Rio de Janeiro</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="0"/>
+			<audios id="1" duration=" 23040">
+				<media url="a24x1x1.mp3" startMsecs="0" duration="23040" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="394" frameRate="30" totalFrames="1637.3999999999998" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide3.swf"/>
+			<slideBackground index="2" frameToPlay="1" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>A Sociedade e seus DISCURSOS sobre as drogas ...</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="0"/>
+			<audios id="2" duration=" 54580">
+				<media url="a24x2x1.mp3" startMsecs="0" duration="54580" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="395" frameRate="30" totalFrames="2303.1" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide4.swf"/>
+			<slideBackground index="2" frameToPlay="3" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>O debate social sobre as drogas</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="0"/>
+			<audios id="3" duration=" 76770">
+				<media url="a24x3x1.mp3" startMsecs="0" duration="76770" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="294" frameRate="30" totalFrames="2925.6" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide5.swf"/>
+			<slideBackground index="2" frameToPlay="5" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Modelos tradicionais de abordagem terapêutica</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="0"/>
+			<audios id="4" duration=" 97520">
+				<media url="a24x4x1.mp3" startMsecs="0" duration="97520" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="370" frameRate="30" totalFrames="1463.4" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide6.swf"/>
+			<slideBackground index="2" frameToPlay="7" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>A SOCIEDADE e seus DISCURSOS sobre as DROGAS internação</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="0"/>
+			<audios id="5" duration=" 48780">
+				<media url="a24x5x1.mp3" startMsecs="0" duration="48780" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="399" frameRate="30" totalFrames="2133.6000000000003" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide7.swf"/>
+			<slideBackground index="2" frameToPlay="9" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Mas afinal, o que é internação?</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="0"/>
+			<audios id="6" duration=" 71120">
+				<media url="a24x6x1.mp3" startMsecs="0" duration="71120" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="371" frameRate="30" totalFrames="4197" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide8.swf"/>
+			<slideBackground index="2" frameToPlay="11" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Quais são as modalidades de internação?</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="0"/>
+			<audios id="7" duration=" 139900">
+				<media url="a24x7x1.mp3" startMsecs="0" duration="139900" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="378" frameRate="30" totalFrames="2023.7999999999997" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide9.swf"/>
+			<slideBackground index="2" frameToPlay="13" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>INTERNAÇÃO - Uma para “todos” X uma para “Cada Um”</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="0"/>
+			<audios id="8" duration=" 67460">
+				<media url="a24x8x1.mp3" startMsecs="0" duration="67460" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="366" frameRate="30" totalFrames="3174" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide10.swf"/>
+			<slideBackground index="2" frameToPlay="15" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>O problema da internação “Prêt-à-Porter”</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="0"/>
+			<audios id="9" duration=" 105800">
+				<media url="a24x9x1.mp3" startMsecs="0" duration="105800" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="377" frameRate="30" totalFrames="2317.8" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide11.swf"/>
+			<slideBackground index="2" frameToPlay="17" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>A proposta da internação customizada</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="0"/>
+			<audios id="10" duration=" 77260">
+				<media url="a24x10x1.mp3" startMsecs="0" duration="77260" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="382" frameRate="30" totalFrames="4277.099999999999" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide12.swf"/>
+			<slideBackground index="2" frameToPlay="19" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Uso de Álcool e Drogas e ambiente de tratamento Que fatores devem pesar numa avaliação*?</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="0"/>
+			<audios id="11" duration=" 142570">
+				<media url="a24x11x1.mp3" startMsecs="0" duration="142570" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="390" frameRate="30" totalFrames="2933.4" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide13.swf"/>
+			<slideBackground index="2" frameToPlay="21" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>USO de ÁLCOOL e DROGAS, INFÂNCIA e ADOLESCÊNCIA - Quais fatores devem ser considerados?</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="0"/>
+			<audios id="12" duration=" 97780">
+				<media url="a24x12x1.mp3" startMsecs="0" duration="97780" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="374" frameRate="30" totalFrames="4540.2" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide14.swf"/>
+			<slideBackground index="2" frameToPlay="23" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Quais as causas mais comuns que motivam as decisões sobre internação* ?</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="0"/>
+			<audios id="13" duration=" 151340">
+				<media url="a24x13x1.mp3" startMsecs="0" duration="151340" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="379" frameRate="30" totalFrames="1820.4" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide15.swf"/>
+			<slideBackground index="2" frameToPlay="25" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Quais seriam os locais e suas características?</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="0"/>
+			<audios id="14" duration=" 60680">
+				<media url="a24x14x1.mp3" startMsecs="0" duration="60680" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="380" frameRate="30" totalFrames="1073.1000000000001" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide16.swf"/>
+			<slideBackground index="2" frameToPlay="27" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Quais seriam os locais e suas características?</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+			<slideSpeaker index="0"/>
+			<audios id="15" duration=" 35770">
+				<media url="a24x15x1.mp3" startMsecs="0" duration="35770" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="392" frameRate="30" totalFrames="1795.2" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide17.swf"/>
+			<slideBackground index="2" frameToPlay="29" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Quais seriam os locais e suas características?</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+			<slideSpeaker index="0"/>
+			<audios id="16" duration=" 59840">
+				<media url="a24x16x1.mp3" startMsecs="0" duration="59840" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="372" frameRate="30" totalFrames="3834" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide18.swf"/>
+			<slideBackground index="2" frameToPlay="31" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Internação: o que seria o desenho ideal</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+			<slideSpeaker index="0"/>
+			<audios id="17" duration=" 127800">
+				<media url="a24x17x1.mp3" startMsecs="0" duration="127800" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="364" frameRate="30" totalFrames="3951.3" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide19.swf"/>
+			<slideBackground index="2" frameToPlay="33" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Internações x tratamentos ambulatoriais</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+			<slideSpeaker index="0"/>
+			<audios id="18" duration=" 131710">
+				<media url="a24x18x1.mp3" startMsecs="0" duration="131710" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="376" frameRate="30" totalFrames="772.5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide20.swf"/>
+			<slideBackground index="2" frameToPlay="35" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Questões que não podemos ignorar:</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+			<slideSpeaker index="0"/>
+			<audios id="19" duration=" 25750">
+				<media url="a24x19x1.mp3" startMsecs="0" duration="25750" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="400" frameRate="30" totalFrames="3081" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide21.swf"/>
+			<slideBackground index="2" frameToPlay="37" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Desafio para os Equipamentos</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="21"/>
+			<slideSpeaker index="0"/>
+			<audios id="20" duration=" 102700">
+				<media url="a24x20x1.mp3" startMsecs="0" duration="102700" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="403" frameRate="30" totalFrames="1419.8999999999998" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide22.swf"/>
+			<slideBackground index="2" frameToPlay="39" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Proposta de abordagem aos usuários de drogas</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="22"/>
+			<slideSpeaker index="0"/>
+			<audios id="21" duration=" 47330">
+				<media url="a24x21x1.mp3" startMsecs="0" duration="47330" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="408" frameRate="30" totalFrames="2541.2999999999997" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide23.swf"/>
+			<slideBackground index="2" frameToPlay="41" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Propostas para o manejo dos usuários de drogas</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="23"/>
+			<slideSpeaker index="0"/>
+			<audios id="22" duration=" 84710">
+				<media url="a24x22x1.mp3" startMsecs="0" duration="84710" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="367" frameRate="30" totalFrames="2378.7000000000003" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide24.swf"/>
+			<slideBackground index="2" frameToPlay="43" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Questões que não podemos ignorar: As Realidades de cada Local ou Contexto</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="24"/>
+			<slideSpeaker index="0"/>
+			<audios id="23" duration=" 79290">
+				<media url="a24x23x1.mp3" startMsecs="0" duration="79290" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="333" frameRate="30" totalFrames="223.8" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide25.swf"/>
+			<slideBackground index="1" frameToPlay="3" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>marciombarbeito@gmail.com tel: (21) 2513-4747 capsad.centrario@saude.rj.gov.br tel: (21) 2334-8107 (08)</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="25"/>
+			<slideSpeaker index="0"/>
+			<audios id="24" duration=" 7460">
+				<media url="a24x24x1.mp3" startMsecs="0" duration="7450" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+	</slides>
+	<attachments></attachments>
+</presentation>

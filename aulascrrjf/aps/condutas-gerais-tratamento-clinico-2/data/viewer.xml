@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="720" height="540" start="play" buildNum="7.0.7.7746">
+	<presentationTitle>Condutas gerais e tratamento clínico e medicamentoso Parte II</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>André Luiz Carvalho Netto</name>
+			<speakerTitle>Psiquiatra</speakerTitle>
+		</speaker>
+	</speakers>
+	<backgrounds>
+		<background url="Master80000159.swf"/>
+		<background url="Master8000015a.swf"/>
+		<background url="Master80000140.swf"/>
+	</backgrounds>
+	<search url="srchdata.xml"/>
+	<slides>
+		<slide id="509" frameRate="30" totalFrames="1161.8999999999998" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide1.swf"/>
+			<slideBackground index="0" frameToPlay="1" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Condutas gerais e tratamento clínico e medicamentoso de intoxicação, uso abusivo e abstinência de álcool, cocaína e crack Parte II</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="0"/>
+			<audios id="44" duration=" 38730">
+				<media url="a24x44x1.mp3" startMsecs="0" duration="38730" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="385" frameRate="30" totalFrames="691.1999999999999" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide2.swf"/>
+			<slideBackground index="1" frameToPlay="1" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>A cocaína na emergência</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="0"/>
+			<audios id="1" duration=" 23040">
+				<media url="a24x1x1.mp3" startMsecs="0" duration="23040" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="353" frameRate="30" totalFrames="725.1" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide3.swf"/>
+			<slideBackground index="1" frameToPlay="3" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Vias de administração da cocaína</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="0"/>
+			<audios id="2" duration=" 24170">
+				<media url="a24x2x1.mp3" startMsecs="0" duration="24170" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="354" frameRate="30" totalFrames="939.3" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide4.swf"/>
+			<slideBackground index="1" frameToPlay="5" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Vias de administração</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="0"/>
+			<audios id="3" duration=" 31310">
+				<media url="a24x3x1.mp3" startMsecs="0" duration="31310" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="462" frameRate="30" totalFrames="971.4000000000001" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide5.swf"/>
+			<slideBackground index="1" frameToPlay="7" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Sistema de recompensa</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="0"/>
+			<audios id="5" duration=" 32380">
+				<media url="a24x5x1.mp3" startMsecs="0" duration="32380" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="465" frameRate="30" totalFrames="1111.2" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide6.swf"/>
+			<slideBackground index="1" frameToPlay="9" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Sistema de recompensa</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="0"/>
+			<audios id="6" duration=" 37040">
+				<media url="a24x6x1.mp3" startMsecs="0" duration="37040" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="466" frameRate="30" totalFrames="975" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide7.swf"/>
+			<slideBackground index="1" frameToPlay="11" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Sistema de recompensa – Córtex frontal</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="0"/>
+			<audios id="7" duration=" 32500">
+				<media url="a24x7x1.mp3" startMsecs="0" duration="32500" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="409" frameRate="30" totalFrames="395.1" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide8.swf"/>
+			<slideBackground index="1" frameToPlay="13" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Mecanismo de ação - cocaína</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="0"/>
+			<audios id="8" duration=" 13170">
+				<media url="a24x8x1.mp3" startMsecs="0" duration="13170" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="411" frameRate="30" totalFrames="285.3" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide9.swf"/>
+			<slideBackground index="1" frameToPlay="15" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Mecanismo de ação - cocaína</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="0"/>
+			<audios id="9" duration=" 9510">
+				<media url="a24x9x1.mp3" startMsecs="0" duration="9510" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="473" frameRate="30" totalFrames="703.2" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide10.swf"/>
+			<slideBackground index="1" frameToPlay="17" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Neuroadaptações</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="0"/>
+			<audios id="10" duration=" 23440">
+				<media url="a24x10x1.mp3" startMsecs="0" duration="23440" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="475" frameRate="30" totalFrames="609.9" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide11.swf"/>
+			<slideBackground index="1" frameToPlay="19" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Neuroadaptações</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="0"/>
+			<audios id="11" duration=" 20330">
+				<media url="a24x11x1.mp3" startMsecs="0" duration="20330" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="361" frameRate="30" totalFrames="936.5999999999999" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide12.swf"/>
+			<slideBackground index="2" frameToPlay="1" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Intoxicação por cocaína</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="0"/>
+			<audios id="12" duration=" 31220">
+				<media url="a24x12x1.mp3" startMsecs="0" duration="31220" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="362" frameRate="30" totalFrames="464.40000000000003" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide13.swf"/>
+			<slideBackground index="1" frameToPlay="21" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Intoxicação por cocaína</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="0"/>
+			<audios id="13" duration=" 15480">
+				<media url="a24x13x1.mp3" startMsecs="0" duration="15480" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="471" frameRate="30" totalFrames="663.3" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide14.swf"/>
+			<slideBackground index="1" frameToPlay="23" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Álcool e cocaína</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="0"/>
+			<audios id="14" duration=" 22110">
+				<media url="a24x14x1.mp3" startMsecs="0" duration="22110" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="414" frameRate="30" totalFrames="282.6" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide15.swf"/>
+			<slideBackground index="2" frameToPlay="3" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Complicações relacionadas ao uso de cocaína não relacionadas à via de administração</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="0"/>
+			<audios id="15" duration=" 9420">
+				<media url="a24x15x1.mp3" startMsecs="0" duration="9420" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="393" frameRate="30" totalFrames="871.1999999999999" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide16.swf"/>
+			<slideBackground index="1" frameToPlay="25" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Sistema cardiovascular</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+			<slideSpeaker index="0"/>
+			<audios id="16" duration=" 29040">
+				<media url="a24x16x1.mp3" startMsecs="0" duration="29040" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="394" frameRate="30" totalFrames="234.29999999999998" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide17.swf"/>
+			<slideBackground index="1" frameToPlay="27" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Ação da cocaína sobre o aparelho cardiovascular</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+			<slideSpeaker index="0"/>
+			<audios id="17" duration=" 7810">
+				<media url="a24x17x1.mp3" startMsecs="0" duration="7810" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="395" frameRate="30" totalFrames="1116.3" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide18.swf"/>
+			<slideBackground index="1" frameToPlay="29" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Sistema nervoso central</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+			<slideSpeaker index="0"/>
+			<audios id="18" duration=" 37210">
+				<media url="a24x18x1.mp3" startMsecs="0" duration="37210" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="517" frameRate="30" totalFrames="784.5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide19.swf"/>
+			<slideBackground index="1" frameToPlay="31" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Sistema nervoso central</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+			<slideSpeaker index="0"/>
+			<audios id="19" duration=" 26150">
+				<media url="a24x19x1.mp3" startMsecs="0" duration="26150" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="510" frameRate="30" totalFrames="883.5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide20.swf"/>
+			<slideBackground index="1" frameToPlay="33" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Aparelho respiratório</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+			<slideSpeaker index="0"/>
+			<audios id="20" duration=" 29450">
+				<media url="a24x20x1.mp3" startMsecs="0" duration="29450" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="512" frameRate="30" totalFrames="394.8" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide21.swf"/>
+			<slideBackground index="1" frameToPlay="35" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Pulmão de crack</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="21"/>
+			<slideSpeaker index="0"/>
+			<audios id="21" duration=" 13160">
+				<media url="a24x21x1.mp3" startMsecs="0" duration="13160" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="514" frameRate="30" totalFrames="867.9" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide22.swf"/>
+			<slideBackground index="1" frameToPlay="37" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Alterações cognitivas do crack</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="22"/>
+			<slideSpeaker index="0"/>
+			<audios id="22" duration=" 28930">
+				<media url="a24x22x1.mp3" startMsecs="0" duration="28930" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="515" frameRate="30" totalFrames="883.2" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide23.swf"/>
+			<slideBackground index="1" frameToPlay="39" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Alterações cognitivas do crack</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="23"/>
+			<slideSpeaker index="0"/>
+			<audios id="23" duration=" 29440">
+				<media url="a24x23x1.mp3" startMsecs="0" duration="29440" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="480" frameRate="30" totalFrames="750.6" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide24.swf"/>
+			<slideBackground index="1" frameToPlay="41" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Doenças sexualmente transmissíveis</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="24"/>
+			<slideSpeaker index="0"/>
+			<audios id="24" duration=" 25020">
+				<media url="a24x24x1.mp3" startMsecs="0" duration="25020" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="398" frameRate="30" totalFrames="873.9" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide25.swf"/>
+			<slideBackground index="2" frameToPlay="5" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Complicações relacionadas à via de administração</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="25"/>
+			<slideSpeaker index="0"/>
+			<audios id="25" duration=" 29130">
+				<media url="a24x25x1.mp3" startMsecs="0" duration="29130" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="399" frameRate="30" totalFrames="801.5999999999999" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide26.swf"/>
+			<slideBackground index="1" frameToPlay="43" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Complicações relacionadas à via de administração</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="26"/>
+			<slideSpeaker index="0"/>
+			<audios id="26" duration=" 26720">
+				<media url="a24x26x1.mp3" startMsecs="0" duration="26720" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="400" frameRate="30" totalFrames="587.4" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide27.swf"/>
+			<slideBackground index="1" frameToPlay="45" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Complicações da cocaína na gravidez</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="27"/>
+			<slideSpeaker index="0"/>
+			<audios id="27" duration=" 19580">
+				<media url="a24x27x1.mp3" startMsecs="0" duration="19580" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="516" frameRate="30" totalFrames="966.8999999999999" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide28.swf"/>
+			<slideBackground index="1" frameToPlay="47" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Complicações da cocaína na gravidez</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="28"/>
+			<slideSpeaker index="0"/>
+			<audios id="28" duration=" 32230">
+				<media url="a24x28x1.mp3" startMsecs="0" duration="32230" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="401" frameRate="30" totalFrames="269.1" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide29.swf"/>
+			<slideBackground index="1" frameToPlay="49" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Complicações psiquiátricas agudas</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="29"/>
+			<slideSpeaker index="0"/>
+			<audios id="29" duration=" 8970">
+				<media url="a24x29x1.mp3" startMsecs="0" duration="8970" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="372" frameRate="30" totalFrames="1116.6" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide30.swf"/>
+			<slideBackground index="1" frameToPlay="51" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Complicações psiquiátricas agudas</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="30"/>
+			<slideSpeaker index="0"/>
+			<audios id="30" duration=" 37220">
+				<media url="a24x30x1.mp3" startMsecs="0" duration="37220" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="402" frameRate="30" totalFrames="900.6" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide31.swf"/>
+			<slideBackground index="1" frameToPlay="53" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Complicações psiquiátricas agudas</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="31"/>
+			<slideSpeaker index="0"/>
+			<audios id="31" duration=" 30020">
+				<media url="a24x31x1.mp3" startMsecs="0" duration="30020" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="403" frameRate="30" totalFrames="306.3" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide32.swf"/>
+			<slideBackground index="1" frameToPlay="55" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Complicações psiquiátricas agudas - tratamento</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="32"/>
+			<slideSpeaker index="0"/>
+			<audios id="32" duration=" 10210">
+				<media url="a24x32x1.mp3" startMsecs="0" duration="10210" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="370" frameRate="30" totalFrames="828.6" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide33.swf"/>
+			<slideBackground index="1" frameToPlay="57" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Tratamento proposto</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="33"/>
+			<slideSpeaker index="0"/>
+			<audios id="33" duration=" 27620">
+				<media url="a24x33x1.mp3" startMsecs="0" duration="27620" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="373" frameRate="30" totalFrames="672.6" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide34.swf"/>
+			<slideBackground index="1" frameToPlay="59" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Complicações psiquiátricas agudas - tratamento</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="34"/>
+			<slideSpeaker index="0"/>
+			<audios id="34" duration=" 22420">
+				<media url="a24x34x1.mp3" startMsecs="0" duration="22420" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="416" frameRate="30" inSequence="false" totalFrames="1005" advance="auto" blockMovement="false" type="normal" showInTOC="false">
+			<content url="Slide35.swf"/>
+			<slideBackground index="1" frameToPlay="61" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Overdose</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="35"/>
+			<slideSpeaker index="0"/>
+			<audios id="35" duration=" 33500">
+				<media url="a24x35x1.mp3" startMsecs="0" duration="33500" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="382" frameRate="30" totalFrames="290.7" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide36.swf"/>
+			<slideBackground index="1" frameToPlay="63" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Tratamento da abstinência de cocaína</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="36"/>
+			<slideSpeaker index="0"/>
+			<audios id="37" duration=" 9690">
+				<media url="a24x37x1.mp3" startMsecs="0" duration="9690" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="478" frameRate="30" totalFrames="1258.1999999999998" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide37.swf"/>
+			<slideBackground index="1" frameToPlay="65" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Dependência de cocaína</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="37"/>
+			<slideSpeaker index="0"/>
+			<audios id="38" duration=" 41940">
+				<media url="a24x38x1.mp3" startMsecs="0" duration="41940" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="383" frameRate="30" totalFrames="909.9" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide38.swf"/>
+			<slideBackground index="1" frameToPlay="67" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Tratamento medicamentoso da dependência de cocaína</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="38"/>
+			<slideSpeaker index="0"/>
+			<audios id="39" duration=" 30330">
+				<media url="a24x39x1.mp3" startMsecs="0" duration="30330" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="379" frameRate="30" totalFrames="719.0999999999999" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide39.swf"/>
+			<slideBackground index="1" frameToPlay="69" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Outras estratégias</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="39"/>
+			<slideSpeaker index="0"/>
+			<audios id="40" duration=" 23970">
+				<media url="a24x40x1.mp3" startMsecs="0" duration="23970" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="518" frameRate="30" totalFrames="446.09999999999996" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide40.swf"/>
+			<slideBackground index="1" frameToPlay="71" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Treinamento de habilidades sociais</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="40"/>
+			<slideSpeaker index="0"/>
+			<audios id="41" duration=" 14870">
+				<media url="a24x41x1.mp3" startMsecs="0" duration="14870" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="519" frameRate="30" totalFrames="807.3" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide41.swf"/>
+			<slideBackground index="1" frameToPlay="73" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Treinamento de habilidades sociais</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="41"/>
+			<slideSpeaker index="0"/>
+			<audios id="42" duration=" 26910">
+				<media url="a24x42x1.mp3" startMsecs="0" duration="26910" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="270" frameRate="30" totalFrames="516.9" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide42.swf"/>
+			<slideBackground index="1" frameToPlay="75" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Questionamentos para todos os casos</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="42"/>
+			<slideSpeaker index="0"/>
+			<audios id="43" duration=" 17230">
+				<media url="a24x43x1.mp3" startMsecs="0" duration="17230" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="324" frameRate="30" totalFrames="150" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide43.swf"/>
+			<slideBackground index="1" frameToPlay="77" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Bibliografia principal</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="43"/>
+			<slideSpeaker index="0"/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="497" frameRate="30" totalFrames="150" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide44.swf"/>
+			<slideBackground index="2" frameToPlay="7" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>revargens@uol.com.br (21)9217-3817</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="44"/>
+			<slideSpeaker index="0"/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+		</slide>
+	</slides>
+	<attachments></attachments>
+</presentation>

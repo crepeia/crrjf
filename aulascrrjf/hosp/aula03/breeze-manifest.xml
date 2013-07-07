@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<breeze-manifest version="1.0">
+	<document type="slide-presentation" icon="presentation" duration="708.1500000000001" section-count="20"/>
+	<assets>
+		<asset type="document-view">
+			<entry href="viewer.swf" width="720" height="540"/>
+			
+<file href="ata"/>
+<file href="reeze-manifest.xml"/>
+<file href="iewer.swf"/>
+<file href="s2-wrapper.swf"/>
+<file href="iewer-lite.swf"/>
+<file href="omponents.swf"/>
+<file href="oadflash.js"/>
+
+           this must match previsely; the C++ code looks for this pattern 
+        </asset>
+		<asset type="document-metadata" location="file">
+			<file href="data/srchdata.xml"/>
+		</asset>
+	</assets>
+</breeze-manifest>

@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="720" height="540" defaultSlideDuration="5" start="play" buildNum="7.0.7.7746">
+	<presentationTitle>Entrevista Motivacional e Estágios de Mudança</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Víviam Vargas de Barros</name>
+			<speakerTitle>Psicóloga</speakerTitle>
+			<image>spk10123.jpg</image>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/></layout><layout url="Layout3.swf" id="4" totalFrames="1"><backdrop displayBgSp="true"/></layout><layout url="Layout4.swf" id="5" totalFrames="1"><backdrop displayBgSp="true"/></layout></layouts>
+	<slides>
+		<slide id="257" showInTOC="" inSequence="" frameRate="30" totalFrames="23" swfConvertorEngine="Nova" slideDuration="39.254" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide0.swf" id="257"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<clickAnimations>
+				<click startTime="38720" isStartRelative="false" duration="534"/>
+			</clickAnimations>
+			<flvContents/>
+			<audios id="20" duration=" 38730">
+				<media url="a24x20x1.mp3" startMsecs="0" duration="38730" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Entrevista Motivacional e Estágios de Mudança</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="284" showInTOC="" inSequence="" frameRate="30" totalFrames="23" swfConvertorEngine="Nova" slideDuration="13.78" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide1.swf" id="284"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<clickAnimations>
+				<click startTime="400" isStartRelative="false" duration="534"/>
+			</clickAnimations>
+			<flvContents/>
+			<audios id="1" duration=" 13780">
+				<media url="a24x1x1.mp3" startMsecs="0" duration="13780" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Víviam Vargas de Barros – Psicóloga| Mestranda em Psicologia</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="258" showInTOC="" inSequence="" frameRate="30" totalFrames="23" swfConvertorEngine="Nova" slideDuration="98.07" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide2.swf" id="258"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations>
+				<click startTime="4700" isStartRelative="false" duration="534"/>
+			</clickAnimations>
+			<flvContents/>
+			<audios id="2" duration=" 98070">
+				<media url="a24x2x1.mp3" startMsecs="0" duration="98070" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>A Roda da Mudança</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="259" showInTOC="" inSequence="" frameRate="30" totalFrames="125" swfConvertorEngine="Nova" slideDuration="79.7" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide3.swf" id="259"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations>
+				<click startTime="1100" isStartRelative="false" duration="534"/>
+				<click startTime="3500" isStartRelative="false" duration="534"/>
+				<click startTime="11100" isStartRelative="false" duration="534"/>
+				<click startTime="24700" isStartRelative="false" duration="534"/>
+				<click startTime="29600" isStartRelative="false" duration="534"/>
+				<click startTime="41000" isStartRelative="false" duration="534"/>
+				<click startTime="59100" isStartRelative="false" duration="534"/>
+			</clickAnimations>
+			<flvContents/>
+			<audios id="3" duration=" 79700">
+				<media url="a24x3x1.mp3" startMsecs="0" duration="79700" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>O que fazer em cada estágio?</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="262" showInTOC="" inSequence="" frameRate="30" totalFrames="108" swfConvertorEngine="Nova" slideDuration="75.29" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide4.swf" id="262"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<clickAnimations>
+				<click startTime="500" isStartRelative="false" duration="534"/>
+				<click startTime="12800" isStartRelative="false" duration="534"/>
+				<click startTime="24100" isStartRelative="false" duration="534"/>
+				<click startTime="42100" isStartRelative="false" duration="534"/>
+				<click startTime="55000" isStartRelative="false" duration="534"/>
+				<click startTime="69700" isStartRelative="false" duration="534"/>
+			</clickAnimations>
+			<flvContents/>
+			<audios id="4" duration=" 75290">
+				<media url="a24x4x1.mp3" startMsecs="0" duration="75290" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>O que fazer em cada estágio?</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="261" showInTOC="" inSequence="" frameRate="30" totalFrames="74" swfConvertorEngine="Nova" slideDuration="38.56" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide5.swf" id="261"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations>
+				<click startTime="900" isStartRelative="false" duration="534"/>
+				<click startTime="6600" isStartRelative="false" duration="534"/>
+				<click startTime="15600" isStartRelative="false" duration="534"/>
+				<click startTime="22100" isStartRelative="false" duration="534"/>
+			</clickAnimations>
+			<flvContents/>
+			<audios id="5" duration=" 38560">
+				<media url="a24x5x1.mp3" startMsecs="0" duration="38560" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>O que fazer em cada estágio?</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="263" showInTOC="" inSequence="" frameRate="30" totalFrames="108" swfConvertorEngine="Nova" slideDuration="59.35" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide6.swf" id="263"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations>
+				<click startTime="900" isStartRelative="false" duration="534"/>
+				<click startTime="4200" isStartRelative="false" duration="534"/>
+				<click startTime="9800" isStartRelative="false" duration="534"/>
+				<click startTime="20600" isStartRelative="false" duration="534"/>
+				<click startTime="33700" isStartRelative="false" duration="534"/>
+				<click startTime="36200" isStartRelative="false" duration="534"/>
+			</clickAnimations>
+			<flvContents/>
+			<audios id="6" duration=" 59350">
+				<media url="a24x6x1.mp3" startMsecs="0" duration="59350" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>O que fazer em cada estágio?</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="264" showInTOC="" inSequence="" frameRate="30" totalFrames="57" swfConvertorEngine="Nova" slideDuration="25.26" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide7.swf" id="264"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations>
+				<click startTime="300" isStartRelative="false" duration="534"/>
+				<click startTime="4400" isStartRelative="false" duration="534"/>
+				<click startTime="11400" isStartRelative="false" duration="534"/>
+			</clickAnimations>
+			<flvContents/>
+			<audios id="7" duration=" 25260">
+				<media url="a24x7x1.mp3" startMsecs="0" duration="25260" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>O que fazer em cada estágio?</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="265" showInTOC="" inSequence="" frameRate="30" totalFrames="57" swfConvertorEngine="Nova" slideDuration="30.92" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide8.swf" id="265"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations>
+				<click startTime="600" isStartRelative="false" duration="534"/>
+				<click startTime="7700" isStartRelative="false" duration="534"/>
+				<click startTime="17400" isStartRelative="false" duration="534"/>
+			</clickAnimations>
+			<flvContents/>
+			<audios id="8" duration=" 30920">
+				<media url="a24x8x1.mp3" startMsecs="0" duration="30920" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>O que fazer em cada estágio? Recaída</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="266" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="139.7" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide9.swf" id="266"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="9" duration=" 139700">
+				<media url="a24x9x1.mp3" startMsecs="0" duration="139700" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Abordagens Motivacionais Eficazes</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="267" showInTOC="" inSequence="" frameRate="30" totalFrames="40" swfConvertorEngine="Nova" slideDuration="27.18" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide10.swf" id="267"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<clickAnimations>
+				<click startTime="1100" isStartRelative="false" duration="534"/>
+				<click startTime="5000" isStartRelative="false" duration="534"/>
+			</clickAnimations>
+			<flvContents/>
+			<audios id="10" duration=" 27180">
+				<media url="a24x10x1.mp3" startMsecs="0" duration="27180" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Entrevista Motivacional</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="268" showInTOC="" inSequence="" frameRate="30" totalFrames="23" swfConvertorEngine="Nova" slideDuration="10.57" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide11.swf" id="268"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations>
+				<click startTime="600" isStartRelative="false" duration="534"/>
+			</clickAnimations>
+			<flvContents/>
+			<audios id="11" duration=" 10570">
+				<media url="a24x11x1.mp3" startMsecs="0" duration="10570" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Entrevista Motivacional</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="269" showInTOC="" inSequence="" frameRate="30" totalFrames="40" swfConvertorEngine="Nova" slideDuration="37.38" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide12.swf" id="269"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations>
+				<click startTime="1600" isStartRelative="false" duration="534"/>
+				<click startTime="21200" isStartRelative="false" duration="534"/>
+			</clickAnimations>
+			<flvContents/>
+			<audios id="12" duration=" 37380">
+				<media url="a24x12x1.mp3" startMsecs="0" duration="37380" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Entrevista Motivacional</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="270" showInTOC="" inSequence="" frameRate="30" totalFrames="91" swfConvertorEngine="Nova" slideDuration="64.58" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide13.swf" id="270"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations>
+				<click startTime="1200" isStartRelative="false" duration="534"/>
+				<click startTime="2900" isStartRelative="false" duration="534"/>
+				<click startTime="3600" isStartRelative="false" duration="534"/>
+				<click startTime="4500" isStartRelative="false" duration="534"/>
+				<click startTime="5400" isStartRelative="false" duration="534"/>
+			</clickAnimations>
+			<flvContents/>
+			<audios id="13" duration=" 64580">
+				<media url="a24x13x1.mp3" startMsecs="0" duration="64580" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Princípios da EM</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="271" showInTOC="" inSequence="" frameRate="30" totalFrames="108" swfConvertorEngine="Nova" slideDuration="154.37" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide14.swf" id="271"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations>
+				<click startTime="1700" isStartRelative="false" duration="534"/>
+				<click startTime="8200" isStartRelative="false" duration="534"/>
+				<click startTime="43600" isStartRelative="false" duration="534"/>
+				<click startTime="74300" isStartRelative="false" duration="534"/>
+				<click startTime="111200" isStartRelative="false" duration="534"/>
+				<click startTime="133600" isStartRelative="false" duration="534"/>
+			</clickAnimations>
+			<flvContents/>
+			<audios id="14" duration=" 154370">
+				<media url="a24x14x1.mp3" startMsecs="0" duration="154370" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>FASE 1 da EM Estimular a Motivação para a Mudança</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="272" showInTOC="" inSequence="" frameRate="30" totalFrames="91" swfConvertorEngine="Nova" slideDuration="44.18" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide15.swf" id="272"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations>
+				<click startTime="1300" isStartRelative="false" duration="534"/>
+				<click startTime="5400" isStartRelative="false" duration="534"/>
+				<click startTime="12900" isStartRelative="false" duration="534"/>
+				<click startTime="23600" isStartRelative="false" duration="534"/>
+				<click startTime="36300" isStartRelative="false" duration="534"/>
+			</clickAnimations>
+			<flvContents/>
+			<audios id="15" duration=" 44180">
+				<media url="a24x15x1.mp3" startMsecs="0" duration="44180" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Cinco Estratégias Iniciais</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="273" showInTOC="" inSequence="" frameRate="30" totalFrames="142" swfConvertorEngine="Nova" slideDuration="29.872" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide16.swf" id="273"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations>
+				<click startTime="1000" isStartRelative="false" duration="534"/>
+				<click startTime="2200" isStartRelative="false" duration="534"/>
+				<click startTime="3100" isStartRelative="false" duration="534"/>
+				<click startTime="9000" isStartRelative="false" duration="534"/>
+				<click startTime="10100" isStartRelative="false" duration="534"/>
+				<click startTime="12400" isStartRelative="false" duration="534"/>
+				<click startTime="13300" isStartRelative="false" duration="534"/>
+				<click startTime="25600" isStartRelative="false" duration="534"/>
+			</clickAnimations>
+			<flvContents/>
+			<audios id="16" duration=" 27110">
+				<media url="a24x16x1.mp3" startMsecs="0" duration="27110" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Afirmações automotivacionais</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="274" showInTOC="" inSequence="" frameRate="30" totalFrames="125" swfConvertorEngine="Nova" slideDuration="86.82" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide17.swf" id="274"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations>
+				<click startTime="1000" isStartRelative="false" duration="534"/>
+				<click startTime="10500" isStartRelative="false" duration="534"/>
+				<click startTime="14400" isStartRelative="false" duration="534"/>
+				<click startTime="24700" isStartRelative="false" duration="534"/>
+				<click startTime="37800" isStartRelative="false" duration="534"/>
+				<click startTime="53700" isStartRelative="false" duration="534"/>
+				<click startTime="57000" isStartRelative="false" duration="534"/>
+			</clickAnimations>
+			<flvContents/>
+			<audios id="17" duration=" 86820">
+				<media url="a24x17x1.mp3" startMsecs="0" duration="86820" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Como eliciar afirmações automotivacionais?</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="281" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="87.28" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide18.swf" id="281"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="18" duration=" 87280">
+				<media url="a24x18x1.mp3" startMsecs="0" duration="87280" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>A EM na manutenção da mudança</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="282" showInTOC="" inSequence="" frameRate="30" totalFrames="23" swfConvertorEngine="Nova" slideDuration="88.02" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide19.swf" id="282"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations>
+				<click startTime="500" isStartRelative="false" duration="534"/>
+			</clickAnimations>
+			<flvContents/>
+			<audios id="19" duration=" 88020">
+				<media url="a24x19x1.mp3" startMsecs="0" duration="88020" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle></slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="283" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="6.22" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide20.swf" id="283"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="5" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="21" duration=" 6220">
+				<media url="a24x21x1.mp3" startMsecs="0" duration="6220" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Obrigada!!! viviamvb@yahoo.com.br</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="21"/>
+			<slideSpeaker index="0"/>
+		</slide>
+	</slides>
+	<attachments></attachments>
+</presentation>

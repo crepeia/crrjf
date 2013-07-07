@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="720" height="540" defaultSlideDuration="5" start="play" buildNum="7.0.7.7746">
+	<presentationTitle>Tabagismo</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>André Luiz Carvalho Netto</name>
+			<speakerTitle>Psiquiatra</speakerTitle>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/></layout><layout url="Layout3.swf" id="4" totalFrames="1"><backdrop displayBgSp="true"/></layout><layout url="Layout4.swf" id="5" totalFrames="1"><backdrop displayBgSp="true"/></layout></layouts>
+	<slides>
+		<slide id="352" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="38.73" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide0.swf" id="352"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="33" duration=" 38730">
+				<media url="a24x33x1.mp3" startMsecs="0" duration="38730" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Tabagismo</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="291" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="14.54" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide1.swf" id="291"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="1" duration=" 14540">
+				<media url="a24x1x1.mp3" startMsecs="0" duration="14540" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Introdução</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="351" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="60.86" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide2.swf" id="351"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="2" duration=" 60860">
+				<media url="a24x2x1.mp3" startMsecs="0" duration="60860" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Pontos-Chave do Tabagismo:</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="303" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="35.56" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide3.swf" id="303"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="3" duration=" 35560">
+				<media url="a24x3x1.mp3" startMsecs="0" duration="35560" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle></slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="350" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="34.53" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide4.swf" id="350"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="4" duration=" 34530">
+				<media url="a24x4x1.mp3" startMsecs="0" duration="34530" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Dependência Química</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="345" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="18.88" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide5.swf" id="345"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="5" duration=" 18880">
+				<media url="a24x5x1.mp3" startMsecs="0" duration="18880" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Dependência Química</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="302" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="32.15" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide6.swf" id="302"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="6" duration=" 32150">
+				<media url="a24x6x1.mp3" startMsecs="0" duration="32150" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Quantos são os Tabagistas?</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="312" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="35.59" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide7.swf" id="312"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="7" duration=" 35590">
+				<media url="a24x7x1.mp3" startMsecs="0" duration="35590" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Causa Mortis: Tabagismo</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="310" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="18.66" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide8.swf" id="310"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="8" duration=" 18660">
+				<media url="a24x8x1.mp3" startMsecs="0" duration="18660" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Tabagismo como doença Pediátrica</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="313" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="16.58" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide9.swf" id="313"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="9" duration=" 16580">
+				<media url="a24x9x1.mp3" startMsecs="0" duration="16580" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle></slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="305" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="23.06" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide10.swf" id="305"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="10" duration=" 23060">
+				<media url="a24x10x1.mp3" startMsecs="0" duration="23060" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Doenças Tabaco-Relacionadas</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="343" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="25.39" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide11.swf" id="343"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="11" duration=" 25390">
+				<media url="a24x11x1.mp3" startMsecs="0" duration="25390" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Doenças Tabaco-Relacionadas</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="341" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="49.93" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide12.swf" id="341"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="12" duration=" 49930">
+				<media url="a24x12x1.mp3" startMsecs="0" duration="49930" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle></slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="322" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="38.47" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide13.swf" id="322"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="13" duration=" 38470">
+				<media url="a24x13x1.mp3" startMsecs="0" duration="38470" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle></slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="320" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="63.28" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide14.swf" id="320"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="14" duration=" 63280">
+				<media url="a24x14x1.mp3" startMsecs="0" duration="63280" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Cu$to do Tabagismo</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="336" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="51.02" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide15.swf" id="336"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="15" duration=" 51020">
+				<media url="a24x15x1.mp3" startMsecs="0" duration="51020" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle></slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="344" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="50.04" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide16.swf" id="344"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="16" duration=" 50040">
+				<media url="a24x16x1.mp3" startMsecs="0" duration="50040" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle></slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="319" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="41.55" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide17.swf" id="319"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="17" duration=" 41550">
+				<media url="a24x17x1.mp3" startMsecs="0" duration="41550" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle></slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="323" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="37.75" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide18.swf" id="323"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="18" duration=" 37750">
+				<media url="a24x18x1.mp3" startMsecs="0" duration="37750" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle></slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="349" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="17.49" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide19.swf" id="349"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="19" duration=" 17490">
+				<media url="a24x19x1.mp3" startMsecs="0" duration="17490" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle></slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="318" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="18.95" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide20.swf" id="318"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="20" duration=" 18950">
+				<media url="a24x20x1.mp3" startMsecs="0" duration="18950" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle></slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="21"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="324" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="34.86" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide21.swf" id="324"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="21" duration=" 34860">
+				<media url="a24x21x1.mp3" startMsecs="0" duration="34860" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Eficácia do Tratamento</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="22"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="338" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="30.2" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide22.swf" id="338"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="22" duration=" 30200">
+				<media url="a24x22x1.mp3" startMsecs="0" duration="30200" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle></slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="23"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="325" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="26.61" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide23.swf" id="325"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="23" duration=" 26610">
+				<media url="a24x23x1.mp3" startMsecs="0" duration="26610" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Bupropiona</slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="24"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="332" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="23.17" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide24.swf" id="332"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="24" duration=" 23170">
+				<media url="a24x24x1.mp3" startMsecs="0" duration="23170" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle></slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="25"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="327" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="34.8" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide25.swf" id="327"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="25" duration=" 34800">
+				<media url="a24x25x1.mp3" startMsecs="0" duration="34800" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle></slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="26"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="346" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="47.47" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide26.swf" id="346"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="26" duration=" 47470">
+				<media url="a24x26x1.mp3" startMsecs="0" duration="47470" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle></slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="27"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="342" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="42.54" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide27.swf" id="342"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="27" duration=" 42540">
+				<media url="a24x27x1.mp3" startMsecs="0" duration="42540" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle></slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="28"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="293" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="34.04" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide28.swf" id="293"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="28" duration=" 34040">
+				<media url="a24x28x1.mp3" startMsecs="0" duration="34040" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle></slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="29"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="330" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="2.99" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide29.swf" id="330"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="29" duration=" 2990">
+				<media url="a24x29x1.mp3" startMsecs="0" duration="2990" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle></slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="30"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="308" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="33.69" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide30.swf" id="308"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="30" duration=" 33690">
+				<media url="a24x30x1.mp3" startMsecs="0" duration="33690" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle></slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="31"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="340" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="30.71" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide31.swf" id="340"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="31" duration=" 30710">
+				<media url="a24x31x1.mp3" startMsecs="0" duration="30710" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle></slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="32"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="306" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="31.66" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide32.swf" id="306"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="32" duration=" 31660">
+				<media url="a24x32x1.mp3" startMsecs="0" duration="31660" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle></slideTitle>
+			<notes isHTML="true">&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="33"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="353" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="7.38" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide33.swf" id="353"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="5" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="34" duration=" 7380">
+				<media url="a24x34x1.mp3" startMsecs="0" duration="7380" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Muito obrigado</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="34"/>
+			<slideSpeaker index="0"/>
+		</slide>
+	</slides>
+	<attachments></attachments>
+</presentation>

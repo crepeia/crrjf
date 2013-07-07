@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="720" height="540" start="play" buildNum="7.0.7.7746">
+	<presentationTitle>Intervenção breve e sua aplicação</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Víviam Vargas de Barros</name>
+			<speakerTitle>Psicóloga</speakerTitle>
+			<image>spk10167.jpg</image>
+		</speaker>
+	</speakers>
+	<backgrounds>
+		<background url="Master80000057.swf"/>
+		<background url="Master8000003e.swf"/>
+		<background url="Master80000058.swf"/>
+	</backgrounds>
+	<search url="srchdata.xml"/>
+	<slides>
+		<slide id="349" frameRate="30" totalFrames="1161.8999999999998" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide1.swf"/>
+			<slideBackground index="0" frameToPlay="1" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Intervenção Breve e Sua Aplicação</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="0"/>
+			<audios id="21" duration=" 38730">
+				<media url="a24x21x1.mp3" startMsecs="0" duration="38730" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="256" frameRate="30" totalFrames="96.9" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide2.swf"/>
+			<slideBackground index="1" frameToPlay="1" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Víviam Vargas de Barros Mestranda em Psicologia pela UFJF</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="0"/>
+			<audios id="1" duration=" 3230">
+				<media url="a24x1x1.mp3" startMsecs="0" duration="3230" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="341" frameRate="30" totalFrames="981.8999999999999" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide3.swf"/>
+			<slideBackground index="2" frameToPlay="1" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="58" end="74"/>
+				<clickAnimation start="183" end="199"/>
+				<clickAnimation start="360" end="376"/>
+				<clickAnimation start="672" end="688"/>
+			</clickAnimations>
+			<slideTitle>Histórico da IB</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="0"/>
+			<audios id="2" duration=" 32730">
+				<media url="a24x2x1.mp3" startMsecs="0" duration="32730" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="258" frameRate="30" totalFrames="1043.4" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide4.swf"/>
+			<slideBackground index="2" frameToPlay="3" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="19" end="35"/>
+				<clickAnimation start="594" end="610"/>
+			</clickAnimations>
+			<slideTitle>Por que pensar em IB?</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="0"/>
+			<audios id="3" duration=" 34780">
+				<media url="a24x3x1.mp3" startMsecs="0" duration="34780" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="276" frameRate="30" totalFrames="822.6" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide5.swf"/>
+			<slideBackground index="2" frameToPlay="5" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="40" end="56"/>
+				<clickAnimation start="348" end="364"/>
+				<clickAnimation start="411" end="427"/>
+			</clickAnimations>
+			<slideTitle>Por que pensar em IB?</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="0"/>
+			<audios id="4" duration=" 27420">
+				<media url="a24x4x1.mp3" startMsecs="0" duration="27420" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="347" frameRate="30" totalFrames="828.6" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide6.swf"/>
+			<slideBackground index="2" frameToPlay="7" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="25" end="41"/>
+				<clickAnimation start="651" end="667"/>
+			</clickAnimations>
+			<slideTitle>Por que pensar em IB?</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="0"/>
+			<audios id="5" duration=" 27620">
+				<media url="a24x5x1.mp3" startMsecs="0" duration="27620" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="259" frameRate="30" totalFrames="2043.8999999999998" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide7.swf"/>
+			<slideBackground index="2" frameToPlay="9" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="172" end="188"/>
+				<clickAnimation start="228" end="244"/>
+				<clickAnimation start="282" end="298"/>
+				<clickAnimation start="306" end="322"/>
+				<clickAnimation start="333" end="349"/>
+				<clickAnimation start="411" end="427"/>
+			</clickAnimations>
+			<slideTitle>Que elementos desencadeiam a motivação para a mudança?</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="0"/>
+			<audios id="6" duration=" 68130">
+				<media url="a24x6x1.mp3" startMsecs="0" duration="68130" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="267" frameRate="30" totalFrames="1782.6000000000001" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide8.swf"/>
+			<slideBackground index="2" frameToPlay="11" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="19" end="35"/>
+				<clickAnimation start="360" end="376"/>
+				<clickAnimation start="741" end="757"/>
+				<clickAnimation start="1161" end="1177"/>
+			</clickAnimations>
+			<slideTitle>Uso do resultado da triagem para a IB</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="0"/>
+			<audios id="7" duration=" 59420">
+				<media url="a24x7x1.mp3" startMsecs="0" duration="59420" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="270" frameRate="30" totalFrames="1622.3999999999998" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide9.swf"/>
+			<slideBackground index="2" frameToPlay="13" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="34" end="50"/>
+				<clickAnimation start="114" end="130"/>
+				<clickAnimation start="225" end="241"/>
+				<clickAnimation start="363" end="379"/>
+				<clickAnimation start="453" end="469"/>
+			</clickAnimations>
+			<slideTitle>Uso dos resultados da triagem</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="0"/>
+			<audios id="8" duration=" 54080">
+				<media url="a24x8x1.mp3" startMsecs="0" duration="54080" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="271" frameRate="30" totalFrames="1988.7000000000002" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide10.swf"/>
+			<slideBackground index="2" frameToPlay="15" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="28" end="44"/>
+				<clickAnimation start="84" end="100"/>
+			</clickAnimations>
+			<slideTitle>Uso dos resultados da triagem</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="0"/>
+			<audios id="9" duration=" 66290">
+				<media url="a24x9x1.mp3" startMsecs="0" duration="66290" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="272" frameRate="30" totalFrames="1325.4" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide11.swf"/>
+			<slideBackground index="2" frameToPlay="17" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="28" end="44"/>
+			</clickAnimations>
+			<slideTitle>Uso dos resultados da triagem/ ASSIST</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="0"/>
+			<audios id="10" duration=" 44180">
+				<media url="a24x10x1.mp3" startMsecs="0" duration="44180" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="338" frameRate="30" totalFrames="915.3000000000001" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide12.swf"/>
+			<slideBackground index="2" frameToPlay="19" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="16" end="32"/>
+				<clickAnimation start="495" end="511"/>
+				<clickAnimation start="696" end="712"/>
+				<clickAnimation start="792" end="808"/>
+			</clickAnimations>
+			<slideTitle>Zona III – Uso Nocivo</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="0"/>
+			<audios id="11" duration=" 30510">
+				<media url="a24x11x1.mp3" startMsecs="0" duration="30510" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="311" frameRate="30" totalFrames="2852.1" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide13.swf"/>
+			<slideBackground index="1" frameToPlay="3" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="190" end="206"/>
+				<clickAnimation start="222" end="234"/>
+				<clickAnimation start="252" end="267"/>
+				<clickAnimation start="303" end="319"/>
+				<clickAnimation start="327" end="343"/>
+				<clickAnimation start="354" end="370"/>
+				<clickAnimation start="378" end="394"/>
+				<clickAnimation start="402" end="418"/>
+			</clickAnimations>
+			<slideTitle>Qual a ≠ entre Aconselhamento Breve e Orientações Básicas?</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="0"/>
+			<audios id="12" duration=" 95070">
+				<media url="a24x12x1.mp3" startMsecs="0" duration="95070" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="312" frameRate="30" totalFrames="1045.2" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide14.swf"/>
+			<slideBackground index="2" frameToPlay="21" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="88" end="104"/>
+				<clickAnimation start="336" end="352"/>
+				<clickAnimation start="933" end="949"/>
+			</clickAnimations>
+			<slideTitle>Elementos Essenciais do Aconselhamento Breve</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="0"/>
+			<audios id="13" duration=" 34840">
+				<media url="a24x13x1.mp3" startMsecs="0" duration="34840" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="313" frameRate="30" totalFrames="910.2" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide15.swf"/>
+			<slideBackground index="2" frameToPlay="23" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="19" end="35"/>
+				<clickAnimation start="486" end="502"/>
+				<clickAnimation start="768" end="784"/>
+			</clickAnimations>
+			<slideTitle>Elementos Essenciais do Aconselhamento Breve</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="0"/>
+			<audios id="14" duration=" 30340">
+				<media url="a24x14x1.mp3" startMsecs="0" duration="30340" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="314" frameRate="30" totalFrames="642.6" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide16.swf"/>
+			<slideBackground index="2" frameToPlay="25" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="25" end="41"/>
+				<clickAnimation start="96" end="112"/>
+			</clickAnimations>
+			<slideTitle>Elementos Essenciais do Aconselhamento Breve</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+			<slideSpeaker index="0"/>
+			<audios id="15" duration=" 21420">
+				<media url="a24x15x1.mp3" startMsecs="0" duration="21420" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="315" frameRate="30" totalFrames="1559.7" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide17.swf"/>
+			<slideBackground index="2" frameToPlay="27" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="22" end="38"/>
+				<clickAnimation start="129" end="145"/>
+				<clickAnimation start="480" end="496"/>
+				<clickAnimation start="702" end="718"/>
+				<clickAnimation start="789" end="805"/>
+				<clickAnimation start="1107" end="1123"/>
+			</clickAnimations>
+			<slideTitle>Elementos Essenciais do Aconselhamento Breve</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+			<slideSpeaker index="0"/>
+			<audios id="16" duration=" 51990">
+				<media url="a24x16x1.mp3" startMsecs="0" duration="51990" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="317" frameRate="30" totalFrames="1063.5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide18.swf"/>
+			<slideBackground index="2" frameToPlay="29" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="28" end="44"/>
+				<clickAnimation start="168" end="184"/>
+				<clickAnimation start="597" end="613"/>
+				<clickAnimation start="771" end="787"/>
+			</clickAnimations>
+			<slideTitle>Elementos Essenciais do Aconselhamento Breve</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+			<slideSpeaker index="0"/>
+			<audios id="17" duration=" 35450">
+				<media url="a24x17x1.mp3" startMsecs="0" duration="35450" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="318" frameRate="30" totalFrames="916.5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide19.swf"/>
+			<slideBackground index="2" frameToPlay="31" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="34" end="50"/>
+				<clickAnimation start="375" end="391"/>
+			</clickAnimations>
+			<slideTitle>Zona IV – Provável Dependência</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+			<slideSpeaker index="0"/>
+			<audios id="18" duration=" 30550">
+				<media url="a24x18x1.mp3" startMsecs="0" duration="30550" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="321" frameRate="30" totalFrames="2159.1" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide20.swf"/>
+			<slideBackground index="2" frameToPlay="33" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="22" end="38"/>
+				<clickAnimation start="663" end="679"/>
+			</clickAnimations>
+			<slideTitle>Zona IV – Provável Dependência</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+			<slideSpeaker index="0"/>
+			<audios id="19" duration=" 71970">
+				<media url="a24x19x1.mp3" startMsecs="0" duration="71970" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="301" frameRate="30" totalFrames="223.8" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide21.swf"/>
+			<slideBackground index="1" frameToPlay="5" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Obrigada!!! viviamvb@yahoo.com.br</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="21"/>
+			<slideSpeaker index="0"/>
+			<audios id="20" duration=" 7460">
+				<media url="a24x20x1.mp3" startMsecs="0" duration="7450" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+	</slides>
+	<attachments></attachments>
+</presentation>

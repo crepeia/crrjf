@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="720" height="540" defaultSlideDuration="5" start="play" buildNum="7.0.7.7746">
+	<presentationTitle>Redução de Danos</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Rhaisa Gontijo Soares</name>
+			<speakerTitle>Psicóloga</speakerTitle>
+			<image>spk10095.jpg</image>
+			<email>rhaisags@yahoo.com.br</email>
+		</speaker>
+	</speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="true"/></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop displayBgSp="true"/></layout></layouts>
+	<slides>
+		<slide id="382" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="38.73" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide0.swf" id="382"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="1" duration=" 38730">
+				<media url="a24x1x1.mp3" startMsecs="0" duration="38730" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Redução de Danos</slideTitle>
+			<notes isHTML="true">Olá a todos, meu nome é Rhaisa, sou formada em Psicologia pela Universidade Federal de Juiz de Fora e, atualmente, estou terminando meu mestrado tb em Psicologia pela msma Universidade na linha de processos psicossociais e saúde. Sou pesquisadora do popss – polo de pesquisa em psicologia social e saúde coletiva, onde desenvolvo pesquisa na área de dependencia de substância e estigma social. &lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+		</slide>
+		<slide id="320" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="25.19" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide1.swf" id="320"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="2" duration=" 25190">
+				<media url="a24x2x1.mp3" startMsecs="0" duration="25190" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Objetivos da aula:</slideTitle>
+			<notes isHTML="true">Irei expor pra vcs um pouco sobre a Redução de Danos, uma abordagem utilizada no tratamento de usuários e dependentes de substâncias.  &lt;br&gt;Os principais objetivos  dessa aula são: &lt;br&gt;Caracterizar a Redução de Danos com as peculiaridades com que ela se implementou em nosso meio e; &lt;br&gt;Dar subsídios para o planejamento, execução e avaliação de ações em Redução de Danos.&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+		</slide>
+		<slide id="302" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="48.31" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide2.swf" id="302"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="3" duration=" 48310">
+				<media url="a24x3x1.mp3" startMsecs="0" duration="48310" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle></slideTitle>
+			<notes isHTML="true">&lt;b&gt;A Redução da Oferta: diz respeito às &lt;/b&gt;ações de erradicação de plantações, repressão à produção, ao refino e ao tráfico de substâncias precursoras, combate à lavagem de dinheiro, fiscalização e controle da produção,comercialização e uso das drogas.&lt;br&gt;&lt;b&gt;Redução da Demanda&lt;/b&gt;: dirigir ações, esforços e recursos para desestimular ou diminuir o consumo; e tratar os usuários e dependentes.&lt;br&gt;&lt;b&gt;Redução de Danos: &lt;/b&gt;orienta a execução de ações para a prevenção das conseqüências danosas à saúde que decorrem do uso de drogas, sem necessariamente, interferir na oferta ou no consumo.&lt;br&gt;&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+		</slide>
+		<slide id="304" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="34.67" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide3.swf" id="304"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="4" duration=" 34670">
+				<media url="a24x4x1.mp3" startMsecs="0" duration="34670" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>O que é Redução de Danos (RD)?</slideTitle>
+			<notes isHTML="true">Existem várias definições de RD, no entanto, todas partem do mesmo princípio: a aplicação de métodos projetados para reduzir o risco do dano associado a certos comportamentos, sem diminuição na freqüência daqueles comportamentos.&lt;br&gt;segundo andrade e colaboradores (2001), “RD é uma política de saúde que se propõe a reduzir os prejuízos de natureza biológica, social e econômica do uso de drogas, pautada no respeito ao indivíduo e no seu direito de consumir drogas”.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+		</slide>
+		<slide id="305" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="43.29" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide4.swf" id="305"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="5" duration=" 43290">
+				<media url="a24x5x1.mp3" startMsecs="0" duration="43290" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>O que é Redução de Danos (RD)?</slideTitle>
+			<notes isHTML="true">De forma mais resumida podemos dizer que RD significa &lt;b&gt;“Reduzir os danos à saúde em conseqüência de práticas de risco” &lt;/b&gt;&lt;br&gt;A RD aceita que “&lt;i&gt;bem ou mal, as drogas lícitas e ilícitas fazem parte deste mundo, e escolhe trabalhar para minimizar seus efeitos danosos aos invés de simplesmente ignorá-los ou condená-los&lt;/i&gt;” &lt;br&gt;Aqui, o critério de sucesso de uma intervenção não segue a lei do “tudo ou nada”. São aceitos objetivos parciais. As alternativas não são impostas de “cima para baixo”, por leis ou decretos, mas são desenvolvidas com participação ativa da população beneficiária da intervenção.&lt;br&gt;&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+		</slide>
+		<slide id="341" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="46.3" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide5.swf" id="341"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="6" duration=" 46300">
+				<media url="a24x6x1.mp3" startMsecs="0" duration="46300" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>As estratégias de RD...</slideTitle>
+			<notes isHTML="true">A RD, portanto, pode ser vista como um novo projeto  conceitual abrangente para integração do que há de melhor em medicina, saúde e política&lt;br&gt;de prevenção” (Marlatt, 1999).&lt;br&gt;Mas, para isso, precisamos entender suas principais estratégias, as quais:&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+		</slide>
+		<slide id="333" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="33.52" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide6.swf" id="333"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="7" duration=" 33520">
+				<media url="a24x7x1.mp3" startMsecs="0" duration="33520" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Princípios da RD</slideTitle>
+			<notes isHTML="true">A RD tb é pautada em 5 princípios básicos. &lt;br&gt;1º:  &lt;i&gt;A RD é uma alternativa da saúde pública para os modelos moral, criminal e de doença do uso e da dependência de droga. &lt;/i&gt;&lt;br&gt;&lt;i&gt;Ou seja, a RD desvia-se de tais modelos, evitando julgamentos morais de certo ou errado, e oferecendo uma variedade de políticas e de procedimentos que visam à redução das consequencias prejudiciais do comportamento dependente.&lt;/i&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+		</slide>
+		<slide id="433" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="26.05" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide7.swf" id="433"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="8" duration=" 26050">
+				<media url="a24x8x1.mp3" startMsecs="0" duration="26050" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Princípios da RD</slideTitle>
+			<notes isHTML="true">2º, &lt;i&gt;A RD reconhece a abstinência como resultados ideal, mas aceita alternativas que reduzam os danos para aqueles que permanecem usando drogas.&lt;/i&gt;&lt;br&gt;A abordagem de redução gradual estimula os indivíduos que tenham comportamento de alto risco a dar um passo de cada vez para reduzir as consequências prejudiciais de seu comportamento.  &lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+		</slide>
+		<slide id="436" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="38.53" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide8.swf" id="436"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="9" duration=" 38530">
+				<media url="a24x9x1.mp3" startMsecs="0" duration="38530" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Princípios da RD</slideTitle>
+			<notes isHTML="true">&lt;i&gt;3º, A RD baseia-se nos princípios de pragmatismo empático versus idealismo moralista.&lt;/i&gt;&lt;br&gt;O comportamento prejudicial acontece, sempre foi assim e sempre será. Aceita essa premissa, pergunta-se o que pode ser feito para reduzir o dano e o sofrimento para o indivíduo e a sociedade. O pragmatismo não pergunta se o comportamento em questão é certo ou errado, bom ou ruim, doentio ou saudável, mas se preocupa com o manejo das questões cotidianas e das práticas reais.&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+		</slide>
+		<slide id="335" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="54.94" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide9.swf" id="335"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="10" duration=" 54940">
+				<media url="a24x10x1.mp3" startMsecs="0" duration="54940" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Princípios da RD</slideTitle>
+			<notes isHTML="true">4º, &lt;i&gt;A RD promove acesso a serviços de baixa exigência como uma alternativa a abordagens tradicionais de alta exigência.&lt;/i&gt;&lt;br&gt;&lt;i&gt;Os programas comunitários de rua oferecem um exemplo de abordagem de baixa exigência na redução de danos. Em vez de estabelecer a a abstinência como um pré-requisito de alta exigencia, para receber o tratamento de para dependencia ou outro tipo de assitencia, os defensores da rd estão dispostos a reduzir estes obstáculos. Deste modo, os necessitados tem mais possibilidade de aderir, iniciar, envolver-se com a mudança do comportamento. O programas de baixa exigencia fazem isso de diversas formas, em primeiro lugar, &lt;/i&gt;Os defensores dos serviços de baixa exigência vão até o usuário: estão dispostos a encontrá-lo &lt;i&gt;onde estiver &lt;/i&gt;ao invés de &lt;i&gt;onde deveria estar&lt;/i&gt;. &lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+		</slide>
+		<slide id="437" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="22.93" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide10.swf" id="437"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="11" duration=" 22930">
+				<media url="a24x11x1.mp3" startMsecs="0" duration="22930" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Princípios da RD</slideTitle>
+			<notes isHTML="true">&lt;i&gt;5º, A RD é uma abordagem de baixo para cima, baseada na defesa das necessidades do usuário, ao invés de uma abordagem de cima para baixo, promovida por formuladores de políticas.&lt;/i&gt;&lt;br&gt;&lt;i&gt;Ou seja, &lt;/i&gt;Os próprios usuários exigiram dos governos medidas para reduzir os danos associados ao uso de substâncias.&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+		</slide>
+		<slide id="329" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="56.22" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide11.swf" id="329"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="12" duration=" 56220">
+				<media url="a24x12x1.mp3" startMsecs="0" duration="56220" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle></slideTitle>
+			<notes isHTML="true">A RD surgiu na Segunda metade do século XX apartir do fracasso das Políticas pautadas em ações repressivas – “Guerra às Drogas” que apresentavam Pouca ênfase nas ações de prevenção. &lt;br&gt;A prática da política de "Guerra às Drogas" não produziu os objetivos desejados e as campanhas alarmistas foram igualmente ineficazes. &lt;br&gt;Assim, a RD surgiu como resposta a um contexto no qual os padrões de uso evidenciavam riscos e danos potenciais – de transmissão de agentes infecciosos, além de danos à saúde decorrentes do próprio consumo das substâncias – portanto, contribuindo diretamente para o uso mais seguro de drogas pelos usuários e indiretamente para &lt;b&gt;reavaliar o mito de que todo contato com as drogas seria invariavelmente perigoso.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+		</slide>
+		<slide id="323" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="59.58" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide12.swf" id="323"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="13" duration=" 59580">
+				<media url="a24x13x1.mp3" startMsecs="0" duration="59580" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Quando a RD veio para o Brasil?</slideTitle>
+			<notes isHTML="true">&lt;b&gt;Em 1989&lt;/b&gt; – A SEMUSA de Santos realizou a primeira tentativa de distribuição de equipamentos para uso seguro de droga injetável para os UDIs. No entanto, a ação foi interrompida pelo Ministério Público por ser &lt;b&gt;&lt;i&gt;erroneamente interpretada como incentivo ao uso de drogas.&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Após várias discussões, fóruns e debates por todo o país, apenas em &lt;b&gt;agosto de 2006&lt;/b&gt;, a antiga Lei de drogas (Lei nº 6.368/76) foi revogada pela Lei nº 11.343 que, em seu artigo 20, diz: &lt;i&gt;“constituem atividades de atenção ao usuário e dependente de drogas e respectivos familiares, para efeito desta Lei, aquelas que visem à melhoria da qualidade de vida e à &lt;/i&gt;&lt;b&gt;&lt;i&gt;redução dos riscos e dos danos associados ao uso de drogas&lt;/i&gt;&lt;/b&gt;&lt;i&gt;”.&lt;/i&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+		</slide>
+		<slide id="309" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="49.61" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide13.swf" id="309"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="14" duration=" 49610">
+				<media url="a24x14x1.mp3" startMsecs="0" duration="49610" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Atividades de RD no Brasil</slideTitle>
+			<notes isHTML="true">Embora a RD tenha inicialmente se destacado a partir da distribuição de agulhas e seringas para usuários de drogas injetáveis (UDI), como estratégia para prevenir a transmissão do vírus da AIDS, hoje é equivocado limitá-la a isso, uma vez que outras atividades também são desenvolvidas como:&lt;br&gt;Localização e abordagem da rede de usuários de drogas injetáveis (UDIs).&lt;br&gt;Informações e orientações de saúde.&lt;br&gt;Disponibilização de serviços de saúde.&lt;br&gt;Exames para os demais problemas de saúde.&lt;br&gt;Distribuição de: preservativos , filtros para cachimbo, kits de redução de danos, folhetos, veiculação de mensagens nos telões dos clubes noturnos e disponibilização de informações na internet.&lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+		</slide>
+		<slide id="310" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="50.07" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide14.swf" id="310"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="15" duration=" 50070">
+				<media url="a24x15x1.mp3" startMsecs="0" duration="50070" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Atividades de RD no Brasil</slideTitle>
+			<notes isHTML="true">Tb constituem estratégias de RD no Brasil: &lt;br&gt;Testagem anônima para HIV e doenças sexualmente transmissíveis (DSTs). &lt;br&gt;Encaminhamento para avaliação e tratamento médico de problemas relacionados ou não ao HIV, DSTs ou ao uso de álcool e outras drogas.&lt;br&gt;Encaminhamento para tratamento da dependência e para outros recursos sociais da rede de assistência (serviços sociais, reinserção social, jurídicos, educação, etc).&lt;br&gt;Campanhas para diminuir os riscos de acidentes de trânsito relacionados ao uso do álcool, sem proibir amplamente o uso do álcool. &lt;br&gt;Restrição do horário de venda de bebida alcoólica.&lt;br&gt;Mudança de via de utilização ou migração para drogas que causem menor dano.&lt;br&gt;&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+		</slide>
+		<slide id="400" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="13.65" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide15.swf" id="400"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="16" duration=" 13650">
+				<media url="a24x16x1.mp3" startMsecs="0" duration="13650" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle></slideTitle>
+			<notes isHTML="true">Além dessas estratégias, existem outras mais específicas para cada tipo de droga: injetáveis, ingeridas, inaladas ou aspiradas e fumadas.&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+		</slide>
+		<slide id="349" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="29.94" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide16.swf" id="349"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="17" duration=" 29940">
+				<media url="a24x17x1.mp3" startMsecs="0" duration="29940" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Os Serviços de Saúde...</slideTitle>
+			<notes isHTML="true">Serviços que trabalham com portadores do HIV, pacientes com AIDS e usuários de drogas, como os Centros de Testagem e Aconselhamento (CTA) e os Centros de Atenção Psicossocial Álcool e outras drogas (CAPS ad), devido à estreita relação com o problema, devem desenvolver ações de RD.&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+		</slide>
+		<slide id="351" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="32.43" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide17.swf" id="351"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="18" duration=" 32430">
+				<media url="a24x18x1.mp3" startMsecs="0" duration="32430" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Conclusão</slideTitle>
+			<notes isHTML="true">A proposta de RD apresenta-se, provavelmente, como a única estratégia capaz de, ao invés de colocar as drogas no lugar central e de causa principal dos problemas e "doenças", incluí-las como parte integrante da sociedade e de sua complexa relação com as drogas.&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+		</slide>
+		<slide id="432" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="5.81" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide18.swf" id="432"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="19" duration=" 5810">
+				<media url="a24x19x1.mp3" startMsecs="0" duration="5810" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>Referências</slideTitle>
+			<notes isHTML="true">Apresento algumas referências para quem se interessar...&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+		</slide>
+		<slide id="444" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="11.45" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide19.swf" id="444"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<audios id="20" duration=" 11450">
+				<media url="a24x20x1.mp3" startMsecs="0" duration="11450" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle></slideTitle>
+			<notes isHTML="true">Qualquer dúvida, podem entrar em contato pelo e-mail rhaisags@yahoo.com.br&lt;br&gt;Muito obrigada pela atenção de vcs e até a próxima. &lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+		</slide>
+	</slides>
+	<attachments></attachments>
+</presentation>

@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Resultado do Processo Seletivo dos Cursos do CRR-JF | Notícias | CRR-jf</title>
+<meta content="Resultado do processo seletivo é divulgado no site do CRR-JF" />
+<link rel="shortcut icon" href="http://www.uaihealth.com/favicon.ico" />
+<?php include '../../variables/variables.php' ?>
+<link type="text/css" rel="stylesheet" href="<?php echo '../../style/core.css' ?>" />
+<!--[if !IE 7]>
+	<style type="text/css">
+		#corpo {display:table;height:100%}
+	</style>
+<![endif]-->
+</head>
+
+<body>
+
+	<!--custommenu-->
+		<div class="custommenu">
+			<?php include('../../layout/custommenu.php'); ?>
+ 		</div>
+    
+	
+    	<div id="corpo"> 
+    
+    			<!-- header -->    
+   		 
+    	        <div class="header">
+   					<?php include('../../layout/header.php'); ?>
+			    </div>
+    
+     		
+			   	<!--mainmenu-->        
+	    	
+            	<div class="main">
+					<div class="leftmenu">
+                    	 <div id="navsite">
+	        				<?php include('../../layout/leftmenu.php'); ?>
+					    </div>
+                    </div>    
+            
+		    			<div class="pagecontent">
+        					<?php include '../../libraries/botoesnews.php'; ?>
+                            <div class="nsinglenews">
+                                <h1>Resultado do Processo Seletivo dos Cursos do CRR-JF</h1>
+                                <?php include '../../libraries/addthis.php'; ?>
+                                <p>Clique na lista abaixo para conferir os resultados do processo seletivo dos cursos do Centro Regional de Referência sobre Drogas de Juiz de Fora.</p>
+                                <ul style="list-style-type:none;">
+                                		<li><a href="../resultado-aconselhamento-motivacional-intervencoes-breves.pdf" target="blank">Curso 01 -Aconselhamento motivacional e intervenções Breves</a></li>
+                                		<li><a href="../resultado-gerenciamento-de-casos-e-reinsercao-social.pdf">Curso 02 - Gerenciamento de Casos e Reinserção Social</a></li>
+                                		<li><a href="../resultado-aperfeicoamento-crack-e-outras-drogas-medicos-atencao-primaria.pdf" target="blank">Curso 03 - Aperfeiçoamento em Crack e Outras Drogas para Profissionais Médicos na Atenção Básica</a></li>
+                                		<li><a href="../resultado-atualizacao-atencao-integral-profissional-hospital-geral.pdf" target="blank" >Curso 04 - Atualização em Atenção Integral aos Usuários de Crack e Drogas para Profissional em Hospital Geral</a></li>
+                                </ul>
+                                <p>Para confirmar sua inscrição é necessário levar cópia e original dos seguintes documentos, nos dias  impreterivelmente.</p> 
+										  <ul>
+												<li>RG/ CPF/ Carteira de Conselho</li>
+												<li>Comprovante de Residência</li>
+												<li>Comprovante de local de Trabalho (cópia da carteira de trabalho ou recibo de pagamento)</li>
+										  </ul>
+
+									 	  <p>As inscrições devem ser feitas impreterivelmente nos dias 07 de julho (de 08:00h às 11:00h e de 12:30h às 17:30h) ou 08 de julho (de 08:00h às 11:00h e de 12:00h às 15:00h).</p>
+
+									     <h4>Endereço:</h4> 
+									     <p style="text-indent:0; font-size:0.9em;">Novas Instalações do Instituto de Ciências Humanas <br /> Rua José Lourenço Kelmer, s/n – Campus Universitário <br /> Bairro São Pedro Juiz de Fora – Minas Gerais – Brasil
+36036-330</p>
+										  <h4>Maiores informações</h4>										     
+									     <p style="text-indent:0;">Telefones: (32) 2102-3165 | (32) 8806-0980 <br /> Email: crrjf@uaihealth.com </p>                            
+                                
+                            </div>
+                           	  <?php include '../../libraries/addthis.php'; ?>
+						</div>
+                </div>
+
+   		</div><!-- end.corpo --> 
+     
+    
+    <!--Footer -->
+     <div class="footer">
+     		<?php include('../../layout/footer.php') ?>
+     </div> 
+
+</body>
+</html>

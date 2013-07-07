@@ -1,0 +1,178 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*LAYOUT*/
+
+
+custommenu {
+	padding-left: 100px;
+	width:100%;
+}
+	
+#corpo {
+	margin-left:auto;
+	margin-right:auto;
+	width:80%;
+	clear:both;
+}
+
+.leftmenu {
+	float:left;
+	width:200px;
+}
+
+
+.pagecontent {
+	padding-left:20px;
+	margin-left:200px;
+	height:auto;
+}
+	
+.footer {
+	clear:both;
+	float:left;
+	width:100%;
+}
+
+/*GENERAL INFORMATION */
+
+body,h1,h2,h3,h4,h5,h6,p,ul,ol,dl,input,textarea {
+    font-family: arial, verdana, sans-serif;
+    line-height: 1.5;
+    color: #333;
+}
+
+a {
+	color:#f25f0f;
+	text-decoration:none;
+	
+	
+}
+
+a:hover {
+    color: #333;
+	text-decoration:underline;
+}
+
+h2,h3,h4,h5,h6 {
+    color: #999;
+    font-weight: normal;
+}
+
+/*CUSTOM MENU*/
+.custommenu {
+	background-color: #EEE;
+	border-bottom: 1px solid #DDD;
+}
+
+/*HEADER*/
+
+.header {
+	height:120px;
+}
+
+img#logo {
+	height:100px;
+	float:left;
+	
+}
+
+h1.headermain a{
+	line-height:1.0;
+	font-size:80%;
+	color:#F25F0F;
+	font-weight:bold;
+	text-decoration:none;
+	position:relative;
+	left:10px;
+	width:650px;
+}
+
+
+
+/*PAGECONTENT*/
+
+.pagecontent  h1{
+	color:#06F
+}
+	
+.pagecontent h2 {
+	color:#999;
+}
+
+.pagecontent p {
+	text-indent:1em;
+	text-align:justify;
+}
+
+
+/*LEFTMENU*/
+
+#navsite {
+  font-size: 1.0em;
+  width: 200px;
+  border-right: 1px solid #e0e0e0;
+  padding:0 0 0 0;
+  margin-bottom: 1em;
+  float: left;
+  
+}
+
+#navsite ul {
+  list-style: none;
+}
+
+#navsite ul li {
+  border-top: 1px solid #e0e0e0;
+}
+
+#navsite ul li a {
+  display: block;
+  padding: 2px 2px 2px 0.5em;
+  border-left: 10px solid #06F;
+  border-right: 1px solid #e0e0e0;
+  border-bottom: 1px solid #e0e0e0;
+  background-color: #FFF;
+  color: #666;
+  text-decoration: none;
+  text-transform:uppercase;
+  width: 100%;
+}
+
+html>body #navsite ul li a {
+  width: auto;
+}
+
+#navsite ul li a:hover {
+  border-left: 10px solid #f25f0f;
+  border-right: 1px solid #e0e0e0;
+  border-bottom: 1px solid #e0e0e0;
+  background-color: #CCC;
+  color: #000;
+}
+
+
+/*FOOTER */
+
+.footer {
+	    border-top:1px solid #ddd;
+        background-color:#eee;
+		text-align:center;
+		font-size:0.9em;
+}
+
+.footer  h4       {
+	line-height:0.4em;
+}
+
+.footer .urls li {
+	display:inline;
+	font-weight:bold;
+	
+}
+	
+.footer a.ajuda  {
+	font-weight:bold;
+}	
+
+

@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="720" height="540" start="play" buildNum="7.0.7.7746">
+	<presentationTitle>Condutas gerais e tratamento clínico e medicamentoso Parte I</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>André Luiz Carvalho Netto</name>
+			<speakerTitle>Psiquiatra</speakerTitle>
+		</speaker>
+	</speakers>
+	<backgrounds>
+		<background url="Master8000018c.swf"/>
+		<background url="Master80000173.swf"/>
+		<background url="Master8000018d.swf"/>
+	</backgrounds>
+	<search url="srchdata.xml"/>
+	<slides>
+		<slide id="510" frameRate="30" totalFrames="1161.8999999999998" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide1.swf"/>
+			<slideBackground index="0" frameToPlay="1" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Condutas gerais e tratamento clínico e medicamentoso de intoxicação, uso abusivo e abstinência de álcool, cocaína e crack Parte I</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="0"/>
+			<audios id="40" duration=" 38730">
+				<media url="a24x40x1.mp3" startMsecs="0" duration="38730" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="509" frameRate="30" totalFrames="814.8" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide2.swf"/>
+			<slideBackground index="1" frameToPlay="1" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Apresentação</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="0"/>
+			<audios id="1" duration=" 27160">
+				<media url="a24x1x1.mp3" startMsecs="0" duration="27160" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="300" frameRate="30" totalFrames="1613.4" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide3.swf"/>
+			<slideBackground index="2" frameToPlay="1" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Fatores que influenciam a absorção do álcool</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+			<slideSpeaker index="0"/>
+			<audios id="2" duration=" 53780">
+				<media url="a24x2x1.mp3" startMsecs="0" duration="53780" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="430" frameRate="30" totalFrames="755.4" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide4.swf"/>
+			<slideBackground index="2" frameToPlay="3" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Sintomas clínicos da intoxicação alcoólica</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+			<slideSpeaker index="0"/>
+			<audios id="3" duration=" 25180">
+				<media url="a24x3x1.mp3" startMsecs="0" duration="25180" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="294" frameRate="30" totalFrames="1143.9" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide5.swf"/>
+			<slideBackground index="2" frameToPlay="5" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Efeitos do uso</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+			<slideSpeaker index="0"/>
+			<audios id="4" duration=" 38130">
+				<media url="a24x4x1.mp3" startMsecs="0" duration="38130" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="305" frameRate="30" totalFrames="990" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide6.swf"/>
+			<slideBackground index="2" frameToPlay="7" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Tratamento da intoxicação aguda</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+			<slideSpeaker index="0"/>
+			<audios id="5" duration=" 33000">
+				<media url="a24x5x1.mp3" startMsecs="0" duration="33000" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="306" frameRate="30" totalFrames="268.5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide7.swf"/>
+			<slideBackground index="2" frameToPlay="9" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Complicações clínicas associadas 1</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+			<slideSpeaker index="0"/>
+			<audios id="6" duration=" 8950">
+				<media url="a24x6x1.mp3" startMsecs="0" duration="8950" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="442" frameRate="30" totalFrames="202.79999999999998" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide8.swf"/>
+			<slideBackground index="2" frameToPlay="11" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Complicações clínicas associadas 2</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+			<slideSpeaker index="0"/>
+			<audios id="7" duration=" 6760">
+				<media url="a24x7x1.mp3" startMsecs="0" duration="6760" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="423" frameRate="30" totalFrames="962.1" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide9.swf"/>
+			<slideBackground index="2" frameToPlay="13" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Síndrome de abstinência alcoólica (SAA)</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+			<slideSpeaker index="0"/>
+			<audios id="8" duration=" 32070">
+				<media url="a24x8x1.mp3" startMsecs="0" duration="32070" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="315" frameRate="30" totalFrames="721.1999999999999" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide10.swf"/>
+			<slideBackground index="2" frameToPlay="15" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Abstinência alcoólica</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+			<slideSpeaker index="0"/>
+			<audios id="9" duration=" 24040">
+				<media url="a24x9x1.mp3" startMsecs="0" duration="24040" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="314" frameRate="30" totalFrames="635.7" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide11.swf"/>
+			<slideBackground index="1" frameToPlay="3" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Sintomas da abstinência</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+			<slideSpeaker index="0"/>
+			<audios id="10" duration=" 21190">
+				<media url="a24x10x1.mp3" startMsecs="0" duration="21190" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="340" frameRate="30" totalFrames="656.4" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide12.swf"/>
+			<slideBackground index="2" frameToPlay="17" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Bases neurobiológicas da abstinência</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+			<slideSpeaker index="0"/>
+			<audios id="11" duration=" 21880">
+				<media url="a24x11x1.mp3" startMsecs="0" duration="21880" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="501" frameRate="30" totalFrames="1202.1" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide13.swf"/>
+			<slideBackground index="2" frameToPlay="19" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Bases neurobiológicas da abstinência</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+			<slideSpeaker index="0"/>
+			<audios id="12" duration=" 40070">
+				<media url="a24x12x1.mp3" startMsecs="0" duration="40070" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="432" frameRate="30" totalFrames="592.8000000000001" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide14.swf"/>
+			<slideBackground index="2" frameToPlay="21" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Gravidade e duração dos sintomas da SAA</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+			<slideSpeaker index="0"/>
+			<audios id="13" duration=" 19760">
+				<media url="a24x13x1.mp3" startMsecs="0" duration="19760" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="435" frameRate="30" totalFrames="829.5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide15.swf"/>
+			<slideBackground index="2" frameToPlay="23" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Preditores de gravidade da SAA</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+			<slideSpeaker index="0"/>
+			<audios id="14" duration=" 27650">
+				<media url="a24x14x1.mp3" startMsecs="0" duration="27650" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="436" frameRate="30" totalFrames="706.1999999999999" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide16.swf"/>
+			<slideBackground index="2" frameToPlay="25" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Avaliação da gravidade – Nível 1</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+			<slideSpeaker index="0"/>
+			<audios id="15" duration=" 23540">
+				<media url="a24x15x1.mp3" startMsecs="0" duration="23540" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="437" frameRate="30" totalFrames="414" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide17.swf"/>
+			<slideBackground index="2" frameToPlay="27" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Avaliação da gravidade – Nível 2</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+			<slideSpeaker index="0"/>
+			<audios id="16" duration=" 13800">
+				<media url="a24x16x1.mp3" startMsecs="0" duration="13800" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="321" frameRate="30" totalFrames="1773" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide18.swf"/>
+			<slideBackground index="2" frameToPlay="29" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Delirium tremens - DT</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+			<slideSpeaker index="0"/>
+			<audios id="17" duration=" 59100">
+				<media url="a24x17x1.mp3" startMsecs="0" duration="59100" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="322" frameRate="30" totalFrames="783" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide19.swf"/>
+			<slideBackground index="2" frameToPlay="31" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Delirium tremens</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+			<slideSpeaker index="0"/>
+			<audios id="18" duration=" 26100">
+				<media url="a24x18x1.mp3" startMsecs="0" duration="26100" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="311" frameRate="30" totalFrames="1310.1000000000001" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide20.swf"/>
+			<slideBackground index="2" frameToPlay="33" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Wernicke - Korsakoff</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+			<slideSpeaker index="0"/>
+			<audios id="19" duration=" 43670">
+				<media url="a24x19x1.mp3" startMsecs="0" duration="43670" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="503" frameRate="30" totalFrames="990.3" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide21.swf"/>
+			<slideBackground index="2" frameToPlay="35" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Wernicke - Korsakoff</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="21"/>
+			<slideSpeaker index="0"/>
+			<audios id="20" duration=" 33010">
+				<media url="a24x20x1.mp3" startMsecs="0" duration="33010" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="504" frameRate="30" totalFrames="996.3000000000001" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide22.swf"/>
+			<slideBackground index="2" frameToPlay="37" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Wernicke - Korsakoff</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="22"/>
+			<slideSpeaker index="0"/>
+			<audios id="21" duration=" 33210">
+				<media url="a24x21x1.mp3" startMsecs="0" duration="33210" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="352" frameRate="30" totalFrames="515.4" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide23.swf"/>
+			<slideBackground index="2" frameToPlay="39" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Alucinose alcoólica</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="23"/>
+			<slideSpeaker index="0"/>
+			<audios id="22" duration=" 17180">
+				<media url="a24x22x1.mp3" startMsecs="0" duration="17180" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="319" frameRate="30" totalFrames="1198.5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide24.swf"/>
+			<slideBackground index="2" frameToPlay="41" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Convulsões relacionadas à abstinência</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="24"/>
+			<slideSpeaker index="0"/>
+			<audios id="23" duration=" 39950">
+				<media url="a24x23x1.mp3" startMsecs="0" duration="39950" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="266" frameRate="30" totalFrames="538.2" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide25.swf"/>
+			<slideBackground index="2" frameToPlay="43" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Exames laboratoriais complementares</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="25"/>
+			<slideSpeaker index="0"/>
+			<audios id="24" duration=" 17940">
+				<media url="a24x24x1.mp3" startMsecs="0" duration="17940" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="447" frameRate="30" totalFrames="293.7" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide26.swf"/>
+			<slideBackground index="2" frameToPlay="45" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Tratamento da intoxicação alcoólica</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="26"/>
+			<slideSpeaker index="0"/>
+			<audios id="25" duration=" 9790">
+				<media url="a24x25x1.mp3" startMsecs="0" duration="9790" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="448" frameRate="30" totalFrames="516.3000000000001" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide27.swf"/>
+			<slideBackground index="2" frameToPlay="47" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Tratamento da SAA</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="27"/>
+			<slideSpeaker index="0"/>
+			<audios id="26" duration=" 17210">
+				<media url="a24x26x1.mp3" startMsecs="0" duration="17210" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="449" frameRate="30" totalFrames="671.7" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide28.swf"/>
+			<slideBackground index="2" frameToPlay="49" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Definição do local de tratamento</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="28"/>
+			<slideSpeaker index="0"/>
+			<audios id="27" duration=" 22390">
+				<media url="a24x27x1.mp3" startMsecs="0" duration="22390" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="450" frameRate="30" totalFrames="1171.8000000000001" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide29.swf"/>
+			<slideBackground index="2" frameToPlay="51" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Medidas não farmacológicas</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="29"/>
+			<slideSpeaker index="0"/>
+			<audios id="28" duration=" 39060">
+				<media url="a24x28x1.mp3" startMsecs="0" duration="39060" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="455" frameRate="30" totalFrames="1155.3" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide30.swf"/>
+			<slideBackground index="2" frameToPlay="53" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Medidas não farmacológicas hospitalares</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="30"/>
+			<slideSpeaker index="0"/>
+			<audios id="29" duration=" 38510">
+				<media url="a24x29x1.mp3" startMsecs="0" duration="38510" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="453" frameRate="30" totalFrames="1706.1" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide31.swf"/>
+			<slideBackground index="2" frameToPlay="55" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Tratamento farmacológico</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="31"/>
+			<slideSpeaker index="0"/>
+			<audios id="30" duration=" 56870">
+				<media url="a24x30x1.mp3" startMsecs="0" duration="56870" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="451" frameRate="30" totalFrames="341.70000000000004" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide32.swf"/>
+			<slideBackground index="2" frameToPlay="57" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Tratamento farmacológico hospitalar</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="32"/>
+			<slideSpeaker index="0"/>
+			<audios id="31" duration=" 11390">
+				<media url="a24x31x1.mp3" startMsecs="0" duration="11390" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="457" frameRate="30" totalFrames="300.3" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide33.swf"/>
+			<slideBackground index="2" frameToPlay="59" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Administração de glicose e tiamina</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="33"/>
+			<slideSpeaker index="0"/>
+			<audios id="32" duration=" 10010">
+				<media url="a24x32x1.mp3" startMsecs="0" duration="10010" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="318" frameRate="30" totalFrames="911.4" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide34.swf"/>
+			<slideBackground index="2" frameToPlay="61" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Tratamento farmacológico das complicações</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="34"/>
+			<slideSpeaker index="0"/>
+			<audios id="33" duration=" 30380">
+				<media url="a24x33x1.mp3" startMsecs="0" duration="30380" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="347" frameRate="30" totalFrames="1520.1000000000001" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide35.swf"/>
+			<slideBackground index="2" frameToPlay="63" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Diagnósticos diferenciais</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="35"/>
+			<slideSpeaker index="0"/>
+			<audios id="34" duration=" 50670">
+				<media url="a24x34x1.mp3" startMsecs="0" duration="50670" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="491" frameRate="30" totalFrames="727.8000000000001" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide36.swf"/>
+			<slideBackground index="2" frameToPlay="65" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Tratamento medicamentoso da dependência de álcool</slideTitle>
+			<notes isHTML="true">Disulfiram:&amp;#x20;inibe&amp;#x20;a&amp;#x20;alde&amp;#x00ed;do&amp;#x20;desidrogenase&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="36"/>
+			<slideSpeaker index="0"/>
+			<audios id="35" duration=" 24260">
+				<media url="a24x35x1.mp3" startMsecs="0" duration="24260" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="492" frameRate="30" totalFrames="1312.5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide37.swf"/>
+			<slideBackground index="2" frameToPlay="67" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Tratamento medicamentoso da dependência de álcool</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="37"/>
+			<slideSpeaker index="0"/>
+			<audios id="36" duration=" 43750">
+				<media url="a24x36x1.mp3" startMsecs="0" duration="43750" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="493" frameRate="30" totalFrames="762.6" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide38.swf"/>
+			<slideBackground index="2" frameToPlay="69" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Tratamento medicamentoso da dependência de álcool</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="38"/>
+			<slideSpeaker index="0"/>
+			<audios id="37" duration=" 25420">
+				<media url="a24x37x1.mp3" startMsecs="0" duration="25420" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="494" frameRate="30" totalFrames="415.79999999999995" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide39.swf"/>
+			<slideBackground index="2" frameToPlay="71" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Tratamento medicamentoso da dependência de álcool</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="39"/>
+			<slideSpeaker index="0"/>
+			<audios id="38" duration=" 13860">
+				<media url="a24x38x1.mp3" startMsecs="0" duration="13860" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="496" frameRate="30" totalFrames="571.5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide40.swf"/>
+			<slideBackground index="2" frameToPlay="73" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Tratamento medicamentoso da dependência de álcool</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="40"/>
+			<slideSpeaker index="0"/>
+			<audios id="39" duration=" 19050">
+				<media url="a24x39x1.mp3" startMsecs="0" duration="18990" startAtMSecs="0"/>
+				<media url="a24x39x2.mp3" startMsecs="18990" duration="60" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+		<slide id="497" frameRate="30" totalFrames="220.8" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide41.swf"/>
+			<slideBackground index="1" frameToPlay="5" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>revargens@uol.com.br (21)9217-3817</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="41"/>
+			<slideSpeaker index="0"/>
+			<audios id="41" duration=" 7360">
+				<media url="a24x41x1.mp3" startMsecs="0" duration="7340" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+		</slide>
+	</slides>
+	<attachments></attachments>
+</presentation>
