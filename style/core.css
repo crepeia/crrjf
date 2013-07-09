@@ -567,7 +567,7 @@ CURSOS***********************/
 
 
 #c1, #c2, #c3, #c4, #c5, #c6{
-	border-bottom:10px solid #e0e0e0;
+	border-bottom:5px solid #e0e0e0;
 	padding:20px 0 20px 0;
 }
 
@@ -589,6 +589,10 @@ CURSOS***********************/
 #c1 a {
 	color:#007A00;
 	font-weight:bold;
+}
+
+#descricao1, #descricao2, #descricao3, #descricao4, #descricao5, #descricao6 {
+	display:none;
 }
 
 .buttonsubscribe {
@@ -697,3 +701,5 @@ TEXTOS*/
 .textos p {
 	text-align:justify;
 }
+
+

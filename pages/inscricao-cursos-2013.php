@@ -40,9 +40,8 @@
                     </div>    
             
 		    			<div class="pagecontent">
-        					<?php include('../layout/pagecontent.php') ?>]
-<iframe src="https://www.google.com/calendar/embed?src=d9nskq7dhahjhjimokcnuqgvpc%40group.calendar.google.com&ctz=America/Sao_Paulo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>  
-
+        					<?php include('../layout/pagecontent.php') ?>  
+        					<iframe src="https://docs.google.com/forms/d/1ftZKizwN2YbbHhrDRKyGktm10H6wOkT7lLKp3g3nb8I/viewform?embedded=true" width="800" height="3200" frameborder="0" marginheight="0" marginwidth="0">Carregando...</iframe>  
 						</div>
                 </div>
 

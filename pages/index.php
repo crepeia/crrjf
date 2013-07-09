@@ -111,7 +111,8 @@
     </div>    
 	
 	<div id="pagebottom">
-    <h1><a href="pages/cursos.php">Cursos Disponíveis: aperfeiçoamento e atualização profissional em crack e outras drogas</a></h1>		
+    <h1><a href="pages/cursos.php">Cursos Disponíveis</a></h1>
+    <p>Aperfeiçoamentos e atualizações gratuitos para profissionais em crack e outras drogas.</p>		
     
     
         <div id="curso1">
