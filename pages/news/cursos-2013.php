@@ -43,9 +43,18 @@
 		    			<div class="pagecontent">
         					<?php include '../../libraries/botoesnews.php'; ?>
                             <div class="nsinglenews">
-                                <h1>4 Congresso Internacional sobre Drogas</h1>
+                                <h1>Cursos em 2013</h1>
                                 <?php include '../../libraries/addthis.php'; ?>                                
-        								  <p></p> 
+        					<p>O CRR-JF tem como objetivos qualificar e fortalecer ações da rede de atenção a usuários de crack, álcool e outras drogas. Para isso, são disponibilizados seis cursos:</p>
+        					<ol>
+        					<li>“Curso de Aperfeiçoamento sobre Crack e outras Drogas para profissionais atuantes no Programa de Saúde da Família”;</li>
+        					<li>“Curso de Atualização em Atenção Integral aos Usuários de Crack e outras Drogas”;</li>
+        					<li>“Curso de Atualização sobre Intervenção Breve e Aconselhamento Motivacional em Crack e outras Drogas”;</li>
+        					<li>“Curso de Atualização em Gerenciamento de Casos e Reinserção Social de Usuários de Crack e outras Drogas”;</li>
+        					<li>“Curso de Aperfeiçoamento sobre Crack e outras Drogas”;</li>
+        					<li>“Curso de Aperfeiçoamento sobre Crack e outras Drogas para Sistema Judiciário - Adolescentes”.</li>
+        					</ol>
+        					<p>O Centro de Referência sobre Drogas de Juiz de Fora (CRR-JF) estará em breve  com as inscrições abertas para seis cursos, tendo como público alvo profissionais da saúde, assistência social, segurança e educação, bem como o fortalecimento de políticas regionais e locais na área de drogas. As inscrições poderão ser feitas através do site do CRR-JF  <a href="../cursos.php">aqui</a>. Haverá seleção prévia de todos os inscritos. A documentação necessária para a inscrição final será informada para aqueles que forem selecionados.</p> 
                            	  <?php include '../../libraries/addthis.php'; ?>
 						</div>
                 </div>

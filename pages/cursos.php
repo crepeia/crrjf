@@ -56,49 +56,6 @@
                     
             			
 		    			<div class="pagecontent">
-<!--                           
-                            <div class="cursostop">		
-                                 <div class="subscribe">
-                                          
-                                               <div id="loginheader">
-                                                    <h1> Login </h1>
-                                               </div>		 
-                                                 
-                                               <form class="loginform" id="login" method="post" action="http://www.uaihealth.com/crrjf/login/index.php">
-                                               <div class="c1 fld username">                                    
-                                                    <label for="login_username">Usuário:</label><br />
-                                                    <input type="text" name="username" id="login_username" value="" />
-                                               </div>
-                                               
-                                               <div class="c1 fld password">
-                                                    <label for="login_password">Senha:</label><br />
-                                                    <input type="password" name="password" id="login_password" value="" />
-                                               </div>
-                                               
-                                               <div class="c1btn">
-                                                    <input type="submit" value="Acessar" />
-                                               </div>
-                                                    </form> 
-                                               <div class="loginfooter">
-                                                    <div>
-                                                         <a href="http://www.uaihealth.com/crrjf/login/forgot_password.php">Perdeu a senha?</a>
-                                                         <a href="contato.php">Problemas?</a>
-                                                    </div>
-                                               </div>
-                                   </div><!-- end.subscribe -->
-                                   
-<!--                                                                                                           
-                                   <div id="ldescription">
-                                    
-                                        <h1>Acesso aos cursos</h1>
-                                        <ul>
-                                            <li>Para acessar o curso é necessário fazer seu <a href="#">cadastro</a> em um dos <a href="#cavailable">cursos disponíveis</a> abaixo.</li>
-                                            <li>Se estiver cadastrado, entre com seu nome de usuário e senha no quadro ao lado.</li>
-                                            <li>Problemas? Entre em <a href="http://www.uaihealth.com/pages/contato.php">Contato</a>.</li>
-                                        </ul>
-                                     </div>
-                                                             
-                                </div><!-- end.cursostop -->  
                                   
                  <div class="lecures">
 	                 <h1>Aulas online dos cursos anteriores</h1>
@@ -111,7 +68,7 @@
 
 
 						<div class="coursedescription">
-                        	 <div id="bdescription">
+                        	 
                                         <h1><a name="cavailable">Cursos de 2013</a></h1>
                                         <div id="c1">
                                         	<h2>Curso de Atualização em Intervenção Breve e Aconselhamento Motivacional sobre Crack e Outras Drogas</h2>
@@ -327,7 +284,6 @@
 																<li>A importância do envolvimento familiar na reabilitação de usuários de drogas.</li>
 															</ul>
 
-															
                                             </div>
                                         </div>
                                         
@@ -490,13 +446,13 @@
                                           </div>
                                         </div>
                             
-                        </div><!-- end course description-->         
+                        </div><!--end course description-->         
     
  
-						</div><!-- end.pagecontent-->
+						</div><!--end.pagecontent-->
                 </div>
 
-   		</div><!-- end.corpo --> 
+   		</div><!--end.corpo--> 
     
     
     <!--Footer -->

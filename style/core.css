@@ -10,11 +10,6 @@ html, body {
 	padding:0;
 }
 
-custommenu {
-	padding-left: 100px;
-	width:100%;
-}
-	
 #corpo {
 	margin-left:auto;
 	margin-right:auto;
@@ -85,7 +80,8 @@ h2, h3{
 .header {
 	height:auto;
 	width:auto;
-	padding-top:10px;
+	padding:10px 0 0 0;
+	margin:0;
 }
 
 
@@ -96,6 +92,7 @@ h2, h3{
 
 .headertop {
 	float:left;
+
 }
 
 img#logo {
@@ -116,11 +113,9 @@ img#logo {
 h1.headermain a{
 	line-height:1.0;
 	font-size:0.6em;
-	font-family: 'Julius Sans One'
-	/*font-family:Verdana, Geneva, sans-serif;*/
+	font-family: 'Julius Sans One' sans-serif;
 	font-weight:bold;
 }
-
 
 
 #searchbar {
@@ -132,7 +127,7 @@ h1.headermain a{
 /*PAGECONTENT*/
 
 .pagecontent  h1{
-	font-size:1.5em;
+	font-size:1.6em;
 	
 }
 	
@@ -144,11 +139,15 @@ h1.headermain a{
 /*LEFTMENU*/
 
 #navsite {
-  font-size: .88em;
-  width:170px;
-  height:10px;
-  padding:0 0 0 0;
+  position: relative;
+  top: 0;
+  font-size: .9em;
+  width:180px;
+  height:20px;
+  padding:0;
+  margin-top:0;
   float:left;
+  clear:both;
 }
 
 #navsite ul {
@@ -247,9 +246,9 @@ SLIDESHOW***********************/
 #wrapper {width:336px; margin:0px auto; display:none}
 #wrapper * {margin:0; padding:0}
 #fullsize {position:relative; width:330px; height:206px; padding:2px; background:#e0e0e0}
-#information {position:absolute; bottom:0; width:330px; height:0; background:#e0e0e0; color:#000; overflow:hidden; z-index:200; opacity:0.7; filter:alpha(opacity=70);}
+#information {position:absolute; bottom:0; width:330px; height:0; background:#e0e0e0; color:#000; overflow:hidden; z-index:200; opacity:0.9; filter:alpha(opacity=70);}
 #information h3 {padding:4px 8px 3px; font-size:1.2em; color:#666;}
-#information p {padding:0 8px 8px; font-size:1.1em;}
+#information p {padding:0 8px 8px; font-size:1.1em; text-indent:0;}
 #image {width:330px;height:206px;}
 #image img {position:absolute; z-index:25; width:auto}
 .imgnav {position:absolute; width:25%; height:206px; cursor:pointer; z-index:150}
@@ -277,6 +276,8 @@ INDEX***********************/
 	
 .pagetop {
 	height:250px;
+	position:relative;
+	top:0;
 }
 
 #rightpagetop {
@@ -288,7 +289,6 @@ INDEX***********************/
 	text-align:left;
 	width:480px;
 	float:left;
-	font-size:0.9em;
 }
 
 #noticias p {
@@ -686,6 +686,10 @@ NOTICIAS***********************/
 
 .nnews {
 	border-bottom:1px #e0e0e0 dotted;
+}
+
+.nnews p {
+	text-indent: 0;
 }
 
 /****************************

@@ -2,8 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Seminário de abertura do Centro será realizado dia 11 de agosto | Notícias | CRR-jf</title>
-<meta content="Resultado do processo seletivo é divulgado no site do CRR-JF" />
+<title>Congresso Internacional sobre Drogas | Notícias | CRR-jf</title>
 <link rel="shortcut icon" href="http://www.uaihealth.com/favicon.ico" />
 <?php include '../../variables/variables.php' ?>
 <link type="text/css" rel="stylesheet" href="<?php echo '../../style/core.css' ?>" />
@@ -45,7 +44,9 @@
                             <div class="nsinglenews">
                                 <h1>4 Congresso Internacional sobre Drogas</h1>
                                 <?php include '../../libraries/addthis.php'; ?>                                
-        								  <p></p> 
+        								  <p>Nos dias 27 e 28 de maio, foi realizado no Instituto de Ciências Humanas da Universidade Federal de Juiz de Fora o IV Congresso Internacional Sobre Drogas, organizado pelo grupo de pesquisa CREPEIA (Centro de Referência em Pesquisa, Intervenção e Avaliação em Álcool e Outras Drogas). O Congresso recebeu palestrantes nacionais e internacionais que ministraram temas voltados para o uso de substâncias bem como para as linhas de estudo do grupo crepeia como: estigma, e-health, políticas públicas, tabagismo, internação compulsória e Centro Regional de Referência sobre Drogas (CRR). O congresso deste ano contou com a apresentação oral e de painéis dos participantes do evento, que tiveram a oportunidade de apresentar seus trabalhos enquanto pesquisa e extensão, assim como suas mostras profissionais.</p>
+        								  <p>Acesse <a href="http://www.ufjf.br/crepeia/noticias/4%C2%B0-congresso-internacional-sobre-drogas/anais-do-congresso-internacional-sobre-drogas/">os Anais do evento</a>.</p>
+        								  <p>Os vídeos do congresso podem ser acessados através do <a href="http://www.google.com/url?q=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fcanalcrepeia">Canal CREPEIA</a>.</p> 
                            	  <?php include '../../libraries/addthis.php'; ?>
 						</div>
                 </div>

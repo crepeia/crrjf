@@ -1,10 +1,9 @@
 ﻿<div class="pagetop">
 	<div id="noticias">
 			<h1><a href="pages/noticias.php">Notícias</a></h1>
-				<p class="inews">28/07/2012<br /><a class="inews" href="pages/news/aulas-disponiveis-online-cursos-crrjf.php">Assista aqui as aulas do cursos do centro. </a></p>					
-				<p class="inews">20/07/2012<br /><a class="inews" href="pages/news/webconferencia-3-simposio-internacional-sobre-drogas.php">Acesse as palestras do 3 Simpósio internacional sobre drogas</a></p>					
-				<p class="inews">11/11/2011<br /><a class="inews" href="pages/news/apresentacoes-do-curso-intervencoes-para-tabagismo-disponiveis-para-download.php">Apresentações do curso Intervenções para Tabagismo disponibilizadas para download.</a></p>				
-							  				 
+				<p class="inews">09/07/2013<br /><a class="inews" href="pages/news/cursos-2013.php">Seis cursos estarão com inscrições abertas em breve.</a></p>
+				<p class="inews">05/07/2012<br /><a class="inews" href="pages/news/congresso-internacional-sobre-drogas.php">Notícias do IV Congresso Internacional sobre Drogas realizado em Juiz de Fora.</a></p>
+				<p class="inews">05/07/2013<br /><a class="inews" href="pages/news/aulas-disponiveis-online-cursos-crrjf.php">Acesse as aulas dos cursos de 2011</a></p>
 	</div>
 
     <div id="rightpagetop">
@@ -12,18 +11,18 @@
             <ul id="slideshow">
  
 			   <li>
-                <h3>Assista agora as aulas.</h3>
-                <span>pix/photos/aulas-disponiveis-online-cursos-crrjf.png</span>
-                <p></p>
-                <a href="pages/news/aulas-disponiveis-online-cursos-crrjf.php"><img src="pix/thumbnails/aulas-disponiveis-online-cursos-crrjf.png" alt="Aulas do centro regional sobre drogas disponíveis na internet" /></a>
+                <h3>Cursos novos</h3>
+                <span>pix/photos/cursos-2013.png</span>
+                <p>Em breve, estarão abertas as inscrições para 6 cursos</p>
+                <a href="pages/news/cursos-2013.php"><img src="pix/thumbnails/cursos-2013.png" alt="Cursos disponíveis em 2013" /></a>
             </li>	 
  
             
              <li>
-                <h3>3 Simpósio internacional sobre drogas</h3>
-                <span>pix/photos/simposio-internacional-sobre-drogas.png</span>
-                <p>Acesse as palestras do simpósio</p>
-                <a href="pages/news/webconferencia-3-simposio-internacional-sobre-drogas.php"><img src="pix/thumbnails/simposio-internacional-sobre-drogas.png" alt="3 Simpósio sobre drogas"/></a>
+                <h3>4 Congresso Internacional sobre drogas</h3>
+                <span>pix/photos/4-congresso-internacional.png</span>
+                <p>Veja como foi o congresso e baixe as produções científicas</p>
+                <a href="pages/news/congresso-internacional-sobre-drogas.php"><img src="pix/thumbnails/4-congresso-internacional.png" alt="4 Congresso Internacional sobre Drogas"/></a>
             </li>
 									
 				<li>
@@ -33,6 +32,12 @@
                 <a href="pages/news/apresentacoes-do-curso-intervencoes-para-tabagismo-disponiveis-para-download.php"><img src="pix/thumbnails/seminario-intervencoes-tabagismo.jpg" alt="Curso gratuito intervenções com tabagistas"/></a>
             </li>		    		
 	    		
+	    		<li>
+                <h3>Aulas de 2011</h3>
+                <span>pix/photos/aulas-disponiveis-online-cursos-crrjf.png</span> 
+                <p>Assista as aulas ministradas em 2011.</p>
+                <a href="pages/news/aulas-disponiveis-online-cursos-crrjf.php"><img src="pix/thumbnails/aulas-disponiveis-online-cursos-crrjf.png" alt="Cursos disponíveis em 2011" /></a>
+            </li>  
 	    		
 	    		<li>
                 <h3>Curso de bioestatística</h3>
@@ -41,15 +46,6 @@
                 <a href="pages/news/material-gratuito-curso-bioestatistica.php"><img src="pix/thumbnails/material-gratuito-curso-bioestatistica.png" alt="Curso de bioestatística"/></a>
       		</li>		
 
-			
-				             
-				<li>
-                <h3>Capacitações em Cataguases</h3>
-                <span>pix/photos/capacitacao-cataguases.jpg</span> 
-                <p>Cerca de 250 profissionais serão capacitados paralelamente aos cursos do CRR-jf.</p>
-                <a href="pages/news/capacitacao-cataguases.php"><img src="pix/thumbnails/capacitacao-cataguases.jpg" alt="Capacitação no Município de Cataguases" /></a>
-            </li>                       
-            
             </ul>
         <div id="wrapper">
             <div id="fullsize">
@@ -111,7 +107,7 @@
     </div>    
 	
 	<div id="pagebottom">
-    <h1><a href="pages/cursos.php">Cursos Disponíveis</a></h1>
+    <h1><a href="pages/cursos.php">Cursos</a></h1>
     <p>Aperfeiçoamentos e atualizações gratuitos para profissionais em crack e outras drogas.</p>		
     
     

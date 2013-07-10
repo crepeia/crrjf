@@ -43,6 +43,18 @@
         					<h1>Notícias</h1>
         					
 									<div class="nnews">
+										<p class="ndata">10/07/2013</p>
+                            	<p class="nhnews"><a href="news/cursos-2013.php">Seis cursos estarão com inscrições abertas em breve.</a></p>
+                                <p>Veja mais aqui. <a href="news/cursos-2013.php">Maiores informações</a>.</p>
+                             </div>
+                                
+                           <div class="nnews">
+                              <p class="ndata">05/07/2013</p>
+                            	<p class="nhnews"><a href="news/congresso-internacional-sobre-drogas.php">Notícias do IV Congresso Internacional sobre Drogas</a></p>
+                             <p>Veja as palestras e acesse o conteúdo produzido durante o congresso. <a href="news/congresso-internacional-sobre-drogas.php">Maiores informações</a>.</p>
+		   						</div>	
+									
+									<div class="nnews">
                             	<p class="ndata">28/07/2012</p>
                             	<p class="nhnews"><a href="news/aulas-disponiveis-online-cursos-crrjf.php">Assista aqui as aulas do cursos do centro.</a></p>
                                 <p>Aulas estão disponíves gratuitamente no nosso site. <a href="news/aulas-disponiveis-online-cursos-crrjf.php">Maiores informações</a>.</p>

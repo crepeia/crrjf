@@ -63,11 +63,12 @@ $(document).ready(function(){
 			   	<!--mainmenu-->        
 	    	
             	<div class="main">
+									
 					<div class="leftmenu">
-                    	 <div id="navsite">
+                   <div id="navsite">
 	        				<?php include('layout/leftmenu.php'); ?>
 					    </div>
-                    </div>    
+               </div>    
             
 		    			<div class="pagecontent">
         					<?php include('pages/index.php') ?>    
