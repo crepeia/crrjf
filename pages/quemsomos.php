@@ -66,11 +66,13 @@
 	<li>Três Rios/RJ.</li>
 </ul>
                       
-                             <div id="logos">
-                                        <h4>Realização:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Financiamento:</h4>
-                                        <a href="http://www.ufjf.br/popss" target="_blank"><img class="footerlogos3" src="../pix/images/logoPOPSS.jpg" alt="Pólo de Pesquisa em Psicologia Social e Saúde Coletiva" /></a>
-                                        <a href="http://www.ufjf.br" target="_blank"><img class="footerlogos2" src="../pix/images/logoUFJF.jpg" alt="Universidade Federal de Juiz de Fora" /></a>
-                                        <a href="http://www.senad.gov.br" target="_blank"><img class="footerlogos1" src="../pix/images/senad.gif" alt="Secretaria Nacional de Álcool e Outras Drogas" /></a>     
+     <h4 class="grant1">Realização:</h4>
+    <h4 class="grant2">Financiamento:</h4>
+<div class="logos">    
+    <a href="http://www.ufjf.br" target="_blank"><img class="footerlogos2" src="../pix/images/logoUFJF.jpg" alt="Universidade Federal de Juiz de Fora" /></a>
+    <a href="http://www.ufjf.br/crepeia" target="_blank"><img class="footerlogos3" src="../pix/images/crepeia.png" alt="Centro de Referência em Pesquisa, Intervenção e Avaliação em Álcool e Outras Drogas" /></a>
+    <a href="http://www.senad.gov.br" target="_blank"><img class="footerlogos1" src="../pix/images/senad.png" alt="Secretaria Nacional de Álcool e Outras Drogas" /></a>
+</div>     
                                 </div><!-- endquemsomos-->        
                          </div>    
    

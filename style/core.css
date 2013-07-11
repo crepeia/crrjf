@@ -182,10 +182,10 @@ h1.headermain a{
 /*FOOTER */
 
 .footerlogos3 {
-	height:47px;
-	width:85;
+	height:70px;
+	width:105px;
 	float:left;
-	padding:0px 13px 0 10px;
+	padding:0 13px 0 20px;
 	border:#FFF 1px;
 }
 
@@ -193,7 +193,7 @@ h1.headermain a{
 	height:47px;
 	width:63px;
 	float:left;
-	padding:0 10px 0 20px;
+	padding:13px 10px 0 20px;
 	border:#FFF 1px;
 }
 
@@ -201,7 +201,7 @@ h1.headermain a{
 	height:47px;
 	width:447px;
 	float:right;
-	padding:0 10px 0 20px;
+	padding:15px 10px 0 20px;
 	border:#FFF 1px;
 }
 	
@@ -565,35 +565,99 @@ CURSOS***********************/
 	border-bottom:1px dotted #e0e0e0;
 }
 
+#c1 {
+	border-top: 5px solid #e0e0e0;
+}
 
 #c1, #c2, #c3, #c4, #c5, #c6{
 	border-bottom:5px solid #e0e0e0;
-	padding:20px 0 20px 0;
+	padding:0 0 10px 0;
 }
 
-#c4 a {
-	color:#900;
+#c1 h2, #c1 h3, #c1 h4, #c1 a {
+	color:rgb(11, 90, 245);
 	font-weight:bold;
 }
 
-#c3 a {
-	color:#005c5c;
+#bc1 {
+    padding: 3px 10px;
+    background: rgb(11, 90, 245);
+    color: #FFF;
+    border:none;
+    margin: 10px 0 10px 0;
+}
+
+#c2 h2, #c2 h3, #c2 h4, #c2 a {
+	color:rgb(255, 73, 0);
 	font-weight:bold;
 }
 
-#c2 a {
-	color:#994550;
+#bc2 {
+    padding: 3px 10px;
+    background: rgb(255, 73, 0);
+    color: #FFF;
+    border:none;
+    margin: 10px 0 10px 0;
+}
+
+#c3 h2, #c3 h3, #c3 h4, #c3 a {
+	color:rgb(136, 136, 136);
 	font-weight:bold;
 }
 
-#c1 a {
-	color:#007A00;
+#bc3 {
+    padding: 3px 10px;
+    background: rgb(136, 136, 136);
+    color: #FFF;
+    border:none;
+    margin: 10px 0 10px 0;
+}
+
+#c4 h2, #c4 h3, #c4 h4, #c4 a {
+	color:rgb(0, 175, 100);
 	font-weight:bold;
 }
+
+#bc4 {
+    padding: 3px 10px;
+    background: rgb(0, 175, 100);
+    color: #FFF;
+    border:none;
+    margin: 10px 0 10px 0;
+}
+
+#c5 h2, #c5 h3, #c5 h4, #c5 a {
+	color:rgb(255, 148, 0);
+	font-weight:bold;
+}
+
+#bc5 {
+    padding: 3px 10px;
+    background: rgb(255, 148, 0);
+    color: #FFF;
+    border:none;
+    margin: 10px 0 10px 0;
+}
+
+#c6 h2, #c6 h3, #c6 h4, #c6 a {
+	color:rgb(129, 102, 71);
+	font-weight:bold;
+}
+
+#bc6 {
+    padding: 3px 10px;
+    background: rgb(129, 102, 71);
+    color: #FFF;
+    border:none;
+    margin: 10px 0 10px 0;
+}
+
 
 #descricao1, #descricao2, #descricao3, #descricao4, #descricao5, #descricao6 {
 	display:none;
 }
+
+
 
 .buttonsubscribe {
 	clear:both;
@@ -652,8 +716,8 @@ EQUIPE E LINKS***********************/
 }
 
 .ctext h3, .ctext p{
-	text-indent:10px;
 	line-height:normal;
+	text-indent: 0;
 }
 	
 .cimg {
@@ -672,8 +736,11 @@ EQUIPE E LINKS***********************/
 QUEMSOMOS***********************/
 
 .quemsomos p {
-	text-align:justify;	
+	text-align:justify;
+	text-indent: 0;	
 }
+
+
 
 /****************************
 NOTICIAS***********************/

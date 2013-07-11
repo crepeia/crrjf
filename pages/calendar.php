@@ -41,9 +41,17 @@
             
 		    			<div class="pagecontent">
         					<?php include('../layout/pagecontent.php') ?>
-        					<h1>Calendário dos cursos de 2013</h1>
-        					
-        					
+        					<h1>Calendário dos cursos de 2013 e 2014</h1>
+        					<p>Legenda</p>
+        					<ul>
+        						<li>Hospital geral e centros de atenção psicossocial (Hospital Geral e CAPS) - HGAP</li>
+        						<li>Intervenção Breve e Aconselhamento Motivacional - SUS/SUAS - IBAM</li>
+        						<li>Gerenciamento e reinserção social de usuários de drogas (SUS e SUAS) - GRSD</li>
+        						<li>Sistema Judiciário, Ministério Público e Segurança Pública - SJMP</li>
+        						<li>Profissionais da Atenção Primária em Saúde (PSF e NASF) - APS</li>
+        						<li>Trabalho com adolescentes privados de liberdade - TAPL</li>        						
+        					</ul>
+        					 					
 <iframe src="https://www.google.com/calendar/embed?showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=1500&amp;wkst=1&amp;hl=pt_BR&amp;bgcolor=%23fff&amp;src=d9nskq7dhahjhjimokcnuqgvpc%40group.calendar.google.com&amp;color=%23ffffff&amp;ctz=America%2FSao_Paulo" style="border:solid 1px #fff;" width="800" height="2800" frameborder="0" scrolling="no"></iframe>
 
 						</div>

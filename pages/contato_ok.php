@@ -40,7 +40,7 @@
             
 		    			<div class="pagecontent">
         					<h1>Mensagem enviada com sucesso!</h1> 
-                            <p>Voltar para<a href="http://www.uaihealth.com"> página principal</a></p> 
+                            <p>Voltar para<a href="http://www.crrjf.com.br"> página principal</a></p> 
 						</div>
                 </div>
 

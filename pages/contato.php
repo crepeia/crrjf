@@ -54,8 +54,8 @@ var RecaptchaOptions = {
                             <h4>Endereço:</h4> 
 									 <p style="text-indent:0; font-size:0.9em;">Novas Instalações do Instituto de Ciências Humanas </br> Rua José Lourenço Kelmer, s/n – Campus Universitário </br> Bairro São Pedro Juiz de Fora – Minas Gerais – Brasil
 36036-330</p>
-									 <h4>Telefones: (32) 2102-3165 | (32) 8806-0980 </h4>                            
-                            <h4>Email: crrjf@uaihealth.com </h4>
+									 <h4>Telefones: (32) 2102-3165</h4>                            
+                            <h4>Email: nucleo.crepeia@ufjf.edu.br</h4>
                                                     
                             <form action="../libraries/verifycontact.php" method="post">
 	                         <fieldset>   
@@ -66,7 +66,7 @@ var RecaptchaOptions = {
                 	                    
                                         <?php
 								          require_once('../libraries/recaptchalib.php');
-								          $publickey = "6LdTbsESAAAAAIhKZtjRRsfmhBVkKhLTqadm6sv4"; 
+								          $publickey = "6LeYN-QSAAAAAOo97koEpTiZ9cYGwHwLnxI5vRI- "; 
 										  echo recaptcha_get_html($publickey);
 							        	?>
                                         

@@ -9,7 +9,7 @@ $headers .= 'From: CRR-JF' . "\r\n";
 
 // Destinatário do email
 
-$para = "crrjf@uaihealth.com";
+$para = "nucleo.crepeia@ufjf.edu.br";
 
 // Definindo o aspecto da mensagem
 
@@ -24,7 +24,7 @@ $mensagem  .= "</p>";
 
 // Enviando a mensagem para o destinatário
 
-$envia =  mail($para,"UAI-Health",$mensagem,$headers);
+$envia =  mail($para,"CRRJF",$mensagem,$headers);
   
 // Envia um e-mail para o remetente, agradecendo a visita no site, e dizendo que em breve o e-mail será respondido.
 

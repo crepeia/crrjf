@@ -3,7 +3,7 @@
             <a href="http://twitter.com/share" class="twitter-share-button" id="twitterShareButton">Tweet</a>
 <script type="text/javascript"><!--
 	var o=document.getElementById("twitterShareButton");
-	o.setAttribute("data-url","http://www.uaihealth.com");
+	o.setAttribute("data-url","http://www.crrjf.com.br");
 	o.setAttribute("data-count","horizontal");
 	o.setAttribute("data-via","crrjf");
 	//--></script>
@@ -19,10 +19,8 @@
                 
 				<!--Google+1-->
 				<div id="plusone">
-				<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
-  {lang: 'pt-BR'}
-				</script>
-				<g:plusone></g:plusone>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<g:plusone></g:plusone>
             </div>
             
             

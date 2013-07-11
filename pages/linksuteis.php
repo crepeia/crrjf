@@ -41,7 +41,7 @@
             
 		    			<div class="pagecontent">
         					 <h1> Links Utéis </h1>
-                             <h2> Abaixo você pode conferir links relacionados a crack e outras drogas </h2>
+                             <h2>Abaixo você pode conferir links relacionados a crack e outras drogas </h2>
                              
                               <div class="curriculum">
                                     <div class="lphoto">
@@ -61,15 +61,15 @@
                                     </div>    
                                     
                                     <div class="ctext">                               
-                                        <h3><a href="http://www.brasil.gov.br/enfrentandoocrack"  target="_blank">VIVAVOZ</a></h3>
-                                        <p>O VIVAVOZ é um serviço de call center totalmente gratuito e aberto à comunidade, especializado em oferecer orientações e informações científicas sobre a prevenção do uso indevido de drogas. <a href="http://psicoativas.ufcspa.edu.br/vivavoz/"  target="_blank">Link para o site</a></p>
+                                        <h3><a href="http://www.brasil.gov.br/crackepossivelvencer/cuidado/onde-encontrar-ajuda/cuidado/onde-encontrar-ajuda/vivavoz"  target="_blank">VIVAVOZ</a></h3>
+                                        <p>O VIVAVOZ é um serviço de call center totalmente gratuito e aberto à comunidade, especializado em oferecer orientações e informações científicas sobre a prevenção do uso indevido de drogas. <a href="http://www.brasil.gov.br/crackepossivelvencer/cuidado/onde-encontrar-ajuda/cuidado/onde-encontrar-ajuda/vivavoz"  target="_blank">Link para o site</a></p>
                                     </div>   
                                 </div>  
 
                       
                                  <div class="curriculum">
                                     <div class="lphoto">
-                                        <a href="http://www.obid.senad.gov.br/" target="_blank"><img class="limg" src="../pix/images/logoobid.png" width="132" height="66" alt="Observatório Brasileiro de Informações sobre Drogas" /></a>
+                                        <a href="http://www.obid.senad.gov.br/" target="_blank"><img class="limg" src="../pix/images/logoOBID.png" width="132" height="66" alt="Observatório Brasileiro de Informações sobre Drogas" /></a>
                                     </div>    
                                     
                                     <div class="ctext">                               
@@ -81,16 +81,25 @@
                                 
                                 <div class="curriculum">
                                     <div class="lphoto">
-                                        <a href="http://www.ufjf.br/popss" target="_blank"><img class="limg" src="../pix/images/logopopss.jpg" width="85" height="47" alt="POPSS" /></a>
+                                        <a href="http://www.ufjf.br/crepeia" target="_blank"><img class="limg" src="../pix/images/crepeia.png" width="105" height="70" alt="CREPEIA" /></a>
                                     </div>    
                                     
                                     <div class="ctext">                               
-                                        <h3><a href="http://www.ufjf.br/popss" target="_blank">Pólo de Pesquisa em Psicologia Social e Saúde Coletiva</a></h3>
-                                        <p>O Pólo de Pesquisa em Psicologia Social e Saúde Coletiva é um grupo de pesquisa que desenvolve estudos com os temas drogas, violência e saúde pública. Uma das principais ações tem sido o treinamento e capacitação de profissionais de saúde, assistência social, conselheiros e gestores para utilização de ações de prevenção ao uso de álcool e outras drogas e da violência doméstica.<a href="http://www.ufjf.br/popss" target="_blank">Link para o site</a></p>
+                                        <h3><a href="http://www.ufjf.br/popss" target="_blank">CREPEIA</a></h3>
+                                        <p>O Centro de Referência em Pesquisa, Intervenção e Avaliação em Álcool e Outras Drogas (CREPEIA) é um grupo ligado ao Pólo de Pesquisa em Psicologia Social e Saúde Coletiva (POPSS) da UFJF, composto por docentes, pesquisadores, pós-graduandos e acadêmicos com formação na área de álcool, tabaco e outras drogas. <a href="http://www.ufjf.br/crepeia" target="_blank">Link para o site</a></p>
                                     </div>   
                                 </div> 
                                                             
-                               
+                                 <div class="curriculum">
+                                    <div class="lphoto">
+                                        <a href="https://www.informalcool.org.br/" target="_blank"><img class="limg" src="../pix/images/informalcool.png" width="174" height="70" alt="CREPEIA" /></a>
+                                    </div>    
+                                    
+                                    <div class="ctext">                               
+                                        <h3><a href="https://www.informalcool.org.br/" target="_blank">Portal Informálcool</a></h3>
+                                        <p>Se você é um profissional  ou gestor de saúde, familiar, usuário de álcool ou alguém preocupado com algum parente ou amigo, aqui você encontrará informações importantes sobre os efeitos do consumo de álcool. <a href="https://www.informalcool.org.br/" target="_blank">Link para o site</a></p>
+                                    </div>   
+                                </div>                               
                              
                              
                              

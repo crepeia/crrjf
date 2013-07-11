@@ -69,12 +69,13 @@
 
 						<div class="coursedescription">
                         	 
-                                        <h1><a name="cavailable">Cursos de 2013</a></h1>
+                                        <h1><a name="cavailable" id="">Cursos de 2013 e 2014</a></h1>
+                                        <p>Confira aqui os cursos, ementas e link para inscrições</p>
                                         <div id="c1">
-                                        	<h2>Curso de Atualização em Intervenção Breve e Aconselhamento Motivacional sobre Crack e Outras Drogas</h2>
+                                        	<a name="c1"></a><h2>Curso de Atualização em Intervenção Breve e Aconselhamento Motivacional sobre Crack e Outras Drogas</h2>
                                             <strong>Vagas: </strong>160 (80 vagas 2013 e 80 vagas 2014)<br />
                                             <strong>Público Alvo:</strong>Profissionais das redes SUS e SUAS, especialmente Agentes Comunitários de Saúde, Redutores de Danos, Agentes Sociais e demais profissionais que atuam nos Consultórios de/na Rua<br />
-                                            <strong>Descrição:</strong> São abordados tópicos para correta utilização da Entrevista Motivacional e das Intervenções Breves na abordagem ao usuário de risco de substâncias, abordagens utilizadas em todo mundo para parada ou redução do consumo de drogas. <input type="button" value="Mais informações" onclick="fade('descricao1', this)"/>
+                                            <strong>Descrição:</strong> São abordados tópicos para correta utilização da Entrevista Motivacional e das Intervenções Breves na abordagem ao usuário de risco de substâncias, abordagens utilizadas em todo mundo para parada ou redução do consumo de drogas. <br /><input type="button" id="bc1" value="Mais informações" onclick="fade('descricao1', this)"/>  <a href="calendar.php"><input type="button" id="bc1" value="Cronograma"/></a>  <a href="inscricao-cursos-2013.php"><input type="button" id="bc1" value="Inscrição"/></a> 
 														<div id="descricao1">
 															<h3><a href="" target="blank">Cronograma</a></h3>
 															<h3>Ementa</h3>
@@ -126,16 +127,15 @@
 																<li>Estudos de caso de exemplos bem sucedidos de IB para usuários de drogas.</li>
 																<li>Conceito, princípios, estratégias e aplicações das Intervenções Breves em distintas populações e situações, com foco em usuários de drogas.</li>
 															</ul>
-															
 														</div>  
                                                                               
                                         </div> 
                                             
                                         <div id="c2">
-                                        	<h2><a href="curso-gerenciamento-casos-crack-drogas.php">Curso de Aperfeiçoamento em Gerenciamento de Casos e Reinserção Social de Usuários de Crack e Outras Drogas para Profissionais das Redes SUS e SUAS</a></h2>
+                                        	<a name="c2"></a><h2>Curso de Aperfeiçoamento em Gerenciamento de Casos e Reinserção Social de Usuários de Crack e Outras Drogas para Profissionais das Redes SUS e SUAS</h2>
                                             <strong>Vagas:</strong>100<br />
                                             <strong>Público Alvo:</strong> Profissionais das redes SUS e SUAS<br />
-                                            <strong>Descrição:</strong> São abordados conteúdos essenciais para o desenvolvimento de intervenções mais efetivas com relação à prevenção, promoção e reabilitação psicossocial de usuários de substâncias psicoativas a partir da integração entre os dispositivos assistenciais e comunidade e do fortalecimento das redes sociais.<input type="button" value="Mais informações" onclick="fade('descricao2', this)"/>
+                                            <strong>Descrição:</strong> São abordados conteúdos essenciais para o desenvolvimento de intervenções mais efetivas com relação à prevenção, promoção e reabilitação psicossocial de usuários de substâncias psicoativas a partir da integração entre os dispositivos assistenciais e comunidade e do fortalecimento das redes sociais. <br /><input type="button" id="bc2" value="Mais informações" onclick="fade('descricao2', this)"/>  <a href="calendar.php"><input type="button" id="bc2" value="Cronograma"/>  <a href="inscricao-cursos-2013.php"><input type="button" id="bc2" value="Inscrição"/></a>
 														<div id="descricao2">
 															<h3><a href="" target="blank">Cronograma</a></h3>
 															<h3>Ementa</h3>
@@ -192,16 +192,15 @@
 															</ul>
 															
 															
-														</div>  
-                                            
+														</div>                                       
                                             
                                         </div> 
                               
                               			<div id="c3">
-                                        	<h2><a href="curso-aperfeicoamento-crack-drogas-medicos.php">Curso de Aperfeiçoamento em Crack e Outras Drogas para Profissionais Atuantes no Programa de Saúde da Família (PSF) e no Núcleo de Assistência à Saúde da Família (NASF)</a></h2>
+                                        	<a name="c3"></a><h2>Curso de Aperfeiçoamento em Crack e Outras Drogas para Profissionais Atuantes no Programa de Saúde da Família (PSF) e no Núcleo de Assistência à Saúde da Família (NASF)</h2>
                                             <strong>Vagas:</strong>80<br />
                                             <strong>Público Alvo:</strong>Profissionais atuantes no Programa de Saúde da Família  (tais como médicos, enfermeiros, auxiliares de enfermagem, agentes comunitários de saúde, dentre outros) e no Núcleo de Assistência à Saúde da Família.<br />
-                                            <strong>Descrição: </strong>O curso terá como objetivo qualificar profissionais da rede básica para realizar o atendimento de usuários de crack, álcool e outras drogas, contribuindo para a aquisição de conhecimentos essenciais para o desenvolvimento de intervenções mais efetivas na promoção, prevenção e reabilitação psicossocial de usuários. <input type="button" value="Mais informações" onclick="fade('descricao3', this)"/>
+                                            <strong>Descrição: </strong>O curso terá como objetivo qualificar profissionais da rede básica para realizar o atendimento de usuários de crack, álcool e outras drogas, contribuindo para a aquisição de conhecimentos essenciais para o desenvolvimento de intervenções mais efetivas na promoção, prevenção e reabilitação psicossocial de usuários. <br /> <input type="button" id="bc3" value="Mais informações" onclick="fade('descricao3', this)"/> <a href="calendar.php"><input type="button" id="bc3" value="Cronograma"/>  <a href="inscricao-cursos-2013.php"><input type="button" id="bc3" value="Inscrição"/></a>
                                           <div id="descricao3">
 															<h3><a href="" target="blank">Cronograma</a></h3>
 															<h3>Ementa</h3>
@@ -288,10 +287,10 @@
                                         </div>
                                         
                                         <div id="c4">
-                                        	<h2><a href="curso-atencao-usuarios-crack-drogas-hospital-geral.php">Curso de Atualização em Atenção Integral aos Usuários de Crack e Outras Drogas para Profissionais que atuam em Hospitais  Gerais e Centros de Atenção Psicossocial (CAPS)</a></h2>
+                                        	<a name="c4"></a><h2>Curso de Atualização em Atenção Integral aos Usuários de Crack e Outras Drogas para Profissionais que atuam em Hospitais  Gerais e Centros de Atenção Psicossocial (CAPS)</h2>
                                             <strong>Vagas:</strong>100<br />
                                             <strong>Público Alvo:</strong>Profissionais de Hospitais Gerais e CAPS.<br />
-                                            <strong>Descrição:</strong>O curso terá como objetivo qualificar o profissional de saúde a realizar o atendimento de usuários de crack e outras drogas em hospital geral e CAPS, contribuindo para aquisição de conhecimentos essenciais para o desenvolvimento de intervenções mais efetivas na prevenção, promoção e reabilitação psicossocial de usuários de substâncias psicoativas.<input type="button" value="Mais informações" onclick="fade('descricao4', this)"/>
+                                            <strong>Descrição:</strong>O curso terá como objetivo qualificar o profissional de saúde a realizar o atendimento de usuários de crack e outras drogas em hospital geral e CAPS, contribuindo para aquisição de conhecimentos essenciais para o desenvolvimento de intervenções mais efetivas na prevenção, promoção e reabilitação psicossocial de usuários de substâncias psicoativas. <br /><input type="button" id="bc4" value="Mais informações" onclick="fade('descricao4', this)"/>  <a href="calendar.php"><input type="button" id="bc4" value="Cronograma"/> <a href="inscricao-cursos-2013.php"><input type="button" id="bc4" value="Inscrição"/></a>
                                           <div id="descricao4">
 															<h3><a href="" target="blank">Cronograma</a></h3>
 															<h3>Ementa</h3>
@@ -364,10 +363,10 @@
                                         </div>   
                                         
                                          <div id="c5">
-                                        	<h2><a href="curso-atencao-usuarios-crack-drogas-hospital-geral.php">Curso de Aperfeiçoamento sobre Crack e Outras Drogas para Agentes do Sistema Judiciário, do Ministério Público e da Segurança Pública</a></h2>
+                                        	<a name="c5"></a><h2>Curso de Aperfeiçoamento sobre Crack e Outras Drogas para Agentes do Sistema Judiciário, do Ministério Público e da Segurança Pública</h2>
                                             <strong>Vagas:</strong>80<br />
                                             <strong>Público Alvo:</strong>Agentes do Sistema Judiciário, do Ministério Público, da Segurança Pública, Defensoria Pública e OAB.<br />
-                                            <strong>Descrição:</strong>O curso terá como objetivo qualificar o profissional a realizar o atendimento  de usuários de crack e outras drogas no contexto da Justiça, contribuindo para aquisição de conhecimentos essenciais para o desenvolvimento de intervenções mais efetivas na prevenção, promoção e reabilitação psicossocial de usuários de substâncias psicoativas.<input type="button" value="Mais informações" onclick="fade('descricao5', this)"/>
+                                            <strong>Descrição:</strong>O curso terá como objetivo qualificar o profissional a realizar o atendimento  de usuários de crack e outras drogas no contexto da Justiça, contribuindo para aquisição de conhecimentos essenciais para o desenvolvimento de intervenções mais efetivas na prevenção, promoção e reabilitação psicossocial de usuários de substâncias psicoativas. <br /><input type="button" id="bc5" value="Mais informações" onclick="fade('descricao5', this)"/>  <a href="calendar.php"><input type="button" id="bc5" value="Cronograma"/> <a href="inscricao-cursos-2013.php"><input type="button" id="bc5" value="Inscrição"/></a>
                                           <div id="descricao5">
                                           <h4>Ementa</h4>
 														<h3>Política Nacional sobre Drogas</h3>
@@ -406,10 +405,10 @@
                                         </div>
                                         
                                           <div id="c6">
-                                        	<h2><a href="curso-atencao-usuarios-crack-drogas-hospital-geral.php">Curso de Aperfeiçoamento sobre Crack e outras Drogas para Profissionais do Poder Judiciário, Ministério Público e entidades que atuam no atendimento/apoio a adolescentes em cumprimento de medidas socioeducativas, com privação de liberdade</a></h2>
+                                        	<a name="c6"></a><h2>Curso de Aperfeiçoamento sobre Crack e outras Drogas para Profissionais do Poder Judiciário, Ministério Público e entidades que atuam no atendimento/apoio a adolescentes em cumprimento de medidas socioeducativas, com privação de liberdade</h2>
                                             <strong>Vagas:</strong>160 (80 vagas para 2013 e 80 vagas para 2014)<br />
                                             <strong>Público Alvo:</strong>Profissionais do Poder Judiciário, Ministério Público, Defensoria Pública, OAB, Conselho Tutelar e entidades que atuam no atendimento/apoio a adolescentes em cumprimento de medidas sócio-educativas ou com privação de liberdade.<br />
-                                            <strong>Descrição:</strong>Serão abordados conteúdos para o desenvolvimento de intervenções mais efetivas com relação à prevenção, promoção e reinserção social de adolescentes usuários de substâncias psicoativas a partir do fortalecimento das redes de serviços, contribuindo para o  desenvolvimento mais saudável e minimizando riscos.<input type="button" value="Mais informações" onclick="fade('descricao6', this)"/>
+                                            <strong>Descrição:</strong>Serão abordados conteúdos para o desenvolvimento de intervenções mais efetivas com relação à prevenção, promoção e reinserção social de adolescentes usuários de substâncias psicoativas a partir do fortalecimento das redes de serviços, contribuindo para o  desenvolvimento mais saudável e minimizando riscos.<br /><input type="button" id="bc6" value="Mais informações" onclick="fade('descricao6', this)"/>  <a href="calendar.php"><input type="button" id="bc6" value="Cronograma"/>  <a href="inscricao-cursos-2013.php"><input type="button" id="bc6" value="Inscrição"/></a>
                                           <div id="descricao6">
                                           <h3>Ementa:</h3>
 														<h4>Políticas setoriais de saúde, saúde mental e de assistência social</h4>
@@ -419,7 +418,7 @@
 															<li>Políticas Públicas de Saúde Mental</li>
 															<li>Políticas Públicas para usuários de álcool e outras drogas</li>
 														</ul>
-														<h4>Adolescência: abordagem do desenvolvimento</h4>.
+														<h4>Adolescência: abordagem do desenvolvimento</h4>
 														<ul>
 															<li>Vulnerabilidade e adolescencia</li>
 															<li>Fatores de risco, proteção e resiliência</li>

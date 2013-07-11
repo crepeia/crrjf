@@ -112,49 +112,49 @@
     
     
         <div id="curso1">
-        	<h3><a href="pages/cursos.php">Hospital geral e centros de atenção psicossocial (Hospital Geral e CAPS)
+        	<h3><a href="pages/cursos.php#c4">Hospital geral e centros de atenção psicossocial (Hospital Geral e CAPS) 
 </a></h3>
-            <p>Visa capacitar o profissional de saúde para realizar atendimento a usuários drogas em hospital geral e CAPS, com manejo de casos de uso crônico, intoxicação aguda e abstinência. <a href="">Leia mais</a></p>
+            <p>Visa capacitar o profissional de saúde para realizar atendimento a usuários drogas em hospital geral e CAPS, com manejo de casos de uso crônico, intoxicação aguda e abstinência. <a href="pages/cursos.php#c4">Leia mais</a></p>
             <a href="#" class="button">
 				<span class="acesso">Acesso</span>
 			</a>
         </div>           
         	
         <div id="curso2">
-        	<h3><a href="pages/cursos.php">Intervenção Breve e Aconselhamento Motivacional - SUS/SUAS</a></h3>
-            <p>Visa capacitar profissionais para desenvolverem estratégias de reinserção de usuários de drogas no contexto sóciocomunitário aprimorando o processo de recuperação. <a href="">Leia mais</a></p>
+        	<h3><a href="pages/cursos.php#c1">Intervenção Breve e Aconselhamento Motivacional - SUS/SUAS</a></h3>
+            <p>Visa capacitar profissionais para desenvolverem estratégias de reinserção de usuários de drogas no contexto sóciocomunitário aprimorando o processo de recuperação. <a href="pages/cursos.php#c1">Leia mais</a></p>
              <a href="#" class="button">
 				<span class="acesso">Acesso</span>
 			</a>
         </div>    
         
         <div id="curso3">
-            <h3><a href="pages/cursos.php">Gerenciamento e reinserção social de usuários de drogas (SUS e SUAS)</a></h3>
-            <p>Visa capacitar profissionais para desenvolverem estratégias de gerenciamento e reinserção social de usuários de drogas no contexto sóciocomunitário aprimorando o processo de recuperação. <a href="">Leia mais</a></p>
+            <h3><a href="pages/cursos.php#c2">Gerenciamento e reinserção social de usuários de drogas (SUS e SUAS)</a></h3>
+            <p>Visa capacitar profissionais para desenvolverem estratégias de gerenciamento e reinserção social de usuários de drogas no contexto sóciocomunitário aprimorando o processo de recuperação. <a href="pages/cursos.php#c2">Leia mais</a></p>
              <a href="#" class="button">
 				<span class="acesso">Acesso</span>
 			</a>
         </div>
         
         <div id="curso4">
-            <h3><a href="pages/cursos.php">Sistema Judiciário, Ministério Público e Segurança Pública</a></h3>
-            <p>Visa capacitar profissionais do Sistema Judiciário, MP e Segurança Pública para desenvolver estratégias efetivas de promoção, prevenção,  intervenção e reinserção social. <a href="">Leia mais</a></p>
+            <h3><a href="pages/cursos.php#c5">Sistema Judiciário, Ministério Público e Segurança Pública</a></h3>
+            <p>Visa capacitar profissionais do Sistema Judiciário, MP e Segurança Pública para desenvolver estratégias efetivas de promoção, prevenção,  intervenção e reinserção social. <a href="pages/cursos.php#c5">Leia mais</a></p>
              <a href="#" class="button">
 				<span class="acesso">Acesso</span>
 			</a>
         </div>
         
          <div id="curso5">
-        	<h3><a href="pages/cursos.php">Profissionais da Atenção Primária em Saúde (PSF e NASF)</a></h3>
-            <p>Visa capacitar os profissionais da rede básica para realizar intervenções efetivas na promoção, prevenção e reabilitação psicossocial de usuários de substâncias psicoativas. <a href="">Leia mais</a></p>
+        	<h3><a href="pages/cursos.php#c3">Profissionais da Atenção Primária em Saúde (PSF e NASF)</a></h3>
+            <p>Visa capacitar os profissionais da rede básica para realizar intervenções efetivas na promoção, prevenção e reabilitação psicossocial de usuários de substâncias psicoativas. <a href="pages/cursos.php#c3">Leia mais</a></p>
              <a href="#" class="button">
 				<span class="acesso">Acesso</span>
 			</a>
         </div> 
         
         <div id="curso6">
-            <h3><a href="pages/cursos.php">Trabalho com adolescentes privados de liberdade</a></h3>
-            <p>Visa capacitar profissionais do Poder Judiciário, MP, Sistema Judiciário e ONG's em estratégias efetivas de promoção, prevenção,  intervenção e reinserção social para adolescentes. <a href="">Leia mais</a></p>
+            <h3><a href="pages/cursos.php#c6">Trabalho com adolescentes privados de liberdade</a></h3>
+            <p>Visa capacitar profissionais do Poder Judiciário, MP, Sistema Judiciário e ONG's em estratégias efetivas de promoção, prevenção,  intervenção e reinserção social para adolescentes. <a href="pages/cursos.php#c6">Leia mais</a></p>
              <a href="#" class="button">
 				<span class="acesso">Acesso</span>
 			</a>
@@ -163,3 +163,10 @@
 	</div> 
 </div>
 
+    <h4 class="grant1">Realização:</h4>
+    <h4 class="grant2">Financiamento:</h4>
+<div class="logos">    
+    <a href="http://www.ufjf.br" target="_blank"><img class="footerlogos2" src="pix/images/logoUFJF.jpg" alt="Universidade Federal de Juiz de Fora" /></a>
+    <a href="http://www.ufjf.br/crepeia" target="_blank"><img class="footerlogos3" src="pix/images/crepeia.png" alt="Centro de Referência em Pesquisa, Intervenção e Avaliação em Álcool e Outras Drogas" /></a>
+    <a href="http://www.senad.gov.br" target="_blank"><img class="footerlogos1" src="pix/images/senad.png" alt="Secretaria Nacional de Álcool e Outras Drogas" /></a>
+</div>
