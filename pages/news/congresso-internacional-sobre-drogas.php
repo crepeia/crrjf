@@ -50,6 +50,7 @@
                            	  <?php include '../../libraries/addthis.php'; ?>
 						</div>
                 </div>
+                </div>
 
    		</div><!-- end.corpo --> 
      

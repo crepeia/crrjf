@@ -1,52 +1,54 @@
 ﻿<div class="pagetop">
 	<div id="noticias">
 			<h1><a href="pages/noticias.php">Notícias</a></h1>
-				<p class="inews">09/07/2013<br /><a class="inews" href="pages/news/cursos-2013.php">Seis cursos estarão com inscrições abertas em breve.</a></p>
-				<p class="inews">05/07/2012<br /><a class="inews" href="pages/news/congresso-internacional-sobre-drogas.php">Notícias do IV Congresso Internacional sobre Drogas realizado em Juiz de Fora.</a></p>
-				<p class="inews">05/07/2013<br /><a class="inews" href="pages/news/aulas-disponiveis-online-cursos-crrjf.php">Acesse as aulas dos cursos de 2011</a></p>
+		                <p class="inews">24/10/2014<br /><a class="inews" href="pages/curso-prevencao-uso-de-drogas.php">Recuperação Curso Prevenção do Uso de Drogas</a></p>
+				<p class="inews">01/08/2013<br /><a class="inews" href="pages/resultado.php">Resultado dos profissionais selecionados CRRJF 2013/2014</a></p>
+				<p class="inews">18/07/2013<br /><a class="inews" href="pages/news/cursos-2013.php">Pré inscrições abertas para 6 cursos</a></p>				
+				
 	</div>
 
     <div id="rightpagetop">
         <div id="sshow">
-            <ul id="slideshow">
- 
-			   <li>
-                <h3>Cursos novos</h3>
-                <span>pix/photos/cursos-2013.png</span>
-                <p>Em breve, estarão abertas as inscrições para 6 cursos</p>
-                <a href="pages/news/cursos-2013.php"><img src="pix/thumbnails/cursos-2013.png" alt="Cursos disponíveis em 2013" /></a>
-            </li>	 
- 
-            
-             <li>
-                <h3>4 Congresso Internacional sobre drogas</h3>
-                <span>pix/photos/4-congresso-internacional.png</span>
-                <p>Veja como foi o congresso e baixe as produções científicas</p>
-                <a href="pages/news/congresso-internacional-sobre-drogas.php"><img src="pix/thumbnails/4-congresso-internacional.png" alt="4 Congresso Internacional sobre Drogas"/></a>
-            </li>
-									
-				<li>
-                <h3>Apresentações disponíveis para download</h3>
-                <span>pix/photos/seminario-intervencoes-tabagismo.jpg</span> 
-                <p>Faça o download das apresentações do curso de intervenções para tabagismo.</p>
-                <a href="pages/news/apresentacoes-do-curso-intervencoes-para-tabagismo-disponiveis-para-download.php"><img src="pix/thumbnails/seminario-intervencoes-tabagismo.jpg" alt="Curso gratuito intervenções com tabagistas"/></a>
-            </li>		    		
-	    		
-	    		<li>
-                <h3>Aulas de 2011</h3>
-                <span>pix/photos/aulas-disponiveis-online-cursos-crrjf.png</span> 
-                <p>Assista as aulas ministradas em 2011.</p>
-                <a href="pages/news/aulas-disponiveis-online-cursos-crrjf.php"><img src="pix/thumbnails/aulas-disponiveis-online-cursos-crrjf.png" alt="Cursos disponíveis em 2011" /></a>
-            </li>  
-	    		
-	    		<li>
-                <h3>Curso de bioestatística</h3>
-                <span>pix/photos/material-gratuito-curso-bioestatistica.png</span> 
-                <p>Material do curso ministrado por estatístico da Kansas University.</p>
-                <a href="pages/news/material-gratuito-curso-bioestatistica.php"><img src="pix/thumbnails/material-gratuito-curso-bioestatistica.png" alt="Curso de bioestatística"/></a>
-      		</li>		
+            <ul id="slideshow">         
 
+                <li>
+                    <h3>Recuperação Curso Prevenção do Uso de Drogas</h3>
+                    <span>pix/photos/recuperacao-curso-prevencao-uso-drogas.png</span> 
+                    <p>Acesse aqui as apostilas do curso e a prova.</p>
+                    <a href="pages/curso-prevencao-uso-de-drogas.php"><img src="pix/thumbnails/recuperacao-curso-prevencao-uso-drogas.png" alt="Recuperação do curso Prevenção do uso de drogas" /></a>
+                </li>  
+
+
+	    		<li>
+                    <h3>Veja lista de pré-inscritos dos 6 cursos</h3>
+                    <span>pix/photos/resultado-parcial-2013.png</span> 
+                    <p></p>
+                    <a href="pages/resultado.php"><img src="pix/thumbnails/resultado-parcial-2013.png" alt="Resultados Parciais"/></a>
+      		    </li>            
+
+	    	    <li>
+                    <h3>6 Cursos</h3>
+                    <span>pix/photos/inscricoes-abertas.png</span> 
+                    <p>Veja os cursos e faça sua pré inscrição agora mesmo.</p>
+                    <a href="pages/news/cursos-2013.php"><img src="pix/thumbnails/inscricoes-abertas.png" alt="Inscrições abertas"/></a>
+      		    </li>	 			   
+            
+                 <li>
+                    <h3>4 Congresso Internacional sobre drogas</h3>
+                    <span>pix/photos/4-congresso-internacional.png</span>
+                    <p>Veja como foi o congresso e baixe as produções científicas</p>
+                    <a href="pages/news/congresso-internacional-sobre-drogas.php"><img src="pix/thumbnails/4-congresso-internacional.png" alt="4 Congresso Internacional sobre Drogas"/></a>
+                </li>
+									
+    			<li>
+                    <h3>Apresentações disponíveis para download</h3>
+                    <span>pix/photos/seminario-intervencoes-tabagismo.jpg</span> 
+                    <p>Faça o download das apresentações do curso de intervenções para tabagismo.</p>
+                    <a href="pages/news/apresentacoes-do-curso-intervencoes-para-tabagismo-disponiveis-para-download.php"><img src="pix/thumbnails/seminario-intervencoes-tabagismo.jpg" alt="Curso gratuito intervenções com tabagistas"/></a>
+                </li>		    		
             </ul>
+
+
         <div id="wrapper">
             <div id="fullsize">
                 <div id="imgprev" class="imgnav" title="Previous Image"></div>
@@ -122,7 +124,7 @@
         	
         <div id="curso2">
         	<h3><a href="pages/cursos.php#c1">Intervenção Breve e Aconselhamento Motivacional - SUS/SUAS</a></h3>
-            <p>Visa capacitar profissionais para desenvolverem estratégias de reinserção de usuários de drogas no contexto sóciocomunitário aprimorando o processo de recuperação. <a href="pages/cursos.php#c1">Leia mais</a></p>
+            <p>Visa capacitar profissionais da Rede SUS e SUAS para utilização de técnicas voltadas a promoção da motivação para mudança entre usuários de substâncias psicoativas.<a href="pages/cursos.php#c1">Leia mais</a></p>
              <a href="#" class="button">
 				<span class="acesso">Acesso</span>
 			</a>
@@ -153,7 +155,7 @@
         </div> 
         
         <div id="curso6">
-            <h3><a href="pages/cursos.php#c6">Trabalho com adolescentes privados de liberdade</a></h3>
+            <h3><a href="pages/cursos.php#c6">Atendimento a adolescentes privados de liberdade</a></h3>
             <p>Visa capacitar profissionais do Poder Judiciário, MP, Sistema Judiciário e ONG's em estratégias efetivas de promoção, prevenção,  intervenção e reinserção social para adolescentes. <a href="pages/cursos.php#c6">Leia mais</a></p>
              <a href="#" class="button">
 				<span class="acesso">Acesso</span>

@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -52,7 +52,7 @@ var RecaptchaOptions = {
         					
                             <h1>Contato</h1>
                             <h4>Endereço:</h4> 
-									 <p style="text-indent:0; font-size:0.9em;">Novas Instalações do Instituto de Ciências Humanas </br> Rua José Lourenço Kelmer, s/n – Campus Universitário </br> Bairro São Pedro Juiz de Fora – Minas Gerais – Brasil
+									 <p style="text-indent:0; font-size:0.9em;"> Instituto de Ciências Humanas (Novas Instalações) </br> Bloco II - 3º Andar - Sala 23 </br> Rua José Lourenço Kelmer, s/n – Campus Universitário </br> Bairro São Pedro Juiz de Fora – Minas Gerais – Brasil
 36036-330</p>
 									 <h4>Telefones: (32) 2102-3165</h4>                            
                             <h4>Email: nucleo.crepeia@ufjf.edu.br</h4>

@@ -1,8 +1,8 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Cursos | CRR-jf </title>
+<title>Cursos 2013-2014 | CRR-jf </title>
 <link rel="shortcut icon" href="../favicon.ico" />
 <?php include '../variables/variables.php' ?>
 <link type="text/css" rel="stylesheet" href="<?php echo '../style/core.css' ?>" />
@@ -56,7 +56,10 @@
                     
             			
 		    			<div class="pagecontent">
-                                  
+
+               <!-- Conteúdo transformado em comentário
+
+                   
                  <div class="lecures">
 	                 <h1>Aulas online dos cursos anteriores</h1>
 	                 <ul>
@@ -66,18 +69,25 @@
    	                               
                  </div>
 
-
+		-->
 						<div class="coursedescription">
                         	 
                                         <h1><a name="cavailable" id="">Cursos de 2013 e 2014</a></h1>
-                                        <p>Confira aqui os cursos, ementas e link para inscrições</p>
+                                        <p>Confira aqui os cursos, ementas e link para inscrições e comentários</p>
                                         <div id="c1">
                                         	<a name="c1"></a><h2>Curso de Atualização em Intervenção Breve e Aconselhamento Motivacional sobre Crack e Outras Drogas</h2>
-                                            <strong>Vagas: </strong>160 (80 vagas 2013 e 80 vagas 2014)<br />
+                                            <strong>Vagas 2013: </strong> Esgotadas <br />
+					    <strong>Vagas 2014: </strong> 40 vagas em Fevereiro<br />
                                             <strong>Público Alvo:</strong>Profissionais das redes SUS e SUAS, especialmente Agentes Comunitários de Saúde, Redutores de Danos, Agentes Sociais e demais profissionais que atuam nos Consultórios de/na Rua<br />
-                                            <strong>Descrição:</strong> São abordados tópicos para correta utilização da Entrevista Motivacional e das Intervenções Breves na abordagem ao usuário de risco de substâncias, abordagens utilizadas em todo mundo para parada ou redução do consumo de drogas. <br /><input type="button" id="bc1" value="Mais informações" onclick="fade('descricao1', this)"/>  <a href="calendar.php"><input type="button" id="bc1" value="Cronograma"/></a>  <a href="inscricao-cursos-2013.php"><input type="button" id="bc1" value="Inscrição"/></a> 
-														<div id="descricao1">
-															<h3><a href="" target="blank">Cronograma</a></h3>
+                                            <strong>Descrição:</strong> São abordados tópicos para correta utilização da Entrevista Motivacional e das Intervenções Breves na abordagem ao usuário de risco de substâncias, abordagens utilizadas em todo mundo para parada ou redução do consumo de drogas. <br />
+						<input type="button" id="bc1" value="+ informações" onclick="fade('descricao1', this)"/>  
+							<a href="calendar.php"><input type="button" id="bc1" value="Cronograma"/></a>  
+							<a href="inscricao-cursos-2013.php"><input type="button" id="bc1" value="Inscrição"/></a> 
+							<a href="resultado.php"><input type="button" id="bc1" value="Selecionados"/></a>
+							<a href="matricula.php"><input type="button" id="bc1" value="Matrícula"/></a>
+							
+															<div id="descricao1">
+															
 															<h3>Ementa</h3>
 															<h4>Políticas Sobre Drogas</h4>
 															<ul>
@@ -127,17 +137,24 @@
 																<li>Estudos de caso de exemplos bem sucedidos de IB para usuários de drogas.</li>
 																<li>Conceito, princípios, estratégias e aplicações das Intervenções Breves em distintas populações e situações, com foco em usuários de drogas.</li>
 															</ul>
+
 														</div>  
                                                                               
                                         </div> 
                                             
                                         <div id="c2">
                                         	<a name="c2"></a><h2>Curso de Aperfeiçoamento em Gerenciamento de Casos e Reinserção Social de Usuários de Crack e Outras Drogas para Profissionais das Redes SUS e SUAS</h2>
-                                            <strong>Vagas:</strong>100<br />
+                                            <strong>Vagas 2013:</strong>Esgotadas<br />
                                             <strong>Público Alvo:</strong> Profissionais das redes SUS e SUAS<br />
-                                            <strong>Descrição:</strong> São abordados conteúdos essenciais para o desenvolvimento de intervenções mais efetivas com relação à prevenção, promoção e reabilitação psicossocial de usuários de substâncias psicoativas a partir da integração entre os dispositivos assistenciais e comunidade e do fortalecimento das redes sociais. <br /><input type="button" id="bc2" value="Mais informações" onclick="fade('descricao2', this)"/>  <a href="calendar.php"><input type="button" id="bc2" value="Cronograma"/>  <a href="inscricao-cursos-2013.php"><input type="button" id="bc2" value="Inscrição"/></a>
+                                            <strong>Descrição:</strong> São abordados conteúdos essenciais para o desenvolvimento de intervenções mais efetivas com relação à prevenção, promoção e reabilitação psicossocial de usuários de substâncias psicoativas a partir da integração entre os dispositivos assistenciais e comunidade e do fortalecimento das redes sociais. <br />
+						<input type="button" id="bc2" value="+ informações" onclick="fade('descricao2', this)"/>  
+						<a href="calendar.php"><input type="button" id="bc2" value="Cronograma"/>
+						<a href="inscricao-encerrada.php"><input type="button" id="bc2" value="Inscrição"/></a>
+						<a href="resultado.php"><input type="button" id="bc2" value="Selecionados"/></a>
+						<a href="matricula.php"><input type="button" id="bc2" value="Matrícula"/></a>
+
 														<div id="descricao2">
-															<h3><a href="" target="blank">Cronograma</a></h3>
+															
 															<h3>Ementa</h3>
 															<h4>Epidemiologia do consumo substâncias psicoativas</h4>
 															<ul>
@@ -198,11 +215,16 @@
                               
                               			<div id="c3">
                                         	<a name="c3"></a><h2>Curso de Aperfeiçoamento em Crack e Outras Drogas para Profissionais Atuantes no Programa de Saúde da Família (PSF) e no Núcleo de Assistência à Saúde da Família (NASF)</h2>
-                                            <strong>Vagas:</strong>80<br />
+                                            <strong>Vagas 2014:</strong>40 em Fev/2014<br />
                                             <strong>Público Alvo:</strong>Profissionais atuantes no Programa de Saúde da Família  (tais como médicos, enfermeiros, auxiliares de enfermagem, agentes comunitários de saúde, dentre outros) e no Núcleo de Assistência à Saúde da Família.<br />
-                                            <strong>Descrição: </strong>O curso terá como objetivo qualificar profissionais da rede básica para realizar o atendimento de usuários de crack, álcool e outras drogas, contribuindo para a aquisição de conhecimentos essenciais para o desenvolvimento de intervenções mais efetivas na promoção, prevenção e reabilitação psicossocial de usuários. <br /> <input type="button" id="bc3" value="Mais informações" onclick="fade('descricao3', this)"/> <a href="calendar.php"><input type="button" id="bc3" value="Cronograma"/>  <a href="inscricao-cursos-2013.php"><input type="button" id="bc3" value="Inscrição"/></a>
+                                            <strong>Descrição: </strong>O curso terá como objetivo qualificar profissionais da rede básica para realizar o atendimento de usuários de crack, álcool e outras drogas, contribuindo para a aquisição de conhecimentos essenciais para o desenvolvimento de intervenções mais efetivas na promoção, prevenção e reabilitação psicossocial de usuários. <br /> 
+						<input type="button" id="bc3" value="+ informações" onclick="fade('descricao3', this)"/> 
+						<a href="calendar.php"><input type="button" id="bc3" value="Cronograma"/>  
+						<a href="inscricao-cursos-2013.php"><input type="button" id="bc3" value="Inscrição"/></a> 
+						<a href="resultado.php"><input type="button" id="bc3" value="Selecionados"/></a>
+						<a href="matricua.php"><input type="button" id="bc3" value="Matrícula"/></a>
                                           <div id="descricao3">
-															<h3><a href="" target="blank">Cronograma</a></h3>
+															
 															<h3>Ementa</h3>
 															<h4>Políticas Públicas</h4>
 															<ul>
@@ -211,23 +233,23 @@
 																<li>Políticas Públicas de Saúde Mental</li>
 																<li>Políticas Públicas para usuários de álcool e outras drogas</li>
 															</ul>
-															<h3>Rede Assistencial</h3>
+															<h4>Rede Assistencial</h4>
 															<ul>
 																<li>O papel dos diferentes dispositivos da rede assistencial</li>
 																<li>Discutindo estratégias de integração da rede assistencial</li>
 															</ul>
-															<h3>Neurobiologia</h3>
+															<h4>Neurobiologia</h4>
 															<ul>
 																<li>Classificação das substâncias psicoativas de acordo com os efeitos no Sistema Nervoso Central (SNC)</li>
 																<li>Principais efeitos no SNC</li>
 															</ul>
-															<h3>Epidemiologia</h3>
+															<h4>Epidemiologia</h4>
 															<ul>
 																<li>Padrões de uso de substâncias psicoativas</li>
 																<li>Principais indicadores epidemiológicos</li>
 															</ul>
 															
-															<h3>Avaliação Psiquiátrica e Comorbidades</h3>
+															<h4>Avaliação Psiquiátrica e Comorbidades</h4>
 															<ul>
 																<li>Comorbidades em saúde mental</li>
 																<li>Diagnósticos psiquiátricos mais frequentes entre usuários de drogas</li>
@@ -236,48 +258,49 @@
 																<li>Tratamento farmacológico</li>
 															</ul>
 															
-															<h3>Critérios para Internação</h3>
+															<h4>Critérios para Internação</h4>
 															<ul>
 																<li>Internação versus Tratamento Ambulatorial</li>
 																<li>Critérios ASAM (Associação Norte-Americana de Medicina e Dependências): Vantagens e Limites.</li>
 																<li>Funções das diferentes modalidades de internação: intoxicação, abstinência, risco de vida, interrupção do uso compulsivo.</li>
 																<li>Modalidades, duração, setting e projetos terapêuticos para diferentes indicações de internação</li>
 															</ul>
-															<h3>Desintoxicação</h3>
+
+															<h4>Desintoxicação</h4>
 															<ul>
 																<li>Condutas clínicas no tratamento da intoxicação</li>
 																<li>Exames complementares na interpretação e avaliação da intoxicação</li>
 															</ul>
-															<h3>Entrevista Motivacional</h3>
+															<h4>Entrevista Motivacional</h4>
 															<ul>
 																<li>Ambivalência</li>
 																<li>Conceituando motivação</li>
-															   <li>Princípios básicos da entrevista motivacional</li>
+															   	<li>Princípios básicos da entrevista motivacional</li>
 																<li>Estratégias motivacionais eficazes</li>
 															</ul>
-															<h3>Triagem</h3>
+															<h4>Triagem</h4>
 															<ul>
 																<li>Triagem para uso de álcool (AUDIT)</li>
 																<li>Triagem para uso de tabaco, álcool e outras drogas (ASSIST)</li>
 																<li>Triagem de adolescentes (DUSI)</li>
 															</ul>
-															<h3>Intervenções Breves</h3>
+															<h4>Intervenções Breves</h4>
 															<ul>
 																<li>Intervenções breves como prática de prevenção e como estratégia de referenciamento de usuários de substância psicoativas.</li>
 																<li>Método FRAMES</li>
 																<li>Implementação de práticas de prevenção na rede assistencial</li>
 															</ul>
-															<h3>Redução de Danos</h3>
+															<h4>Redução de Danos</h4>
 															<ul>
 																<li>Redução de danos como estratégia de prevenção.</li>
 																<li>Redução de danos como prática de tratamento.</li>
 															</ul>
-															<h3>Reabilitação Psicossocial e Gerenciamento de Casos</h3>
+															<h4>Reabilitação Psicossocial e Gerenciamento de Casos</4>
 															<ul>
 																<li>Avaliação Psicossocial</li>
 																<li>Recursos comunitários para prevenção e reabilitação de usuários de drogas.</li>
 															</ul>
-															<h3>Abordagens com familiares</h3>
+															<h4>Abordagens com familiares</h4>
 															<ul>
 																<li>O papel da família como fator de risco e proteção.</li>
 																<li>A importância do envolvimento familiar na reabilitação de usuários de drogas.</li>
@@ -287,12 +310,17 @@
                                         </div>
                                         
                                         <div id="c4">
-                                        	<a name="c4"></a><h2>Curso de Atualização em Atenção Integral aos Usuários de Crack e Outras Drogas para Profissionais que atuam em Hospitais  Gerais e Centros de Atenção Psicossocial (CAPS)</h2>
-                                            <strong>Vagas:</strong>100<br />
+                                        	<a name="c4"></a><h2>Curso de Aperfeiçoamento em Atenção Integral aos Usuários de Crack e Outras Drogas para Profissionais que atuam em Hospitais  Gerais e Centros de Atenção Psicossocial (CAPS)</h2>
+                                            <strong>Vagas 2013:</strong>Esgotadas<br />
                                             <strong>Público Alvo:</strong>Profissionais de Hospitais Gerais e CAPS.<br />
-                                            <strong>Descrição:</strong>O curso terá como objetivo qualificar o profissional de saúde a realizar o atendimento de usuários de crack e outras drogas em hospital geral e CAPS, contribuindo para aquisição de conhecimentos essenciais para o desenvolvimento de intervenções mais efetivas na prevenção, promoção e reabilitação psicossocial de usuários de substâncias psicoativas. <br /><input type="button" id="bc4" value="Mais informações" onclick="fade('descricao4', this)"/>  <a href="calendar.php"><input type="button" id="bc4" value="Cronograma"/> <a href="inscricao-cursos-2013.php"><input type="button" id="bc4" value="Inscrição"/></a>
+                                            <strong>Descrição:</strong>O curso terá como objetivo qualificar o profissional de saúde a realizar o atendimento de usuários de crack e outras drogas em hospital geral e CAPS, contribuindo para aquisição de conhecimentos essenciais para o desenvolvimento de intervenções mais efetivas na prevenção, promoção e reabilitação psicossocial de usuários de substâncias psicoativas. 
+					    <br /><input type="button" id="bc4" value="+ informações" onclick="fade('descricao4', this)"/>
+					    <a href="calendar.php"><input type="button" id="bc4" value="Cronograma"/> 
+                                            <a href="inscricao-encerrado.php"><input type="button" id="bc4" value="Inscrição"/></a>
+                                            <a href="resultado.php"><input type="button" id="bc4" value="Selecionados"/></a>
+					    <a href="matricula.php"><input type="button" id="bc4" value="Matrícula"/></a>
                                           <div id="descricao4">
-															<h3><a href="" target="blank">Cronograma</a></h3>
+															
 															<h3>Ementa</h3>
 															<h4>Epidemiologia do consumo substâncias psicoativas</h4>
 															<ul>
@@ -363,39 +391,44 @@
                                         </div>   
                                         
                                          <div id="c5">
-                                        	<a name="c5"></a><h2>Curso de Aperfeiçoamento sobre Crack e Outras Drogas para Agentes do Sistema Judiciário, do Ministério Público e da Segurança Pública</h2>
-                                            <strong>Vagas:</strong>80<br />
+                                            <a name="c5"></a><h2>Curso de Aperfeiçoamento sobre Crack e Outras Drogas para Agentes do Sistema Judiciário, do Ministério Público e da Segurança Pública</h2>
+                                            <strong>Vagas 2013:</strong>Esgotadas<br />
                                             <strong>Público Alvo:</strong>Agentes do Sistema Judiciário, do Ministério Público, da Segurança Pública, Defensoria Pública e OAB.<br />
-                                            <strong>Descrição:</strong>O curso terá como objetivo qualificar o profissional a realizar o atendimento  de usuários de crack e outras drogas no contexto da Justiça, contribuindo para aquisição de conhecimentos essenciais para o desenvolvimento de intervenções mais efetivas na prevenção, promoção e reabilitação psicossocial de usuários de substâncias psicoativas. <br /><input type="button" id="bc5" value="Mais informações" onclick="fade('descricao5', this)"/>  <a href="calendar.php"><input type="button" id="bc5" value="Cronograma"/> <a href="inscricao-cursos-2013.php"><input type="button" id="bc5" value="Inscrição"/></a>
+                                            <strong>Descrição:</strong>O curso terá como objetivo qualificar o profissional a realizar o atendimento  de usuários de crack e outras drogas no contexto da Justiça, contribuindo para aquisição de conhecimentos essenciais para o desenvolvimento de intervenções mais efetivas na prevenção, promoção e reabilitação psicossocial de usuários de substâncias psicoativas. <br />
+					    <input type="button" id="bc5" value="+ informações" onclick="fade('descricao5', this)"/>
+					    <a href="calendar.php"><input type="button" id="bc5" value="Cronograma"/> 
+                                            <a href="inscricao-encerrado.php"><input type="button" id="bc5" value="Inscrição"/></a>
+                                            <a href="resultado.php"><input type="button" id="bc5" value="Selecionados"/></a>
+					    <a href="matricula.php"><input type="button" id="bc5" value="Matrícula"/></a>
                                           <div id="descricao5">
-                                          <h4>Ementa</h4>
-														<h3>Política Nacional sobre Drogas</h3>
+                                          									<h3>Ementa</h3>
+														<h4>Política Nacional sobre Drogas</h4>
 														<ul>
 															<li>Políticas Públicas de Saúde</li>
 															<li>Políticas Públicas de Assistência Social</li>
 															<li>Políticas Públicas de Saúde Mental</li>
 															<li>Políticas Públicas para usuários de álcool e outras drogas</li>
 														</ul>
-														<h3>Sistema Judiciário</h3>
+														<h4>Sistema Judiciário</h4>
 														<ul>
 															<li>Criminalidade e Drogas</li>
 															<li>Lei de Drogas</li>
 															<li>Sistema Judiciário e suas inter-relações</li>
 															</ul>
-														<h3>Conceito de drogas</h3>
+														<h4>Conceito de drogas</h4>
 														<ul>
 															<li>Padrões de uso (intoxicação aguda, uso crônico, uso nocivo, dependência, abstinência)</li>
 															<li>Epidemiologia do uso de drogas no Brasil e no mundo</li>
 															<li>Principais quadros clínico-psicopatológicos decorrentes do uso das diversas drogas</li>
 														</ul>
- 														<h3>Abordagens terapêuticas do usuário de drogas:</h3>
+ 														<h4>Abordagens terapêuticas do usuário de drogas:</h4>
 														<ul>
 															<li>Manejo do paciente em estado de intoxicação</li>
 															<li>Intervenção breve e aconselhamento motivacional</li>
 															<li>Redução de danos</li>
 															<li>Reinserção social</li>
 														</ul>
-														<h3>Critérios clínicos para a internação e a para a alta de usuários de drogas</h3>
+														<h4>Critérios clínicos para a internação e a para a alta de usuários de drogas</h4>
 														<ul>
 															<li>Internações voluntária</li>
 															<li>Involuntária e compulsória.</li>
@@ -406,11 +439,18 @@
                                         
                                           <div id="c6">
                                         	<a name="c6"></a><h2>Curso de Aperfeiçoamento sobre Crack e outras Drogas para Profissionais do Poder Judiciário, Ministério Público e entidades que atuam no atendimento/apoio a adolescentes em cumprimento de medidas socioeducativas, com privação de liberdade</h2>
-                                            <strong>Vagas:</strong>160 (80 vagas para 2013 e 80 vagas para 2014)<br />
+                                            <strong>Vagas 2014:</strong>Esgotadas<br />
                                             <strong>Público Alvo:</strong>Profissionais do Poder Judiciário, Ministério Público, Defensoria Pública, OAB, Conselho Tutelar e entidades que atuam no atendimento/apoio a adolescentes em cumprimento de medidas sócio-educativas ou com privação de liberdade.<br />
-                                            <strong>Descrição:</strong>Serão abordados conteúdos para o desenvolvimento de intervenções mais efetivas com relação à prevenção, promoção e reinserção social de adolescentes usuários de substâncias psicoativas a partir do fortalecimento das redes de serviços, contribuindo para o  desenvolvimento mais saudável e minimizando riscos.<br /><input type="button" id="bc6" value="Mais informações" onclick="fade('descricao6', this)"/>  <a href="calendar.php"><input type="button" id="bc6" value="Cronograma"/>  <a href="inscricao-cursos-2013.php"><input type="button" id="bc6" value="Inscrição"/></a>
-                                          <div id="descricao6">
-                                          <h3>Ementa:</h3>
+                                            <strong>Descrição:</strong>Serão abordados conteúdos para o desenvolvimento de intervenções mais efetivas com relação à prevenção, promoção e reinserção social de adolescentes usuários de substâncias psicoativas a partir do fortalecimento das redes de serviços, contribuindo para o  desenvolvimento mais saudável e minimizando riscos.<br />
+					    <input type="button" id="bc6" value="+ informações" onclick="fade('descricao6', this)"/>  
+					    <a href="calendar.php"><input type="button" id="bc6" value="Cronograma"/> 
+                                            <a href="inscricao-encerrado.php"><input type="button" id="bc6" value="Inscrição"/></a>
+                                            <a href="resultado.php"><input type="button" id="bc6" value="Selecionados"/></a>
+					    <a href="matricula.php"><input type="button" id="bc6" value="Matrícula"/></a>
+                                
+
+          <div id="descricao6">
+                                          									<h3>Ementa:</h3>
 														<h4>Políticas setoriais de saúde, saúde mental e de assistência social</h4>
 														<ul>
 															<li>Políticas Públicas de Saúde</li>
@@ -459,6 +499,6 @@
      		<?php include('../layout/footer.php') ?>
      </div> 
 </body>
-<SCRIPT>function fade(div_id,button){if(button.value=='Mais informações'){$('#'+div_id).fadeIn('slow');button.value='Esconder';}
-else{$('#'+div_id).fadeOut('slow');button.value='Mais informações';}}</SCRIPT>
+<SCRIPT>function fade(div_id,button){if(button.value=='+ informações'){$('#'+div_id).fadeIn('slow');button.value='Esconder';}
+else{$('#'+div_id).fadeOut('slow');button.value='+ informações';}}</SCRIPT>
 </html>

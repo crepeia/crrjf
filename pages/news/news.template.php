@@ -37,8 +37,8 @@
 					<div class="leftmenu">
                     	 <div id="navsite">
 	        				<?php include('../../layout/leftmenu.php'); ?>
-					    </div>
-                    </div>    
+						    </div>
+               </div>    
             
 		    			<div class="pagecontent">
         					<?php include '../../libraries/botoesnews.php'; ?>
@@ -47,9 +47,9 @@
                                 <?php include '../../libraries/addthis.php'; ?>                                
         								  <p></p> 
                            	  <?php include '../../libraries/addthis.php'; ?>
-						</div>
-                </div>
-
+									</div>
+               </div>
+					</div>
    		</div><!-- end.corpo --> 
      
     

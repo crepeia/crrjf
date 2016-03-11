@@ -319,24 +319,20 @@ p.inews {
 	padding:0 0 10px 7px;
 }
 
-#facebook {
+.fb-like {
 	float:left;
 	padding-top:1px;
 }
 
 #plusone {
 	float: left;
+	padding: 0 0 0 10px;
 }
 
 #twitter {
 	float:left;
 	padding-top:1px;
 	padding-left:10px;
-}
-
-#orkut-button {
-	float:left;
-	padding-right:5px;
 }
 
 #pagebottom {
@@ -652,8 +648,46 @@ CURSOS***********************/
     margin: 10px 0 10px 0;
 }
 
+#c7 h2, #c7 h3, #c7 h4, #c7 a {
+	color:rgb(225, 0, 0);
+	font-weight:bold;
+}
 
-#descricao1, #descricao2, #descricao3, #descricao4, #descricao5, #descricao6 {
+#bc7 {
+    padding: 3px 10px;
+    background: rgb(255, 0, 0);
+    color: #FFF;
+    border:none;
+    margin: 10px 0 10px 0;
+}
+
+#c7 h2, #c7 h3, #c7 h4, #c7 a {
+	color:rgb(225, 0, 255);
+	font-weight:bold;
+}
+
+#bc7 {
+    padding: 3px 10px;
+    background: rgb(255, 0, 255);
+    color: #FFF;
+    border:none;
+    margin: 10px 0 10px 0;
+}
+
+#c8 h2, #c8 h3, #c8 h4, #c8 a {
+	color:rgb(0, 102, 102);
+	font-weight:bold;
+}
+
+#bc8 {
+    padding: 3px 10px;
+    background: rgb(0, 102, 102);
+    color: #FFF;
+    border:none;
+    margin: 10px 0 10px 0;
+}
+
+#descricao1, #descricao2, #descricao3, #descricao4, #descricao5, #descricao6, #descricao7 #descricao8 {
 	display:none;
 }
 

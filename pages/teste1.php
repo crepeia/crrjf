@@ -1,8 +1,8 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Calendário de atividades dos cursos de 2013 | CRRjf</title>
+<title>Mapeamento | CRRjf</title>
 <link rel="shortcut icon" href="http://www.uaihealth.com/favicon.ico" />
 <?php include '../variables/variables.php' ?>
 <link type="text/css" rel="stylesheet" href="<?php echo '../style/core.css' ?>" />
@@ -41,20 +41,13 @@
             
 		    			<div class="pagecontent">
         					<?php include('../layout/pagecontent.php') ?>
-        					<h1>Calendário dos cursos de 2013 e 2014</h1>
-        					<p>Legenda</p>
-        					<ul>
-        						<li>Hospital Geral e Centros de Atenção Psicossocial - HOSP</li>
-        						<li>Intervenção Breve e Aconselhamento Motivacional - IBAM</li>
-        						<li>Gerenciamento de Caso e Reinserção Social - GCRS</li>
-        						<li>Sistema Judiciário, Ministério Público e Segurança Pública - JUST</li>
-        						<li>Profissionais da Atenção Primária em Saúde (PSF e NASF) - APS</li>
-        						<li>Atendimento a adolescentes privados de liberdade - ADOLES </li>        						
-        					</ul>
-        					 					
-<iframe src="https://www.google.com/calendar/embed?showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=1500&amp;wkst=1&amp;hl=pt_BR&amp;bgcolor=%23fff&amp;src=d9nskq7dhahjhjimokcnuqgvpc%40group.calendar.google.com&amp;color=%23ffffff&amp;ctz=America%2FSao_Paulo" style="border:solid 1px #fff;" width="800" height="2800" frameborder="0" scrolling="no"></iframe>
 
-						</div>
+
+
+
+<iframe width="800" height="3300" scrolling="yes" frameborder="no" src="https://khqfi-0.enketo.org/webform?iframe=true"></iframe>	
+		
+</div>
                 </div>
 
    		</div><!-- end.corpo --> 
